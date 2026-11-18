@@ -66,6 +66,20 @@ Find a Grave, memorial 133020303, Margaretha Hohn (https://www.findagrave.com/me
 - His usual residence was **461 Brook Avenue, Bronx**, in the same Mott Haven neighborhood as the family's 1906 and 1911 addresses. His parents' names are blank, and the burial place is "City" (the public burial ground).
 - **Assessment:** possibly Anna's father. The name, age and birthplace fit, and so does the neighborhood. But it has no informant, no names of relatives, and the wrong "years in US", so it is not proven. The family's death year of 1936 does not match, but that year is from memory.
 
+### 7a. Probable naturalization: Superior Court of the City of New York, 1886–1888
+"New York, U.S., State and Federal Naturalization Records, 1794-1943", Ancestry: declaration of intention (https://www.ancestry.com/search/collections/2280/records/336039 : accessed 17 November 2026) and oath of allegiance (https://www.ancestry.com/search/collections/2280/records/336040); Superior Court of the City of New York, bundle 432, record 2; citing National Archives at New York City, Petitions for Naturalization, 1793-1906, NAI 5324244, RG 85.
+- **Declaration**, 4 Jun 1886: "Jacob Höhn" renounces allegiance to the "Emperor of Germany". This is the standard printed wording for any subject of the German Empire, so it says nothing about his home town.
+- **Oath**, 24 Oct 1888: Jacob Höhn, occupation **brewer**, residence 167(?) First Ave. His witness was George Rockelein(?) of 2?4 11th Ave, who swore that he had known Jacob in the US for 5 years.
+- **Assessment:** probably our Jacob. The spelling Höhn, the First Avenue address, the 5-year wait after an 1883 arrival, and "naturalized" in the 1900 census all fit. However, his occupation is "brewer", not the "grocer" of 1900. **No German town is given.** The witness may be worth tracing; he could be a relative or someone from the same village.
+
+### 7b. Searches with no useful result (17 Nov 2026)
+- **German Genealogy Group naturalization index** (germangenealogygroup.com): Hohn/Hoehn/Hoene entries found are all different people (Bronx 1914+, Brooklyn federal court, NJ 1935). The index doesn't cover Manhattan state courts before 1906.
+- **Ancestry U.S. City Directories (collection 2469)**, NYC, Jacob Hohn/Hoehn, 1899–1915: every hit is a different man (a carpenter at 653 Courtlandt Ave in 1899, a polisher on Diamond St in 1904, Brooklyn engineers and bartenders, a poultry dealer in 1915). Ancestry's coverage of Manhattan directories for 1884–1898 is thin.
+- **1905 NY state census (Ancestry 7364)**: the only Jacob Hohn in the Bronx was 42 with wife Caroline (a different family). No Margaret or Anna Hohn/Hoehn of the right age in Manhattan or the Bronx.
+- **1910 federal census and 1915 NY state census**: no match for Jacob (b. about 1850) or Anna (b. about 1883–84). The family is probably mis-indexed, as Anna was in 1900.
+- **NYS Historic Newspapers**: no hits for Jacob, Margaretha or Adam Hoehn/Hohn. The site covers mostly upstate papers.
+- **Chronicling America**: the Library of Congress site blocked automated searching, so it was not searched. It needs to be searched by hand.
+
 ### 8. Records checked and ruled out
 - **Carl Hoene, WeRelate** (https://www.werelate.org/wiki/Person:Carl_Hoene_(1), accessed 17 November 2026): no sources and no events except "b. 1851 Germany, d. 1936". The page was last edited in 2012. This is the only "source" on Hoene-55.
 - **Rudolf Hahn/Hohn**, born 11 Aug 1883, 1446 Second Ave, Manhattan, to Jacob and Margaretha (B-M-1883-0374045, https://a860-historicalvitalrecords.nyc.gov/view/87151). This is a different family: the mother was née Schlick of Asselheim, Bavaria, the father was from Landau, and Rudolf was the 8th child.

@@ -1,0 +1,43 @@
+{
+  "action": "edit",
+  "status": "ready",
+  "wikitree_id": null,
+  "summary": "Amendment to drafts/NEW-Mullen-Susan.json (not yet saved): middle initial T.; born about 1861 Cambridge MA; parents James and Catharine Mullen; married James W. O'Donnell 21 Sep 1882 Boston.",
+  "manager_note": "Merge into NEW-Mullen-Susan.json before saving.",
+  "changes": [
+    {
+      "field": "MiddleName",
+      "to": "T.",
+      "cites": [
+        "marr1882"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "1861",
+      "status": "about",
+      "cites": [
+        "marr1882"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Cambridge, Middlesex, Massachusetts, United States",
+      "cites": [
+        "marr1882"
+      ]
+    },
+    {
+      "field": "Spouse",
+      "to": "James W. O'Donnell, married 21 Sep 1882, Boston, Suffolk, Massachusetts, United States",
+      "cites": [
+        "marr1882"
+      ]
+    }
+  ],
+  "biography": "Sentence to add after the opening sentence:\nSusan T. Mullen was born in Cambridge, Massachusetts, about 1861, the daughter of James and Catharine Mullen, and married James W. O'Donnell in Boston on 21 September 1882.<ref name=\"marr1882\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Groom 23, brass finisher, born England, parents Jerome and Elizabeth; bride 21, born Cambridge, parents James and Catharine.</ref>\n* Research note: her parents James and Catharine Mullen are not yet researched.\n",
+  "edit_summary": "Birth and marriage details from 1882 marriage record.",
+  "sources": {
+    "marr1882": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Groom 23, brass finisher, born England, parents Jerome and Elizabeth; bride 21, born Cambridge, parents James and Catharine."
+  }
+}

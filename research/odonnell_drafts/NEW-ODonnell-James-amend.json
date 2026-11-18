@@ -1,0 +1,86 @@
+{
+  "action": "edit",
+  "status": "ready",
+  "wikitree_id": null,
+  "summary": "Amendment to drafts/NEW-ODonnell-James.json (not yet saved): born Aug 1858/1859 City of London; brass finisher; married Susan T. Mullen 21 Sep 1882 Boston; died 14 Jun 1926 Boston; parents NEW Jeremiah O'Donnell and NEW Eliza (O'Hea).",
+  "manager_note": "Merge into NEW-ODonnell-James.json before saving; replace its short biography with the one below.",
+  "changes": [
+    {
+      "field": "MiddleName",
+      "to": "William",
+      "cites": [
+        "birth1859"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "1859",
+      "status": "about",
+      "cites": [
+        "birth1859",
+        "cen1861",
+        "marr1882"
+      ],
+      "reason": "Birth registered Jul-Sep 1859; age 1 in Apr 1861; 23 in Sep 1882. FamilySearch tree says Aug 1858."
+    },
+    {
+      "field": "BirthLocation",
+      "to": "City of London, London, England",
+      "cites": [
+        "cen1861",
+        "birth1859"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "to": "14 Jun 1926",
+      "status": "",
+      "cites": [
+        "jwgrave"
+      ]
+    },
+    {
+      "field": "DeathLocation",
+      "to": "Boston, Suffolk, Massachusetts, United States",
+      "cites": [
+        "jwgrave"
+      ]
+    },
+    {
+      "field": "Spouse",
+      "to": "Susan T. Mullen (drafts/NEW-Mullen-Susan.json), married 21 Sep 1882, Boston, Suffolk, Massachusetts, United States",
+      "cites": [
+        "marr1882"
+      ]
+    },
+    {
+      "field": "Father",
+      "to": "NEW-ODonnell-Jeremiah",
+      "cites": [
+        "marr1882",
+        "cen1861",
+        "cen1870"
+      ]
+    },
+    {
+      "field": "Mother",
+      "to": "NEW-OHea-Eliza",
+      "cites": [
+        "marr1882",
+        "cen1861",
+        "cen1870"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nJames William O'Donnell was born in the City of London in 1859, the son of Jeremiah (Jerome) O'Donnell, a tailor from Ireland, and his wife Eliza.<ref name=\"birth1859\">\"England & Wales, Civil Registration Birth Index, 1837-1915\", database, Ancestry (https://www.ancestry.com/search/collections/8912/records/25344039 : accessed 18 November 2026), James William O'Donnell, Jul-Sep quarter 1859, City of London, vol. 1c, p. 76.</ref><ref name=\"cen1861\">\"1861 England Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/8767/records/5480522 : accessed 18 November 2026), St Benet, City of London, ED 9, schedule 52; TNA RG 9/227, folio 76, p. 9. Jeremiah O'Donnell (indexed \"Samuel\"), head, 26, tailor, born Ireland; Eliza, wife, 25, born Ireland; James W., son, 1, born St Benet, London.</ref> By 1870 the family had moved to Cambridge, Massachusetts.<ref name=\"cen1870\">\"1870 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7163/records/26847081 : accessed 18 November 2026), Cambridge Ward 4, Middlesex, Massachusetts, dwelling 82; NARA M593 roll 624, p. 591A. Jeremiah O'Donnell 35, Eliza 28, James W. 10 (born England), Michael J. 8 (born England), Jerome J. 2.</ref><ref name=\"cen1880\">\"1880 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/6742/records/15361280 : accessed 18 November 2026), 8 Davis St, Cambridge, Middlesex, Massachusetts, ED 431, p. 309A. Jeremiah O'Donnell, 45, widower, tailor, born Ireland; children James 19, Michael 18, Joseph 12, Julia 9, Francis 7, Lizzie 5.</ref>\n\nOn 21 September 1882 in Boston, James, then a brass finisher, married Susan T. Mullen, aged 21, who was born in Cambridge, the daughter of James and Catharine Mullen.<ref name=\"marr1882\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Groom 23, brass finisher, born England, parents Jerome and Elizabeth; bride 21, born Cambridge, parents James and Catharine.</ref> Their son Joseph F. O'Donnell was born in 1891.<ref name=\"marr1920\">\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:23RL-DL1 : accessed 17 November 2026), Joseph F O'Donnell and Lillian J Currier, married 28 Jun 1920, Boston, Suffolk, Massachusetts; certificate 3586, page 276. Groom's parents James W O'Donnell and Susan Mullen; bride's parents Lawson W Currier and Hannah L Murphy.</ref>\n\nJames died on 14 June 1926 and was buried at St Joseph Cemetery, West Roxbury.<ref name=\"jwgrave\">\"Find a Grave Index\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6LXQ-YW8Q : accessed 18 November 2026), James William O'Donnell Sr, 1859 - 14 Jun 1926, burial West Roxbury, Suffolk, Massachusetts.</ref>\n\n=== Research Notes ===\n* His 1926 Massachusetts death certificate has not been seen; the death date comes from the Find a Grave index.\n\n== Sources ==\n<references />\n",
+  "edit_summary": "Birth, marriage, parents and death added from 1859 GRO index, 1861 census, 1882 marriage and burial index.",
+  "sources": {
+    "birth1859": "\"England & Wales, Civil Registration Birth Index, 1837-1915\", database, Ancestry (https://www.ancestry.com/search/collections/8912/records/25344039 : accessed 18 November 2026), James William O'Donnell, Jul-Sep quarter 1859, City of London, vol. 1c, p. 76.",
+    "cen1861": "\"1861 England Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/8767/records/5480522 : accessed 18 November 2026), St Benet, City of London, ED 9, schedule 52; TNA RG 9/227, folio 76, p. 9. Jeremiah O'Donnell (indexed \"Samuel\"), head, 26, tailor, born Ireland; Eliza, wife, 25, born Ireland; James W., son, 1, born St Benet, London.",
+    "cen1870": "\"1870 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7163/records/26847081 : accessed 18 November 2026), Cambridge Ward 4, Middlesex, Massachusetts, dwelling 82; NARA M593 roll 624, p. 591A. Jeremiah O'Donnell 35, Eliza 28, James W. 10 (born England), Michael J. 8 (born England), Jerome J. 2.",
+    "cen1880": "\"1880 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/6742/records/15361280 : accessed 18 November 2026), 8 Davis St, Cambridge, Middlesex, Massachusetts, ED 431, p. 309A. Jeremiah O'Donnell, 45, widower, tailor, born Ireland; children James 19, Michael 18, Joseph 12, Julia 9, Francis 7, Lizzie 5.",
+    "marr1882": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Groom 23, brass finisher, born England, parents Jerome and Elizabeth; bride 21, born Cambridge, parents James and Catharine.",
+    "marr1920": "\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:23RL-DL1 : accessed 17 November 2026), Joseph F O'Donnell and Lillian J Currier, married 28 Jun 1920, Boston, Suffolk, Massachusetts; certificate 3586, page 276. Groom's parents James W O'Donnell and Susan Mullen; bride's parents Lawson W Currier and Hannah L Murphy.",
+    "jwgrave": "\"Find a Grave Index\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6LXQ-YW8Q : accessed 18 November 2026), James William O'Donnell Sr, 1859 - 14 Jun 1926, burial West Roxbury, Suffolk, Massachusetts."
+  }
+}

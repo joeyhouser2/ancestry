@@ -1,0 +1,106 @@
+{
+  "action": "create",
+  "status": "ready",
+  "wikitree_id": null,
+  "user_id": null,
+  "relation": {
+    "to": "NEW James W. O'Donnell (drafts/NEW-ODonnell-James.json)",
+    "as": "father"
+  },
+  "summary": "Create Jeremiah (Jerome) O'Donnell (about 1835 Ireland - 17 Nov 1882 Boston), a tailor in London (1861) and Cambridge MA (1870-80), father of James W. O'Donnell. Duplicate check (WikiTree API, 18 Nov 2026): no match.",
+  "changes": [
+    {
+      "field": "FirstName",
+      "to": "Jeremiah",
+      "cites": [
+        "cen1861",
+        "cen1870",
+        "cen1880",
+        "jerdeath"
+      ]
+    },
+    {
+      "field": "LastNameAtBirth",
+      "to": "O'Donnell",
+      "cites": [
+        "jerdeath"
+      ]
+    },
+    {
+      "field": "Nicknames",
+      "to": "Jerome",
+      "cites": [
+        "marr1882"
+      ]
+    },
+    {
+      "field": "Gender",
+      "to": "Male",
+      "cites": [
+        "jerdeath"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "1835",
+      "status": "about",
+      "cites": [
+        "jerdeath",
+        "cen1861",
+        "cen1880"
+      ],
+      "reason": "Age 47y 3m 7d at death on 17 Nov 1882 gives about 10 Aug 1835."
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Ireland",
+      "cites": [
+        "jerdeath",
+        "cen1861",
+        "cen1880"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "to": "17 Nov 1882",
+      "status": "certain",
+      "cites": [
+        "jerdeath"
+      ]
+    },
+    {
+      "field": "DeathLocation",
+      "to": "Boston, Suffolk, Massachusetts, United States",
+      "cites": [
+        "jerdeath"
+      ]
+    },
+    {
+      "field": "Spouse",
+      "to": "NEW Eliza (O'Hea) O'Donnell",
+      "cites": [
+        "cen1861",
+        "cen1870",
+        "marr1882"
+      ]
+    },
+    {
+      "field": "Child",
+      "to": "NEW James W. O'Donnell (1859-1926)",
+      "cites": [
+        "cen1861",
+        "cen1870",
+        "marr1882"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nJeremiah O'Donnell was born in Ireland about August 1835, the son of Joseph and Mary O'Donnell.<ref name=\"jerdeath\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NWMQ-N7N : accessed 18 November 2026), Jeremiah O'Donnell, died 17 Nov 1882, Boston, entry 7907; widowed, 47 years 3 months 7 days, tailor, born Ireland; parents Joseph and Mary.</ref> He was a tailor.\n\nIn 1861 he was living in the parish of St Benet in the City of London with his wife Eliza, also born in Ireland, and their son James W., aged 1.<ref name=\"cen1861\">\"1861 England Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/8767/records/5480522 : accessed 18 November 2026), St Benet, City of London, ED 9, schedule 52; TNA RG 9/227, folio 76, p. 9. Jeremiah O'Donnell (indexed \"Samuel\"), head, 26, tailor, born Ireland; Eliza, wife, 25, born Ireland; James W., son, 1, born St Benet, London.</ref> By 1868 the family had moved to Massachusetts. In 1870 they lived in Cambridge, with sons James W. and Michael J. (both born in England) and Jerome J.<ref name=\"cen1870\">\"1870 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7163/records/26847081 : accessed 18 November 2026), Cambridge Ward 4, Middlesex, Massachusetts, dwelling 82; NARA M593 roll 624, p. 591A. Jeremiah O'Donnell 35, Eliza 28, James W. 10 (born England), Michael J. 8 (born England), Jerome J. 2.</ref> In 1880 Jeremiah was a widower at 8 Davis Street, Cambridge, with children James, Michael, Joseph, Julia, Francis and Lizzie.<ref name=\"cen1880\">\"1880 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/6742/records/15361280 : accessed 18 November 2026), 8 Davis St, Cambridge, Middlesex, Massachusetts, ED 431, p. 309A. Jeremiah O'Donnell, 45, widower, tailor, born Ireland; children James 19, Michael 18, Joseph 12, Julia 9, Francis 7, Lizzie 5.</ref> His name was given as Jerome on his son James's 1882 marriage record.<ref name=\"marr1882\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Groom 23, brass finisher, born England, parents Jerome and Elizabeth; bride 21, born Cambridge, parents James and Catharine.</ref>\n\nJeremiah died in Boston on 17 November 1882, aged 47, of pneumonia.<ref name=\"jerdeath\" />\n\n=== Research Notes ===\n* Probably married at St Martin in the Fields, London, in late 1856 (FreeBMD vol. 1a p. 558; the bride on that page is indexed as Elizabeth Delay/Le Lay, possibly a misreading of O'Hea). Not yet confirmed.\n* His Irish home place is not known.\n\n== Sources ==\n<references />\n",
+  "edit_summary": "Created from 1861 England census, 1870/1880 US censuses, son's 1882 marriage and 1882 death record.",
+  "sources": {
+    "jerdeath": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NWMQ-N7N : accessed 18 November 2026), Jeremiah O'Donnell, died 17 Nov 1882, Boston, entry 7907; widowed, 47 years 3 months 7 days, tailor, born Ireland; parents Joseph and Mary.",
+    "cen1861": "\"1861 England Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/8767/records/5480522 : accessed 18 November 2026), St Benet, City of London, ED 9, schedule 52; TNA RG 9/227, folio 76, p. 9. Jeremiah O'Donnell (indexed \"Samuel\"), head, 26, tailor, born Ireland; Eliza, wife, 25, born Ireland; James W., son, 1, born St Benet, London.",
+    "cen1870": "\"1870 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7163/records/26847081 : accessed 18 November 2026), Cambridge Ward 4, Middlesex, Massachusetts, dwelling 82; NARA M593 roll 624, p. 591A. Jeremiah O'Donnell 35, Eliza 28, James W. 10 (born England), Michael J. 8 (born England), Jerome J. 2.",
+    "cen1880": "\"1880 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/6742/records/15361280 : accessed 18 November 2026), 8 Davis St, Cambridge, Middlesex, Massachusetts, ED 431, p. 309A. Jeremiah O'Donnell, 45, widower, tailor, born Ireland; children James 19, Michael 18, Joseph 12, Julia 9, Francis 7, Lizzie 5.",
+    "marr1882": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Groom 23, brass finisher, born England, parents Jerome and Elizabeth; bride 21, born Cambridge, parents James and Catharine."
+  }
+}

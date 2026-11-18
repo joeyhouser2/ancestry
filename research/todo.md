@@ -58,11 +58,22 @@ Goal: find the parents of Joseph McGlynn (b. Mar 1855, NY) and of Ellen Carroll 
 - [ ] **Ellen McGlynn's NJ death certificate**, Bayonne, Dec 1932 (parents' names). Order from the NJ Department of Health.
 - [ ] **Joseph McGlynn's death**, probably Bayonne, 1900–1915. Search the NJ State Archives death index, then order the certificate.
 
-## Needs a FamilySearch sign-in
-- [ ] 1905 NJ state census: the McGlynn household in Bayonne.
-- [ ] "New Jersey Deaths" index: Ellen (1932) and Joseph (1900–1915).
-- [ ] NY State birth index, 1888 (Joseph Jr., Feb) and 1893 (John, 9 Jan): the town of birth. It is also on archive.org (Reclaim the Records).
-- [ ] 1910 census: the Bayonne household, probably mis-indexed.
+## Found 18 Nov 2026 (see findings §3–6)
+- [x] Eldest son Thomas Joseph born in Ossining, 6 Feb 1888 (WWII draft card).
+- [x] Anna born 10 Sep 1900 in Bayonne, baptized to Joseph McGlynn and Ellen Carroll.
+- [x] Ellen's grave: Holy Name Cemetery, Jersey City, F/72/5. The plot also holds Rose G. McGlynn (1904), Martin McGlynn (1914), Jean McGlynn (1947) and the MacGillivrays.
+- [x] A possible death of Joseph: Bayonne, 23 Sep 1904 (Jersey Journal obituary, 26 Sep 1904). Not proven.
+
+## Next
+- [ ] **Jersey Journal, 26–27 Sep 1904**: read Joseph McGlynn's obituary on GenealogyBank (subscription) or the Jersey City Free Public Library microfilm. Is he Ellen's husband? Does it give his birthplace and parents?
+- [ ] **Archdiocese of Newark manual genealogy search** ($25 first name, $5 each additional; rcancem.org/genealogy):
+  - Holy Name plot F/72/5: Rose G. (1904), Martin (1914) and Jean (1947) McGlynn.
+  - It gives ages and last addresses.
+  - It also shows where Joseph was buried if he is not in this plot.
+- [ ] **NJ death certificates**: Joseph (Sep 1904) and Martin (Jul 1914). NJ State Archives holds deaths from those years.
+- [ ] **St. Augustine's, Ossining**: Thomas Joseph's baptism (Feb 1888) as well as the April 1887 marriage.
+- [ ] 1905 NJ state census and 1910 census: the Bayonne household. FamilySearch's search did not surface it; try browsing the images for Bayonne Ward 2.
+- [ ] NY State birth index for John, 9 Jan 1893 (Albany?). It is not indexed on FamilySearch's search; browse the 1893 index images on archive.org (Reclaim the Records).
 
 ## Other
 - [ ] **Ellen's obituary clipping**, Bayonne Times, 22 Dec 1932 (Newspapers.com image 909338190): her brothers' names and towns, her church, her cemetery. Use a Newspapers.com trial or the Bayonne library microfilm.

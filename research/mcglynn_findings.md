@@ -29,6 +29,45 @@ Researched 17 November 2026 on Ancestry, Find a Grave and Newspapers.com thumbna
 - The thumbnail headline reads roughly "Mrs. McGlynn, 2? Years Here, Dies". The number is unreadable, and it may give her years in Bayonne.
 - The full clipping needs a Newspapers.com subscription (or the Bayonne library's microfilm). It should give her brothers' surnames and towns, her church, her cemetery and possibly her Irish county.
 
+## FamilySearch session (18 November 2026, signed in)
+
+### 3. Eldest son: Thomas Joseph McGlynn, born in Ossining, 6 Feb 1888
+"U.S., World War II Draft Registration Cards, 1942", Ancestry (https://www.ancestry.com/search/collections/1002/records/8874867 : accessed 18 November 2026), Thomas Joseph McGlynn, born 6 Feb 1888, **Ossining, New York**; residence Hudson County, New Jersey; next of kin Mrs. Mary McGlynn; NARA M1986 (4th registration, New Jersey). Also on FamilySearch, ark 1:1:XR1B-Y2Q.
+- **What it shows:**
+  - The "Joseph Jr., b. Feb 1888" of the 1900 census was **Thomas Joseph**. That may explain the family's memory of a "Thomas McGlynn".
+  - He was born in Ossining 9 months after his parents married there, so Joseph and Ellen were living in Ossining in 1887–88.
+  - So St. Augustine's parish in Ossining should hold both the 1887 marriage and this baptism.
+
+### 4. Daughter Anna: born and baptized in Bayonne, 1900, to Joseph McGlynn and Ellen Carroll
+"New Jersey, Births and Christenings, 1660-1980", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:H7WP-TBMM : accessed 18 November 2026), Ann McGlynn, born 10 Sep 1900, christened 16 Sep 1900, Bayonne, Hudson, New Jersey. Father Joseph, mother Ellen Carroll. A duplicate index entry is ark 1:1:H7XJ-CSPZ.
+- **What it proves:** the mother's maiden name Carroll, independently of the 1887 marriage index. Anna (later Mrs. William MacGillivray) was born in 1900, not about 1903 as the 1930 census implies.
+
+### 5. Ellen's grave: Holy Name Cemetery, Jersey City, a family plot
+- Catholic Cemeteries of the Archdiocese of Newark, burial search (https://rcancem.org/find-loved-one : accessed 18 November 2026): Ellen McGlynn, buried 22 Dec 1932, **Holy Name Cemetery**, Section F/72, Grave 5, depth 1C.
+- The deceased-info page lists five others in the same plot:
+
+  | Name | Burial date |
+  |---|---|
+  | Rose G. McGlynn | 24 Sep 1904 |
+  | Martin McGlynn | 9 Jul 1914 |
+  | Jean McGlynn | 6 May 1947 |
+  | William J. MacGillivray | 12 Mar 1960 |
+  | Anna MacGillivray | 10 Dec 1990 |
+
+- Also: "Find a Grave Index", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:CKSR-WGZM), Ellen McGlynn, death Dec 1932, burial Holy Name Cemetery.
+- **What it shows:**
+  - This is the family plot. The MacGillivrays are Ellen's daughter Anna and her husband.
+  - **Joseph is not listed in it.**
+  - The first burial, "Rose G. McGlynn" on 24 Sep 1904, falls in the same week as the Joseph McGlynn obituary below. Either Rose was a child of the family, or the cemetery index has mis-named Joseph.
+  - Martin (1914) and Jean (1947) are unidentified. They could be children or grandchildren. A Martin who died in July 1914 would fit Ellen heading the household by the 1915 census.
+- The Archdiocese's manual search ($25 per name) would give each person's age and last address.
+
+### 6. Possible death of Joseph: Bayonne, 23 Sep 1904 (not proven)
+"United States, GenealogyBank Historical Newspaper Obituaries, 1815-2013", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q5ML-RV15 : accessed 18 November 2026), Joseph McGlynn, age 55, residence Bayonne, died 23 Sep 1904; obituary in the *Jersey Journal* (Jersey City), 26 Sep 1904.
+- A second automatically extracted entry, from the *Jersey Journal* of 27 Sep 1904 (ark 1:1:Q5ML-GG4F), gives burial on 26 Sep 1904. Its list of names looks like a garbled funeral column.
+- **Assessment:** this is plausibly Ellen's husband. He was "of Bayonne", it fits Ellen heading the household by 1915, and she was widowed by 1930. But the age of 55 implies a birth about 1849, against March 1855 in the 1900 census. He is also not in Ellen's plot, unless he is the "Rose G." entry.
+- The obituary text is on GenealogyBank (subscription) and in Jersey Journal microfilm at the Jersey City Free Public Library.
+
 ## Searched with no useful result
 - **Joseph, 1860/1870/1880 censuses** (Ancestry, soundex McGlynn, b. 1853–1857 NY): no identifiable match.
   - 1870 has a Joseph Glynn, 15, in Manhattan Ward 10 with Margaret (70), May (17) and Margaret (12). It also has a Joseph McGlinn, 13, alone in Manhattan Ward 18 (2nd enumeration).

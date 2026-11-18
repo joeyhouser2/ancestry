@@ -80,6 +80,20 @@ Find a Grave, memorial 133020303, Margaretha Hohn (https://www.findagrave.com/me
 - **NYS Historic Newspapers**: no hits for Jacob, Margaretha or Adam Hoehn/Hohn. The site covers mostly upstate papers.
 - **Chronicling America**: the Library of Congress site blocked automated searching, so it was not searched. It needs to be searched by hand.
 
+### 7c. German-origin search, 18 Nov 2026 (FamilySearch signed in)
+- **Spellings.** Donald's letters spell the name **Hoene** (2022) and **Hoehn** (2026); records also use Hohn, Höhn, Hoahn and Hohu. These are all one surname: "oe" is the standard way to type "ö", and Hoene is a Hoehn variant. All the searches below used the spellings Höhn, Hoehn, Hohn and Hoene, plus Ancestry and FamilySearch's sound-alike matching, so the spelling is not what is blocking the search.
+- **FamilySearch German indexes:**
+  - Margaretha Schmidt, b. 1856, father Conrad: none matching.
+  - Adam Höhn/Hoehn, b. 1875, father Jacob: none matching. There are near misses: an Adam Hohn b. 30 Apr 1875 in the Saar (father Daniel), an Adam Höhn b. 12 May 1875 at Wilhelmsfeld, Baden (father Martin), and an Adam Horn b. Jun 1875 in Michelstadt, Hesse. All have the wrong date or the wrong father.
+  - A marriage of Jacob Höhn and Margaretha Schmidt: none.
+  - **Conclusion:** the family's home parish has probably not been indexed online yet. Many German parishes are filmed but not indexed.
+- **Ruled out: Hesse civil marriage, Frankfurt am Main, 17 Mar 1877** ("Hesse, Germany, Marriages, 1849-1930", Ancestry 61118/2698316). This Jacob Höhn was born **21 Nov 1850**, the same month as our Jacob, and his parents were Conrad and Elisabetha. But he married **Katharina Wilhelmine Eleonore Motzer** in 1877, while our Jacob had been married to Margaretha since about 1876 and had a son born in 1875. A different man, unless Jacob married twice; nothing suggests he did.
+- **Naturalization witness George Rockelein (Röckelein):**
+  - In 1900 Ann Rockelein (40, born Germany) headed a household at 207 W. 66th St, Manhattan, with five children. George Sr. was evidently dead by then.
+  - A George Rockelein, born about 1847 in **Bamberg** (Upper Franconia, Bavaria), appears in New York Civil War muster rolls (Ancestry 1965/624242). He is probably the witness.
+  - Röckelein is a typically Franconian surname. This is only a weak regional hint: a witness was often just a neighbor or employer.
+- **Ancestry "U.S., Evangelical Lutheran Church in America Church Records" (60722):** no New York entries for Höhn/Hohn. The family's NYC congregation isn't in that collection.
+
 ### 8. Records checked and ruled out
 - **Carl Hoene, WeRelate** (https://www.werelate.org/wiki/Person:Carl_Hoene_(1), accessed 17 November 2026): no sources and no events except "b. 1851 Germany, d. 1936". The page was last edited in 2012. This is the only "source" on Hoene-55.
 - **Rudolf Hahn/Hohn**, born 11 Aug 1883, 1446 Second Ave, Manhattan, to Jacob and Margaretha (B-M-1883-0374045, https://a860-historicalvitalrecords.nyc.gov/view/87151). This is a different family: the mother was née Schlick of Asselheim, Bavaria, the father was from Landau, and Rudolf was the 8th child.

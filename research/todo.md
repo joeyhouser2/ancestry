@@ -17,6 +17,17 @@ Goal: find the German home town of Jacob Höhn (b. Nov 1850) and Margaretha Schm
 - [ ] **Naturalization witness**: trace George Rockelein(?) of 11th Ave, who vouched for Jacob Höhn in 1888. He may be from the same German village.
 - [ ] **Manhattan directories, 1884–1898** (Trow's): search the NYPL digital collections by hand for Jacob Hohn/Höhn, brewer or grocer, First Ave.
 
+## Searched 18 Nov 2026 (no town found; see findings §7c)
+- [x] FamilySearch German birth, baptism and marriage indexes under Höhn, Hoehn, Hohn and Hoene: no match. The home parish is probably not indexed yet.
+- [x] The Frankfurt 1877 Jacob Höhn: ruled out (different wife).
+- [x] Witness George Rockelein: probably born about 1847 in Bamberg, Franconia. Only a weak regional hint.
+
+## Most likely to name the German town now
+- [ ] **Margaretha's 1906 burial**: St. Peter's or other German Lutheran church registers in the Bronx/Manhattan (the burial was by undertaker Louis B. ?itzenberger, 667 Melrose Ave, Bronx). The pastor's burial entry often gives the birthplace.
+  - Ask the Lutheran Cemetery (All Faiths) office which church or pastor conducted the burial.
+- [ ] **Anna's confirmation (about 1897–98) or baptism (about 1884)**: German Lutheran church registers near 833 First Ave (Turtle Bay/Yorkville). Many are filmed at FamilySearch and at the Lutheran Archives Center (Philadelphia).
+- [ ] **DNA (AncestryDNA)**: matches with Höhn, Hoehn or Schmidt ancestors from one German region would narrow it fast. This is often the quickest route when church records aren't indexed.
+
 ## Requests and orders (cost a fee)
 - [ ] **Anna's Social Security application (SS-5)** from the Social Security Administration (FOIA request, ssa.gov/foia). It gives her birthplace and both parents in her own words.
   - [ ] First get her SSN from the SSDI (look under Anne Bigg or Anna Bigg, died 1968, Bayonne NJ).

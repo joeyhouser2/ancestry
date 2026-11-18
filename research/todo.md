@@ -44,6 +44,33 @@ Goal: find the German home town of Jacob Höhn (b. Nov 1850) and Margaretha Schm
   - Matricula (Catholic): https://data.matricula-online.eu
 - [ ] Check WikiTree for any existing German Höhn/Schmidt profiles from that town before creating new ones.
 
-## Still to decide on WikiTree
+# McGlynn / Carroll line: to-do
+
+Goal: find the parents of Joseph McGlynn (b. Mar 1855, NY) and of Ellen Carroll (b. Jun 1865, Ireland), and Ellen's Irish home town. See [mcglynn_findings.md](mcglynn_findings.md).
+
+## Orders and requests (most decisive first)
+- [ ] **1887 marriage certificate**, Joseph McGlinn and Ellen Carroll, 28 Apr 1887, Sing Sing; NYS certificate 5841. It names both sets of parents.
+  - Ask the Ossining town clerk first (local copy).
+  - Otherwise order a genealogy copy from the NYS Department of Health.
+- [ ] **St. Augustine's Church, Ossining**: the marriage register entry for April 1887. It gives parents and often Ellen's Irish parish.
+  - Check Findmypast's Archdiocese of New York index.
+  - Or write to the parish.
+- [ ] **Ellen McGlynn's NJ death certificate**, Bayonne, Dec 1932 (parents' names). Order from the NJ Department of Health.
+- [ ] **Joseph McGlynn's death**, probably Bayonne, 1900–1915. Search the NJ State Archives death index, then order the certificate.
+
+## Needs a FamilySearch sign-in
+- [ ] 1905 NJ state census: the McGlynn household in Bayonne.
+- [ ] "New Jersey Deaths" index: Ellen (1932) and Joseph (1900–1915).
+- [ ] NY State birth index, 1888 (Joseph Jr., Feb) and 1893 (John, 9 Jan): the town of birth. It is also on archive.org (Reclaim the Records).
+- [ ] 1910 census: the Bayonne household, probably mis-indexed.
+
+## Other
+- [ ] **Ellen's obituary clipping**, Bayonne Times, 22 Dec 1932 (Newspapers.com image 909338190): her brothers' names and towns, her church, her cemetery. Use a Newspapers.com trial or the Bayonne library microfilm.
+- [ ] **Ellen's brothers Michael and Patrick Carroll**: find them once the obituary gives their towns. Their death records may name the parents.
+- [ ] **Ellen's 1902 arrival** (the 1930 census gives that immigration year): a passenger list for a return trip from Ireland.
+- [ ] Once Ellen's parents are known: her civil birth registration, Jun 1865, Co. Cork, on irishgenealogy.ie (free).
+- [ ] **Joseph's own family**: if the birth index shows John was born in Albany, search the 1860–1880 Albany censuses for a McGlynn household with a Joseph b. about 1855.
+
+# Hohn drafts: still to decide on WikiTree
 - [ ] Review and save the drafts in `research/hohn_drafts/` (Hoene-55 → Jacob Höhn, new Margaretha Schmidt, optional Adam, Anna update).
 - [ ] Decide whether to change Hoene-55's last name at birth to "Höhn" (this changes the profile ID).

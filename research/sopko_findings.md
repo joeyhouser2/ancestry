@@ -31,6 +31,22 @@ Researched 18 November 2026 on Ancestry and FamilySearch (signed in). This build
 - On the image, this man lived at 16(?) First St, **City of Passaic**. He was a watchman and arrived at New York in April(?) 1888. His witness was John Servas, a saloonkeeper of 75 Third St, Passaic.
 - **Assessment:** our John was in Bayonne from 1893 to 1923 and gave 1885–86 as his arrival year, so this is probably a different John Sopko. Svidník is still worth keeping in mind: Sopko is a common surname in the Svidník–Stropkov area of northeastern Slovakia.
 
+## Ellis Island search (Steve Morse one-step, 18 Nov 2026)
+Tool: stevemorse.org/ellis2/ellisgold.html, which queries the Statue of Liberty–Ellis Island Foundation database through JewishGen.
+
+**Best lead, not yet verified:** two Maczko boys from the same village, matching the 1910 boarders George and Stephen Macko:
+- **György Maczko**, 18, born about 1884–85, residence **"Koskey"**, arrived **1903** on the *Königin Luise*. He matches George Macko, 27 in 1910, who arrived in 1903.
+- **Stefan Maczko**, 16, born about 1887–88, residence **"Koszek"**, arrived **1904** on the *Zeeland*. He matches Stephen Macko, 22 in 1910.
+- **Next step:** open both manifests to see the destination and the "going to join" relative. A destination of Bayonne, or a relative named John Sopko or a Macko, would confirm them and give the village name as written. "Koskey/Koszek" is a transcriber's reading of the place name and needs checking on the image.
+  - Steve Morse's results link to statueofliberty.org/arrival-details. The line number and image reference there let you open the same page on Ancestry (collection 7488, image ID NYT715_[roll]-[frame]).
+  - Note: the Foundation's frame numbers can differ from Ancestry's per-ship numbering, so check the neighboring frames.
+
+**Ruled out:**
+- Stefan Macko, 16, arrived 27 May 1904 on the *Chemnitz*, residence "Keop...": nationality Russian.
+- Maria Szopko, 25, with Margit (2 months), from "Nadazsd", arrived 13 Jun 1901 on the *Lahn* (T715 roll 205, line 15): her destination was **Toledo**, joining her husband at 309 Front St.
+- János Szopko, 26, arrived 1894 with no residence given: not checked further.
+- Andrew Macko (b. about 1878, arrived 1901): no matching Macko or Maczko; only an Andras Maczko, 24, arriving 1904. Not checked.
+
 ## Searched with no useful result
 - **FamilySearch death indexes:** John Sopko (1923) and Mary Sopko (1947) are not indexed. FamilySearch's NJ births index has only index entries for the children Veronika (9 Jun 1907), Stephan (8 Dec 1909) and John (1 Jan 1911), with no parents' details.
 - **FamilySearch naturalization index:** our John (naturalized by 1910 per the census) isn't indexed. His papers would be in Hudson County court records.

@@ -99,6 +99,7 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
 
 - [x] Mary's maiden name Macko is confirmed (Bayonne Times obituary, 5 Feb 1947). She died 1947, not 1942.
 - [x] John died about Sep 1923 (Bayonne Times obituary, 21 Sep 1923).
+- [ ] **Verify the Maczko manifests**: György Maczko (1903, *Königin Luise*, "Koskey") and Stefan Maczko (1904, *Zeeland*, "Koszek"). Check whether they were going to Bayonne or to John Sopko. If so, the village is found (see findings).
 - [ ] **Ellis Island lists, Andrew Macko (b. about 1878, arrived 1901) and George Macko (b. about 1883, arrived 1903)**: use the stevemorse.org one-step search with given-name variants (András/Ondrej, György/Juraj) and surname variants (Maczko, Matzko). The lists name the village and the relative being joined.
 - [ ] **Full obituaries**, Bayonne Times 21 Sep 1923 and 5 Feb 1947 (Newspapers.com or Bayonne library): church, cemetery, "native of".
 - [ ] **NJ death certificates**: John (Sep 1923) and Mary (Feb 1947). Order from the NJ Department of Health or NJ State Archives (for 1923).

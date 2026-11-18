@@ -1,0 +1,112 @@
+{
+  "action": "edit",
+  "status": "ready",
+  "wikitree_id": "Hoene-55",
+  "user_id": 23844541,
+  "edit_url": "https://www.wikitree.com/index.php?title=Special:EditPerson&u=23844541",
+  "summary": "Correct 'Carl Hoene 1851-1936' (unsourced WeRelate import) to Jacob Höhn, b. Nov 1850 Germany, father of Anna (Hoene-18) per her 1911 marriage certificate and the 1900 census. Remove unsupported 1936 death. Manager: Houser-1616 (Joey).",
+  "manager_note": "Managed by Houser-1616. Only linked relative is daughter Hoene-18. Changing LNAB to Höhn will give the profile a new ID (WikiTree redirects the old one).",
+  "changes": [
+    {
+      "field": "FirstName",
+      "from": "Carl",
+      "to": "Jacob",
+      "cites": [
+        "m1911cert",
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "LastNameAtBirth",
+      "from": "Hoene",
+      "to": "Höhn",
+      "status": "optional",
+      "reason": "Spelling the family used on the 1906 gravestone. Optional: keep Hoene to avoid changing the ID.",
+      "cites": [
+        "fag_margaretha"
+      ]
+    },
+    {
+      "field": "LastNameCurrent",
+      "from": "Hoene",
+      "to": "Höhn",
+      "cites": [
+        "fag_margaretha"
+      ]
+    },
+    {
+      "field": "LastNameOther",
+      "from": "",
+      "to": "Hohn, Hoehn, Hoene",
+      "cites": [
+        "c1900hohn",
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "from": "1851",
+      "to": "Nov 1850",
+      "status": "",
+      "cites": [
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "from": "Germany",
+      "to": "Germany",
+      "cites": [
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "from": "1936",
+      "to": "",
+      "reason": "No record supports 1936. The family date is kept in the research notes.",
+      "cites": []
+    },
+    {
+      "field": "Spouse",
+      "from": "",
+      "to": "Margaretha Schmidt (see NEW-Schmidt-Margaretha.json)",
+      "cites": [
+        "c1900hohn",
+        "d1906margaret",
+        "fag_margaretha"
+      ]
+    },
+    {
+      "field": "Child",
+      "from": "",
+      "to": "Adam Höhn (see NEW-Hohn-Adam.json, optional)",
+      "cites": [
+        "c1900hohn",
+        "fag_adam"
+      ]
+    },
+    {
+      "field": "Biography",
+      "from": "WeRelate stub",
+      "to": "rewritten (below)",
+      "cites": [
+        "m1911cert",
+        "c1900hohn",
+        "d1906margaret",
+        "fag_margaretha"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nJacob Höhn (also recorded as Hohn and Hoehn) was born in Germany in November 1850.<ref name=\"c1900hohn\">\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).</ref> About 1876 he married Margaretha Schmidt, daughter of Conrad Schmidt.<ref name=\"c1900hohn\" /><ref name=\"d1906margaret\">\"Certificate and Record of Death\", no. 2762 (1906), Borough of the Bronx, Margaret Hoehn, 27 May 1906; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/4125958 : accessed 17 November 2026); image D-B-1906-0002762. Age 49 y 6 m 9 d; married; born Germany; father Conrad Schmidt; died 629 E. 154th St.; buried Lutheran Cemetery 29 May 1906.</ref> Their son Adam was born in Germany on 30 November 1875.<ref name=\"fag_adam\">Find a Grave, database and images (https://www.findagrave.com/memorial/133020376/adam-hohn : accessed 17 November 2026), memorial 133020376, Adam Hohn (30 Nov 1875-5 Jul 1902), All Faiths Cemetery, Middle Village, Queens, New York.</ref>\n\nThe family emigrated to New York about 1883–84. A Jacob Hohn, 32, travelled with Mary, 26, and Adam, 8, on the ''Rhynland'' from Antwerp, arriving in New York on 10 August 1883; this is probably the same family.<ref name=\"ship1883\">\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469.</ref> In 1900 Jacob was a grocer at 833 First Avenue, Manhattan, living with his wife Margaret, son Adam and daughter Annie. He had become a naturalized citizen by then.<ref name=\"c1900hohn\" />\n\nAdam died in Manhattan on 5 July 1902.<ref name=\"d1902adam\">\"New York, New York, U.S., Extracted Death Index, 1862-1948\", database, Ancestry (https://www.ancestry.com/search/collections/9131/records/1557712 : accessed 17 November 2026), Adam Hohn, age 25, died 5 Jul 1902, Manhattan, certificate 20097.</ref> The family had moved to the Bronx by May 1906, when Margaretha died at 629 East 154th Street. Jacob buried her and Adam in the Lutheran (now All Faiths) Cemetery in Middle Village, Queens, under a German inscription to \"meine geliebte Gattin Margaretha Höhn\".<ref name=\"d1906margaret\" /><ref name=\"fag_margaretha\">Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\").</ref> His daughter Anna married Alfred Benjamin Bigg Jr. at St. Mary's Church in the Bronx on 17 June 1911. The marriage record names her father as Jacob Hohn.<ref name=\"m1911cert\">\"Certificate and Record of Marriage\", no. 1449 (1911), Borough of the Bronx, Alfred Benjamin Bigg Jr. and Anna Hohn, 17 Jun 1911; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/8892418 : accessed 17 November 2026); image M-B-1911-0001449. Bride age 27, born New York City; father Jacob Hohn; mother's maiden name Margaret Schmidt; bride signs \"Anna Hohn\".</ref>\n\n=== Research Notes ===\n* '''Name and dates corrected.''' This profile was imported in 2019 as \"Carl Hoene, 1851–1936\" from an unsourced WeRelate page (werelate.org/wiki/Person:Carl_Hoene_(1)) based on family recollection. Anna's 1911 marriage record and the 1900 census both name her father as Jacob, born November 1850. The family's memory of \"Carl Hoehn, died 1936\" is kept here as tradition.\n* '''Death.''' Not yet found. A widower named Jacob Hoahn, aged 83, born in Germany, of 461 Brook Avenue in the Bronx, died in Manhattan on 2 November 1932 (NYC death certificate 25248). He may be this Jacob, but that is not proven.\n* '''Remarriage.''' Anna remembered a stepmother, so Jacob may have remarried after 1906. That marriage has not been found.\n* '''Origin.''' His home town in Germany is not yet known. The family spelled the name Höhn on Margaretha's gravestone.\n\n== Sources ==\n<references />\n* Letter from a grandson to a great-great-grandson, written 28 September 2022 and revised November 2026 (privately held). Family recollection; the writer notes some dates are estimates.\n",
+  "edit_summary": "Corrected name to Jacob Höhn per daughter's 1911 marriage record and 1900 census; removed unsourced 1936 death; added sources.",
+  "sources": {
+    "c1900hohn": "\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).",
+    "d1906margaret": "\"Certificate and Record of Death\", no. 2762 (1906), Borough of the Bronx, Margaret Hoehn, 27 May 1906; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/4125958 : accessed 17 November 2026); image D-B-1906-0002762. Age 49 y 6 m 9 d; married; born Germany; father Conrad Schmidt; died 629 E. 154th St.; buried Lutheran Cemetery 29 May 1906.",
+    "fag_adam": "Find a Grave, database and images (https://www.findagrave.com/memorial/133020376/adam-hohn : accessed 17 November 2026), memorial 133020376, Adam Hohn (30 Nov 1875-5 Jul 1902), All Faiths Cemetery, Middle Village, Queens, New York.",
+    "ship1883": "\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469.",
+    "d1902adam": "\"New York, New York, U.S., Extracted Death Index, 1862-1948\", database, Ancestry (https://www.ancestry.com/search/collections/9131/records/1557712 : accessed 17 November 2026), Adam Hohn, age 25, died 5 Jul 1902, Manhattan, certificate 20097.",
+    "fag_margaretha": "Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\").",
+    "m1911cert": "\"Certificate and Record of Marriage\", no. 1449 (1911), Borough of the Bronx, Alfred Benjamin Bigg Jr. and Anna Hohn, 17 Jun 1911; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/8892418 : accessed 17 November 2026); image M-B-1911-0001449. Bride age 27, born New York City; father Jacob Hohn; mother's maiden name Margaret Schmidt; bride signs \"Anna Hohn\"."
+  }
+}

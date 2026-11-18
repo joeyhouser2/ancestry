@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Houser Family Tree</title>
+<style>
+:root {
+  --bg: #f6f4ef; --panel: #ffffff; --ink: #1f2328; --muted: #646b73; --line: #d9d5cc;
+  --accent: #2f5d50; --accent-ink: #ffffff; --chip: #ece8df;
+  --ok: #4c8c6a; --low: #c9a227; --mid: #d9822b; --high: #c0443a; --empty: #f0ede6;
+  --flag-bg: #fff4e0; --flag-ink: #7a4b00;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15181c; --panel: #1e2227; --ink: #e6e8eb; --muted: #9aa3ad; --line: #343a42;
+    --accent: #6fb39c; --accent-ink: #0e1512; --chip: #2a2f36;
+    --ok: #5fae84; --low: #d8b543; --mid: #e59a4a; --high: #e06a5f; --empty: #1a1d21;
+    --flag-bg: #3a2c12; --flag-ink: #f3c879;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15181c; --panel: #1e2227; --ink: #e6e8eb; --muted: #9aa3ad; --line: #343a42;
+  --accent: #6fb39c; --accent-ink: #0e1512; --chip: #2a2f36;
+  --ok: #5fae84; --low: #d8b543; --mid: #e59a4a; --high: #e06a5f; --empty: #1a1d21;
+  --flag-bg: #3a2c12; --flag-ink: #f3c879;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body { background: var(--bg); color: var(--ink); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: var(--accent); }
+header { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--panel); }
+header h1 { font-size: 18px; margin: 0; }
+.stats { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); font-size: 13px; }
+.stats b { color: var(--ink); font-variant-numeric: tabular-nums; }
+.app { display: grid; grid-template-columns: 300px minmax(0, 1fr) 380px; height: calc(100% - 57px); }
+aside, main, section { overflow: auto; }
+aside { border-right: 1px solid var(--line); background: var(--panel); padding: 12px; }
+section#detail { border-left: 1px solid var(--line); background: var(--panel); padding: 16px; }
+main { padding: 12px 16px; position: relative; }
+input[type=search] { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); font: inherit; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+.chip { border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 999px; padding: 3px 10px; font: inherit; font-size: 12px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+label.range { display: block; font-size: 12px; color: var(--muted); margin: 6px 0; }
+label.range input { width: 100%; }
+.list { list-style: none; margin: 0; padding: 0; }
+.list li { padding: 7px 8px; border-radius: 8px; cursor: pointer; display: grid; grid-template-columns: 10px 1fr auto; gap: 8px; align-items: center; }
+.list li:hover, .list li.sel { background: var(--chip); }
+.list .nm { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.list .sub { color: var(--muted); font-size: 12px; }
+.dot { width: 10px; height: 10px; border-radius: 50%; }
+.s0 { background: var(--ok); } .s1 { background: var(--low); } .s2 { background: var(--mid); } .s3 { background: var(--high); }
+.muted { color: var(--muted); }
+.crumbs { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; margin-bottom: 10px; font-size: 13px; }
+.crumbs button { border: none; background: none; color: var(--accent); cursor: pointer; padding: 2px 4px; font: inherit; }
+.toolbar { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; flex-wrap: wrap; }
+.btn { border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 8px; padding: 5px 10px; cursor: pointer; font: inherit; font-size: 13px; }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.pedigree { position: relative; display: grid; gap: 0 28px; min-width: 760px; height: max(640px, calc(100vh - 170px)); }
+.col { display: flex; flex-direction: column; }
+.cell { flex: 1; display: flex; align-items: center; min-height: 0; }
+.box { width: 100%; border: 1px solid var(--line); border-left: 5px solid var(--ok); background: var(--panel); border-radius: 8px; padding: 5px 8px; cursor: pointer; position: relative; z-index: 1; overflow: hidden; }
+.box:hover { box-shadow: 0 1px 6px rgba(0,0,0,.12); }
+.box.sel { outline: 2px solid var(--accent); }
+.box.b1 { border-left-color: var(--low); } .box.b2 { border-left-color: var(--mid); } .box.b3 { border-left-color: var(--high); }
+.box .nm { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.box .sub { font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.box .tags { position: absolute; top: 4px; right: 6px; font-size: 11px; }
+.compact .box .sub { display: none; }
+.compact .box { padding: 2px 6px; }
+.compact .box .nm { font-size: 12px; }
+.empty { width: 100%; border: 1px dashed var(--line); background: var(--empty); border-radius: 8px; padding: 5px 8px; color: var(--muted); font-size: 12px; }
+.more { font-size: 11px; color: var(--accent); }
+svg.links { position: absolute; inset: 0; pointer-events: none; z-index: 0; overflow: visible; }
+svg.links path { fill: none; stroke: var(--line); stroke-width: 1.5; }
+#detail h2 { margin: 0 0 2px; font-size: 20px; }
+#detail h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 18px 0 6px; }
+#detail ul { margin: 0; padding-left: 18px; }
+#detail li { margin: 3px 0; }
+.facts { display: grid; grid-template-columns: 70px 1fr; gap: 3px 10px; margin-top: 10px; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+.flag { background: var(--flag-bg); color: var(--flag-ink); border-radius: 8px; padding: 10px 12px; margin-top: 12px; }
+.gap { display: inline-block; background: var(--chip); border-radius: 6px; padding: 2px 7px; margin: 2px 3px 2px 0; font-size: 12px; }
+.links a { display: inline-block; margin: 3px 8px 3px 0; }
+.src { font-size: 12px; color: var(--muted); }
+.legend { display: flex; gap: 12px; flex-wrap: wrap; font-size: 12px; color: var(--muted); align-items: center; }
+.legend span { display: inline-flex; gap: 5px; align-items: center; }
+@media (max-width: 1100px) {
+  .app { grid-template-columns: 260px minmax(0, 1fr); }
+  section#detail { grid-column: 1 / -1; border-left: none; border-top: 1px solid var(--line); }
+  .app { height: auto; }
+}
+@media (max-width: 700px) {
+  .app { display: block; }
+  aside { border-right: none; max-height: 50vh; }
+  main { padding: 12px 16px; overflow-x: auto; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Houser Family Tree</h1>
+  <div class="stats" id="stats"></div>
+  <div class="legend">
+    <span><i class="dot s0"></i>complete</span><span><i class="dot s1"></i>minor gaps</span>
+    <span><i class="dot s2"></i>missing facts</span><span><i class="dot s3"></i>dead end / unsourced</span>
+    <span>⚑ research note</span>
+  </div>
+</header>
+<div class="app">
+  <aside>
+    <input type="search" id="q" placeholder="Search name, place or WikiTree ID">
+    <div class="chips" id="filters"></div>
+    <div class="chips" id="sides"></div>
+    <label class="range">Generations <span id="genlbl"></span>
+      <input type="range" id="gmax" min="1" max="25" value="10"></label>
+    <div class="muted" id="count" style="font-size:12px;margin:6px 0"></div>
+    <ul class="list" id="list"></ul>
+  </aside>
+  <main>
+    <div class="toolbar">
+      <button class="btn" id="home">⌂ Back to me</button>
+      <button class="btn" id="up" title="Center on the selected person's parents">Center on selected</button>
+      <label class="muted" style="font-size:13px">Show
+        <select id="depth" class="btn"><option>3</option><option selected>4</option><option>5</option></select> generations</label>
+    </div>
+    <div class="crumbs" id="crumbs"></div>
+    <div class="pedigree" id="ped"></div>
+  </main>
+  <section id="detail"></section>
+</div>
+<script>
+const DATA = /*__DATA__*/null;
+const P = DATA.people, L = DATA.gapLabels;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const lvl = p => p.score >= 15 ? 3 : p.score >= 6 ? 2 : p.score > 0 ? 1 : 0;
+const linkify = s => esc(s).replace(/https?:\/\/[^\s)<]+/g, u => `<a href="${u}" target="_blank" rel="noopener">${u}</a>`);
+const deadEnd = p => p.gaps.includes("no_parents") || p.gaps.includes("no_father") || p.gaps.includes("no_mother");
+const state = { focus: DATA.root, sel: DATA.root, filter: "priority", side: "all", gmax: 10, q: "" };
+try { Object.assign(state, JSON.parse(localStorage.getItem("treeview") || "{}")); } catch (e) {}
+if (!P[state.focus]) state.focus = DATA.root;
+if (!P[state.sel]) state.sel = DATA.root;
+const save = () => { try { localStorage.setItem("treeview", JSON.stringify({ filter: state.filter, side: state.side, gmax: state.gmax })); } catch (e) {} };
+
+// ---- stats ----
+const all = Object.values(P);
+const maxGen = Math.max(...all.map(p => p.gen));
+const oldest = Math.min(...all.filter(p => p.by).map(p => p.by));
+$("#stats").innerHTML = [
+  [all.length, "ancestors"], [maxGen, "generations"], ["c. " + oldest, "earliest birth"],
+  [all.filter(p => p.gaps.includes("no_parents")).length, "dead ends"],
+  [all.filter(p => p.gaps.includes("unsourced")).length, "unsourced"],
+  [all.filter(p => p.flag || p.leads.length || p.fam.length || p.found.length).length, "with research notes"],
+].map(([n, t]) => `<span><b>${esc(n)}</b> ${t}</span>`).join("") +
+  `<span>fetched ${esc((DATA.fetched || "").slice(0, 10))}</span>`;
+$("#gmax").max = maxGen;
+
+// ---- filters ----
+const FILTERS = [["priority", "All gaps"], ["notes", "⚑ Research notes"], ["deadend", "Dead ends"],
+  ["unsourced", "Unsourced"], ["places", "Places to fix"], ["all", "Everyone"]];
+const SIDES = [["all", "Both sides"], ["father's", "Father's"], ["mother's", "Mother's"]];
+function chips(el, opts, key) {
+  el.innerHTML = opts.map(([v, t]) => `<button class="chip" data-v="${v}" aria-pressed="${state[key] === v}">${t}</button>`).join("");
+  el.onclick = e => { const b = e.target.closest("button"); if (!b) return; state[key] = b.dataset.v; save(); chips(el, opts, key); renderList(); };
+}
+chips($("#filters"), FILTERS, "filter");
+chips($("#sides"), SIDES, "side");
+$("#gmax").value = state.gmax;
+$("#genlbl").textContent = "≤ " + state.gmax;
+$("#gmax").oninput = e => { state.gmax = +e.target.value; $("#genlbl").textContent = "≤ " + state.gmax; save(); renderList(); };
+$("#q").oninput = e => { state.q = e.target.value.trim().toLowerCase(); renderList(); };
+
+function renderList() {
+  let rows = all.filter(p => p.gen <= state.gmax);
+  if (state.side !== "all") rows = rows.filter(p => p.side === state.side);
+  const f = state.filter;
+  if (f === "priority") rows = rows.filter(p => p.score > 0 && !p.liv);
+  if (f === "notes") rows = rows.filter(p => p.flag || p.leads.length || p.fam.length || p.found.length);
+  if (f === "deadend") rows = rows.filter(p => p.gaps.includes("no_parents"));
+  if (f === "unsourced") rows = rows.filter(p => p.gaps.includes("unsourced"));
+  if (f === "places") rows = rows.filter(p => p.gaps.some(g => ["vague_place", "place_format", "no_birth_place", "no_death_place"].includes(g)));
+  if (state.q) rows = rows.filter(p => (p.n + " " + p.w + " " + p.bp + " " + p.dp).toLowerCase().includes(state.q));
+  rows.sort(f === "all" ? (a, b) => a.gen - b.gen || a.n.localeCompare(b.n)
+                        : (a, b) => (b.flag ? 1 : 0) - (a.flag ? 1 : 0) || b.score - a.score || a.gen - b.gen);
+  $("#count").textContent = `${rows.length} people` + (rows.length > 300 ? " (showing first 300)" : "");
+  $("#list").innerHTML = rows.slice(0, 300).map(p =>
+    `<li data-id="${p.id}" class="${p.id === state.sel ? "sel" : ""}"><i class="dot s${lvl(p)}"></i>
+      <div><div class="nm">${p.flag || p.leads.length || p.fam.length || p.found.length ? "⚑ " : ""}${esc(p.n)}</div><div class="sub">${esc(p.y)} · gen ${p.gen}</div></div>
+      <span class="sub">${p.score || ""}</span></li>`).join("");
+}
+$("#list").onclick = e => { const li = e.target.closest("li"); if (li) { select(li.dataset.id, true); } };
+
+// ---- pedigree ----
+function pathTo(id) {
+  // breadth-first from root to find the line down to this person
+  const prev = { [DATA.root]: null }, q = [DATA.root];
+  while (q.length) { const c = q.shift(); if (c === id) break;
+    for (const k of ["f", "m"]) { const par = P[c] && P[c][k]; if (par && !(par in prev)) { prev[par] = c; q.push(par); } } }
+  const out = []; let c = id; while (c) { out.unshift(c); c = prev[c]; } return out;
+}
+function renderPed() {
+  const depth = +$("#depth").value;
+  const ped = $("#ped");
+  ped.style.gridTemplateColumns = `repeat(${depth + 1}, minmax(140px, 1fr))`;
+  ped.classList.toggle("compact", depth >= 5);
+  let slots = [[state.focus]];
+  for (let g = 1; g <= depth; g++) slots.push(slots[g - 1].flatMap(id => {
+    const p = id && P[id]; return [p ? (p.f || (p.fx ? "beyond" : null)) : undefined, p ? (p.m || (p.mx ? "beyond" : null)) : undefined];
+  }).map(x => (x === "beyond" ? null : x)));
+  ped.innerHTML = slots.map((col, g) => `<div class="col">${col.map((id, i) => {
+    const p = id && P[id];
+    if (p) {
+      const more = g === depth && (p.f || p.m) ? `<div class="more">more ancestors ›</div>` : "";
+      return `<div class="cell"><div class="box b${lvl(p)} ${id === state.sel ? "sel" : ""}" data-id="${id}" data-g="${g}" data-i="${i}">
+        <span class="tags">${p.flag || p.leads.length || p.fam.length || p.found.length ? "⚑" : ""}${p.gaps.includes("unsourced") ? " ∅" : ""}</span>
+        <div class="nm">${esc(p.n)}</div><div class="sub">${esc(p.y)}${p.bp ? " · " + esc(p.bp) : ""}</div>${more}</div></div>`;
+    }
+    const child = g > 0 && slots[g - 1][i >> 1] && P[slots[g - 1][i >> 1]];
+    if (child) return `<div class="cell"><div class="empty" data-g="${g}" data-i="${i}">${i % 2 ? "Mother" : "Father"} unknown</div></div>`;
+    return `<div class="cell"></div>`;
+  }).join("")}</div>`).join("") + `<svg class="links"></svg>`;
+  requestAnimationFrame(() => drawLinks(slots));
+  const path = pathTo(state.focus);
+  $("#crumbs").innerHTML = path.length > 1 ? path.map((id, k) =>
+    `${k ? "›" : ""}<button data-id="${id}">${esc(P[id].n.split(" ")[0])} ${esc(P[id].n.split(" ").slice(-1)[0])}</button>`).join("") : "";
+}
+function drawLinks(slots) {
+  const ped = $("#ped"), svg = ped.querySelector("svg"), base = ped.getBoundingClientRect();
+  const el = (g, i) => ped.querySelector(`[data-g="${g}"][data-i="${i}"]`) || (g === 0 ? ped.querySelector(".box") : null);
+  let d = "";
+  for (let g = 1; g < slots.length; g++) for (let i = 0; i < slots[g].length; i++) {
+    const a = el(g - 1, i >> 1), b = el(g, i);
+    if (!a || !b) continue;
+    const ra = a.getBoundingClientRect(), rb = b.getBoundingClientRect();
+    const x1 = ra.right - base.left, y1 = ra.top + ra.height / 2 - base.top;
+    const x2 = rb.left - base.left, y2 = rb.top + rb.height / 2 - base.top, xm = (x1 + x2) / 2;
+    d += `M${x1},${y1}H${xm}V${y2}H${x2}`;
+  }
+  svg.innerHTML = `<path d="${d}"/>`;
+}
+$("#ped").onclick = e => {
+  const b = e.target.closest(".box"); if (!b) return;
+  const id = b.dataset.id;
+  if (+b.dataset.g === +$("#depth").value && e.target.closest(".more")) { state.focus = id; }
+  select(id, false);
+};
+$("#ped").ondblclick = e => { const b = e.target.closest(".box"); if (b) { state.focus = b.dataset.id; renderPed(); } };
+$("#crumbs").onclick = e => { const b = e.target.closest("button"); if (b) { state.focus = b.dataset.id; renderPed(); } };
+$("#home").onclick = () => { state.focus = DATA.root; select(DATA.root, false); };
+$("#up").onclick = () => { state.focus = state.sel; renderPed(); };
+$("#depth").onchange = renderPed;
+window.addEventListener("resize", () => renderPed());
+
+// ---- detail ----
+function select(id, recenter) {
+  state.sel = id;
+  if (recenter) {
+    // keep the person visible: center the tree on their child line if they're off-screen
+    const shown = [...document.querySelectorAll("#ped .box")].some(b => b.dataset.id === id);
+    if (!shown) { const path = pathTo(id); state.focus = path[Math.max(0, path.length - 3)] || id; }
+  }
+  renderPed(); renderDetail(); renderList();
+}
+function renderDetail() {
+  const p = P[state.sel];
+  const fact = (k, v) => v ? `<dt>${k}</dt><dd>${esc(v)}</dd>` : "";
+  const fmt = (d) => !d || d.startsWith("0000") ? "" : d.replace(/-00/g, "");
+  const parents = ["f", "m"].map((k, j) => p[k] ? `<a href="#" data-id="${p[k]}">${esc(P[p[k]].n)}</a>` :
+    `<span class="muted">${p[k + "x"] ? "linked beyond fetched depth" : (j ? "Mother" : "Father") + " unknown"}</span>`).join("<br>");
+  const kids = all.filter(c => c.f === p.id || c.m === p.id);
+  $("#detail").innerHTML = `
+    <h2>${esc(p.n)}</h2>
+    <div class="muted">${esc(p.rel)} · generation ${p.gen} · <a href="https://www.wikitree.com/wiki/${encodeURIComponent(p.w)}" target="_blank" rel="noopener">${esc(p.w)}</a></div>
+    <dl class="facts">${fact("Born", [fmt(p.b), p.bp].filter(Boolean).join(", "))}${p.liv ? "" : fact("Died", [fmt(p.d), p.dp].filter(Boolean).join(", "))}
+      <dt>Parents</dt><dd>${parents}</dd>
+      ${kids.length ? `<dt>Child</dt><dd>${kids.map(c => `<a href="#" data-id="${c.id}">${esc(c.n)}</a>`).join("<br>")}</dd>` : ""}</dl>
+    ${p.flag ? `<div class="flag">⚑ ${esc(p.flag)}</div>` : ""}
+    ${p.gaps.length ? `<h3>Gaps</h3>${p.gaps.map(g => `<span class="gap">${esc(L[g])}</span>`).join("")}` : `<h3>Gaps</h3><span class="muted">None found</span>`}
+    ${p.found.length ? `<h3>Records found (${p.found.length})</h3><ul>${p.found.map(x => `<li>${esc(x.fact)}<div class="src">${linkify(x.cite)}</div></li>`).join("")}</ul>` : ""}
+    ${p.fam.length ? `<h3>From Grandpa Donald's letter (2022)</h3><ul>${p.fam.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+    ${p.leads.length ? `<h3>Research leads</h3><ul>${p.leads.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+    ${p.sug.length ? `<h3>Records to look for</h3><ul>${p.sug.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+    <h3>Search</h3><div class="links">${p.links.map(([t, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)} ↗</a>`).join("")}</div>
+    <h3>Sources on WikiTree now</h3>${p.src.length ? `<ul>${p.src.map(s => `<li class="src">${esc(s)}</li>`).join("")}</ul>` : `<span class="muted">None</span>`}
+    <div style="margin-top:16px"><button class="btn primary" id="center">Center tree on ${esc(p.n.split(" ")[0])}</button></div>`;
+  $("#center").onclick = () => { state.focus = p.id; renderPed(); };
+}
+$("#detail").onclick = e => { const a = e.target.closest("a[data-id]"); if (a) { e.preventDefault(); select(a.dataset.id, true); } };
+
+renderPed(); renderDetail(); renderList();
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WikiTree profile draft",
+  "description": "A proposed new or edited WikiTree profile. A human reviews every draft and saves it on WikiTree by hand. Every changed fact must cite at least one source.",
+  "type": "object",
+  "required": ["action", "status", "summary", "changes", "biography", "sources"],
+  "properties": {
+    "action": { "enum": ["edit", "create"] },
+    "status": { "enum": ["ready", "hold"], "description": "hold = needs more evidence before saving" },
+    "hold_reason": { "type": "string" },
+    "wikitree_id": { "type": ["string", "null"], "description": "Existing profile (edit) or null (create)" },
+    "user_id": { "type": ["integer", "null"] },
+    "relation": {
+      "type": "object",
+      "description": "For create: how the new profile attaches to an existing one",
+      "properties": {
+        "to": { "type": "string" },
+        "as": { "enum": ["father", "mother", "spouse", "child", "sibling"] },
+        "also_spouse_of": { "type": "string" }
+      }
+    },
+    "edit_url": { "type": "string" },
+    "summary": { "type": "string" },
+    "manager_note": { "type": "string" },
+    "changes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["field", "to", "cites"],
+        "properties": {
+          "field": { "type": "string", "description": "WikiTree field, e.g. BirthDate, BirthLocation, MiddleName, LastNameOther" },
+          "from": {},
+          "to": {},
+          "status": { "enum": ["", "certain", "about", "before", "after", "guess"] },
+          "reason": { "type": "string" },
+          "cites": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+        }
+      }
+    },
+    "biography": { "type": "string", "description": "Full replacement biography in WikiTree markup" },
+    "sources": {
+      "type": "object",
+      "description": "Reference name -> full citation, as used in <ref name=...> in the biography",
+      "additionalProperties": { "type": "string" }
+    },
+    "edit_summary": { "type": "string" }
+  }
+}

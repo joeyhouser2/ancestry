@@ -1,0 +1,114 @@
+{
+  "action": "edit",
+  "status": "ready",
+  "wikitree_id": "Hoene-18",
+  "user_id": 12350165,
+  "edit_url": "https://www.wikitree.com/index.php?title=Special:EditPerson&u=12350165",
+  "summary": "Builds on drafts/Hoene-18.json: adds 1911 marriage certificate (parents Jacob Hohn & Margaret Schmidt), 1900 census with parents, 1920 census, mother's death; corrects marriage date/place; documents birth conflict.",
+  "manager_note": "Managed by Steven Houser (Houser-1612). Supersedes the biography in drafts/Hoene-18.json; its field changes are repeated here.",
+  "changes": [
+    {
+      "field": "LastNameOther",
+      "from": "",
+      "to": "Hohn, Höhn, Hoehn",
+      "cites": [
+        "m1911cert",
+        "numidentbigg",
+        "fag_margaretha"
+      ]
+    },
+    {
+      "field": "LastNameCurrent",
+      "from": "Hoene",
+      "to": "Bigg",
+      "cites": [
+        "m1911cert",
+        "c1930bigg"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "from": "1884",
+      "to": "4 Feb 1884",
+      "status": "guess",
+      "reason": "Family date. The 1900 census gives Feb 1883, so the month is supported but the year is uncertain.",
+      "cites": [
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "from": "Germany",
+      "to": "Germany",
+      "status": "uncertain",
+      "reason": "1900 and 1930 censuses say Germany; the 1911 marriage and 1920 census say New York City. Left as Germany pending further evidence; see Research Notes.",
+      "cites": [
+        "c1900hohn",
+        "c1930bigg",
+        "m1911cert",
+        "c1920bigg"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "from": "1968",
+      "to": "Jun 1968",
+      "status": "certain",
+      "cites": [
+        "obit_anna"
+      ]
+    },
+    {
+      "field": "Father",
+      "from": "Hoene-55 (Carl Hoene)",
+      "to": "Hoene-55, corrected to Jacob Höhn (see Hoene-55.json)",
+      "cites": [
+        "m1911cert",
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "Mother",
+      "from": "",
+      "to": "Margaretha Schmidt (see NEW-Schmidt-Margaretha.json)",
+      "cites": [
+        "m1911cert",
+        "c1900hohn",
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "Marriage date/place (on the Bigg spouse link)",
+      "to": "17 Jun 1911, St. Mary's Church, Bronx, New York, United States",
+      "cites": [
+        "m1911cert",
+        "m1911church"
+      ]
+    },
+    {
+      "field": "Biography",
+      "from": "import text",
+      "to": "rewritten (below)",
+      "cites": [
+        "m1911cert",
+        "c1900hohn",
+        "c1930bigg"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nAnna Höhn (usually recorded as Hohn; also Hoene) was the daughter of Jacob Höhn and Margaretha Schmidt.<ref name=\"m1911cert\">\"Certificate and Record of Marriage\", no. 1449 (1911), Borough of the Bronx, Alfred Benjamin Bigg Jr. and Anna Hohn, 17 Jun 1911; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/8892418 : accessed 17 November 2026); image M-B-1911-0001449. Bride age 27, born New York City; father Jacob Hohn; mother's maiden name Margaret Schmidt; bride signs \"Anna Hohn\".</ref><ref name=\"c1900hohn\">\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).</ref> She was born in February, probably in 1883 or 1884. Family recollection gives 4 February 1884. Records disagree on whether she was born in Germany or New York City (see Research Notes).<ref name=\"c1900hohn\" /><ref name=\"m1911cert\" /> Her parents and her older brother Adam emigrated from Germany to New York about 1883–84.<ref name=\"ship1883\">\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469.</ref>\n\nIn 1900 \"Annie\", aged 17, lived with her parents and brother at 833 First Avenue, Manhattan, where her father kept a grocery.<ref name=\"c1900hohn\" /> Her brother died in 1902. Her mother died in the Bronx in 1906.<ref name=\"d1906margaret\">\"Certificate and Record of Death\", no. 2762 (1906), Borough of the Bronx, Margaret Hoehn, 27 May 1906; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/4125958 : accessed 17 November 2026); image D-B-1906-0002762. Age 49 y 6 m 9 d; married; born Germany; father Conrad Schmidt; died 629 E. 154th St.; buried Lutheran Cemetery 29 May 1906.</ref><ref name=\"fag_margaretha\">Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\").</ref>\n\nAnna and Alfred B. Bigg Jr. took out a marriage license in Manhattan on 19 May 1911.<ref name=\"marrlic1911\">\"New York, New York, U.S., Marriage License Indexes, 1907-2018\", database, Ancestry (https://www.ancestry.com/search/collections/61406/records/8874548 : accessed 17 November 2026), Anna Hohn and Alfred B Bigg Jr, license 13391, 19 May 1911, Manhattan; citing New York City Municipal Archives, Manhattan, vol. 3.</ref> They were married on 17 June 1911 at St. Mary's (Episcopal) Church, 338 Alexander Avenue, in the Bronx. Anna was then 27 and living at 738 St. Ann's Avenue.<ref name=\"m1911cert\" /><ref name=\"m1911church\">\"New York, U.S., Episcopal Diocese of New York Church Records, 1767-1970\", database, Ancestry (https://www.ancestry.com/search/collections/61224/records/900254562 : accessed 17 November 2026), Anna Heilm [Hohn] and Alfred Benjamin Bigg, marriage 17 Jun 1911, St Mary's.</ref> Their son Alfred was born on 30 October 1913 in Newark, New Jersey. His Social Security record names his mother as Anna Hohn.<ref name=\"numidentbigg\">\"United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6K9F-9HCC : accessed 17 November 2026), Alfred Bigg, born 30 Oct 1913, Newark, New Jersey; died 1 Jun 2003; parents Alfred Bigg and Anna Hohn.</ref> By 1920 the family lived on Avenue E in Bayonne, Hudson County, New Jersey.<ref name=\"c1920bigg\">\"1920 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/6061/records/18782046 : accessed 17 November 2026), Alfred Bigg household, Avenue E, Bayonne Ward 3, Hudson, New Jersey; NARA microfilm publication T625.</ref> In 1930 Anna, aged 47, lived with her husband and son in Bayonne.<ref name=\"c1930bigg\">\"United States, Census, 1930\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:X46X-Z9L : accessed 17 November 2026), Alfred B Bigg household, Bayonne, Hudson, New Jersey; sheet 11, line 95; NARA microfilm publication T626.</ref> After her husband's death in 1948 she lived with her son's family in Bayonne.\n\nAnna died in June 1968. Her obituary appeared in ''The Bayonne Times'' on 18 June 1968.<ref name=\"obit_anna\">\"U.S., Newspapers.com Obituary Index, 1800s-current\", database, Ancestry (https://www.ancestry.com/search/collections/61843/records/2004557073 : accessed 17 November 2026), Anna Bigg, maiden name Hohn, Bayonne; obituary in The Bayonne Times, 18 Jun 1968; burial 20 Jun.</ref>\n\n=== Research Notes ===\n* '''Parents.''' Anna's 1911 marriage certificate names her father as Jacob Hohn and her mother as Margaret Schmidt. She signed it \"Anna Hohn\"; the indexes misread the name as \"Hohu\" and \"Hilser\". The 1900 census shows her as Jacob and Margaret's daughter. Family recollection remembered her father as \"Carl Hoehn, died 1936\" and said she had a stepmother. Her mother died in 1906, so a stepmother after that is possible, but Jacob's remarriage has not been found.\n* '''Birth date and place.''' Family: 4 February 1884, came to the US as a baby. 1900 census: February 1883, Germany, immigrated 1884. 1911 marriage: age 27, born New York City. 1920 census: 35, born New York. 1930 census: 47, born Germany, arrived 1885. The 1883 ''Rhynland'' list probably shows her parents and brother but no infant. That would fit a New York birth in February 1884, but no New York City birth return has been found.\n* '''Surname.''' The family spelled the name Höhn on her mother's gravestone. Search for the family under Höhn, Hohn, Hoehn and Hoene.\n\n== Sources ==\n<references />\n* Letter from a grandson to a great-great-grandson, written 28 September 2022 and revised November 2026 (privately held). Family recollection; the writer notes some dates are estimates.\n",
+  "edit_summary": "Added 1911 marriage certificate and 1900 census naming her parents Jacob Hohn and Margaret Schmidt; 1920 census; documented birth conflict.",
+  "sources": {
+    "m1911cert": "\"Certificate and Record of Marriage\", no. 1449 (1911), Borough of the Bronx, Alfred Benjamin Bigg Jr. and Anna Hohn, 17 Jun 1911; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/8892418 : accessed 17 November 2026); image M-B-1911-0001449. Bride age 27, born New York City; father Jacob Hohn; mother's maiden name Margaret Schmidt; bride signs \"Anna Hohn\".",
+    "c1900hohn": "\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).",
+    "ship1883": "\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469.",
+    "d1906margaret": "\"Certificate and Record of Death\", no. 2762 (1906), Borough of the Bronx, Margaret Hoehn, 27 May 1906; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/4125958 : accessed 17 November 2026); image D-B-1906-0002762. Age 49 y 6 m 9 d; married; born Germany; father Conrad Schmidt; died 629 E. 154th St.; buried Lutheran Cemetery 29 May 1906.",
+    "fag_margaretha": "Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\").",
+    "marrlic1911": "\"New York, New York, U.S., Marriage License Indexes, 1907-2018\", database, Ancestry (https://www.ancestry.com/search/collections/61406/records/8874548 : accessed 17 November 2026), Anna Hohn and Alfred B Bigg Jr, license 13391, 19 May 1911, Manhattan; citing New York City Municipal Archives, Manhattan, vol. 3.",
+    "m1911church": "\"New York, U.S., Episcopal Diocese of New York Church Records, 1767-1970\", database, Ancestry (https://www.ancestry.com/search/collections/61224/records/900254562 : accessed 17 November 2026), Anna Heilm [Hohn] and Alfred Benjamin Bigg, marriage 17 Jun 1911, St Mary's.",
+    "numidentbigg": "\"United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6K9F-9HCC : accessed 17 November 2026), Alfred Bigg, born 30 Oct 1913, Newark, New Jersey; died 1 Jun 2003; parents Alfred Bigg and Anna Hohn.",
+    "c1920bigg": "\"1920 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/6061/records/18782046 : accessed 17 November 2026), Alfred Bigg household, Avenue E, Bayonne Ward 3, Hudson, New Jersey; NARA microfilm publication T625.",
+    "c1930bigg": "\"United States, Census, 1930\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:X46X-Z9L : accessed 17 November 2026), Alfred B Bigg household, Bayonne, Hudson, New Jersey; sheet 11, line 95; NARA microfilm publication T626.",
+    "obit_anna": "\"U.S., Newspapers.com Obituary Index, 1800s-current\", database, Ancestry (https://www.ancestry.com/search/collections/61843/records/2004557073 : accessed 17 November 2026), Anna Bigg, maiden name Hohn, Bayonne; obituary in The Bayonne Times, 18 Jun 1968; burial 20 Jun."
+  }
+}

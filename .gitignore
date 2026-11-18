@@ -1,0 +1,15 @@
+# Private family data and login state: never commit
+data/
+records/
+drafts/
+.browser-profile/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Private family files kept out of the repo
+*.zip
+ancesters.doc
+.claude/

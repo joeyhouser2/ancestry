@@ -1,0 +1,100 @@
+{
+  "action": "create",
+  "status": "ready",
+  "wikitree_id": null,
+  "user_id": null,
+  "relation": {
+    "to": "Hoene-18",
+    "as": "mother",
+    "also": "spouse of Hoene-55 (Jacob Höhn)"
+  },
+  "edit_url": "https://www.wikitree.com/index.php?title=Special:EditFamily&u=12350165&who=mother",
+  "summary": "Create Margaretha (Schmidt) Höhn (18 Nov 1856 Germany - 27 May 1906 Bronx) as mother of Hoene-18 and wife of Hoene-55. Duplicate check done 17 Nov 2026: no match.",
+  "changes": [
+    {
+      "field": "FirstName",
+      "to": "Margaretha",
+      "cites": [
+        "fag_margaretha"
+      ]
+    },
+    {
+      "field": "LastNameAtBirth",
+      "to": "Schmidt",
+      "cites": [
+        "m1911cert",
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "LastNameCurrent",
+      "to": "Höhn",
+      "cites": [
+        "fag_margaretha"
+      ]
+    },
+    {
+      "field": "LastNameOther",
+      "to": "Hohn, Hoehn",
+      "cites": [
+        "c1900hohn",
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "Gender",
+      "to": "Female",
+      "cites": [
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "18 Nov 1856",
+      "status": "",
+      "cites": [
+        "fag_margaretha",
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Germany",
+      "cites": [
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "to": "27 May 1906",
+      "status": "certain",
+      "cites": [
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "DeathLocation",
+      "to": "Bronx, New York, United States",
+      "cites": [
+        "d1906margaret"
+      ]
+    },
+    {
+      "field": "Father (note only)",
+      "to": "Conrad Schmidt (named on death certificate; no profile proposed)",
+      "cites": [
+        "d1906margaret"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nMargaretha Schmidt was born in Germany on 18 November 1856, the daughter of Conrad Schmidt.<ref name=\"fag_margaretha\">Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\").</ref><ref name=\"d1906margaret\">\"Certificate and Record of Death\", no. 2762 (1906), Borough of the Bronx, Margaret Hoehn, 27 May 1906; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/4125958 : accessed 17 November 2026); image D-B-1906-0002762. Age 49 y 6 m 9 d; married; born Germany; father Conrad Schmidt; died 629 E. 154th St.; buried Lutheran Cemetery 29 May 1906.</ref> About 1876 she married Jacob Höhn (Hohn).<ref name=\"c1900hohn\">\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).</ref> Their son Adam was born in Germany on 30 November 1875, and their daughter Anna about February 1883–84.<ref name=\"fag_adam\">Find a Grave, database and images (https://www.findagrave.com/memorial/133020376/adam-hohn : accessed 17 November 2026), memorial 133020376, Adam Hohn (30 Nov 1875-5 Jul 1902), All Faiths Cemetery, Middle Village, Queens, New York.</ref><ref name=\"m1911cert\">\"Certificate and Record of Marriage\", no. 1449 (1911), Borough of the Bronx, Alfred Benjamin Bigg Jr. and Anna Hohn, 17 Jun 1911; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/8892418 : accessed 17 November 2026); image M-B-1911-0001449. Bride age 27, born New York City; father Jacob Hohn; mother's maiden name Margaret Schmidt; bride signs \"Anna Hohn\".</ref> The family came to New York about 1883–84. A \"Mary Hohn\", 26, arrived with Jacob, 32, and Adam, 8, on the ''Rhynland'' on 10 August 1883; this is probably the same family.<ref name=\"ship1883\">\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469.</ref>\n\nIn 1900 Margaret lived with Jacob, Adam and Annie at 833 First Avenue, Manhattan. She was the mother of two children, both then living.<ref name=\"c1900hohn\" /> Adam died in 1902. Margaretha died at home at 629 East 154th Street in the Bronx on 27 May 1906, of heart disease and nephritis, aged 49.<ref name=\"d1906margaret\" /> She was buried on 29 May in the Lutheran (now All Faiths) Cemetery in Middle Village, Queens, beside Adam. Her gravestone reads \"meine geliebte Gattin Margaretha Höhn\".<ref name=\"fag_margaretha\" /> Her daughter Anna gave her mother's maiden name as Margaret Schmidt when she married in 1911.<ref name=\"m1911cert\" />\n\n=== Research Notes ===\n* Her mother's name is blank on her death certificate. Her German birthplace is not yet known.\n\n== Sources ==\n<references />\n",
+  "edit_summary": "Created from 1906 death certificate, gravestone, 1900 census and daughter's 1911 marriage record.",
+  "sources": {
+    "fag_margaretha": "Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\").",
+    "d1906margaret": "\"Certificate and Record of Death\", no. 2762 (1906), Borough of the Bronx, Margaret Hoehn, 27 May 1906; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/4125958 : accessed 17 November 2026); image D-B-1906-0002762. Age 49 y 6 m 9 d; married; born Germany; father Conrad Schmidt; died 629 E. 154th St.; buried Lutheran Cemetery 29 May 1906.",
+    "c1900hohn": "\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).",
+    "fag_adam": "Find a Grave, database and images (https://www.findagrave.com/memorial/133020376/adam-hohn : accessed 17 November 2026), memorial 133020376, Adam Hohn (30 Nov 1875-5 Jul 1902), All Faiths Cemetery, Middle Village, Queens, New York.",
+    "m1911cert": "\"Certificate and Record of Marriage\", no. 1449 (1911), Borough of the Bronx, Alfred Benjamin Bigg Jr. and Anna Hohn, 17 Jun 1911; New York City Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/8892418 : accessed 17 November 2026); image M-B-1911-0001449. Bride age 27, born New York City; father Jacob Hohn; mother's maiden name Margaret Schmidt; bride signs \"Anna Hohn\".",
+    "ship1883": "\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469."
+  }
+}

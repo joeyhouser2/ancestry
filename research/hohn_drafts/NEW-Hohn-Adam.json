@@ -1,0 +1,84 @@
+{
+  "action": "create",
+  "status": "optional",
+  "wikitree_id": null,
+  "user_id": null,
+  "relation": {
+    "to": "Hoene-55",
+    "as": "son",
+    "also": "son of NEW-Schmidt-Margaretha; brother of Hoene-18"
+  },
+  "edit_url": "https://www.wikitree.com/index.php?title=Special:EditFamily&u=23844541&who=child",
+  "summary": "Optional: create Adam Höhn (30 Nov 1875 Germany - 5 Jul 1902 Manhattan), brother of Anna (Hoene-18). Duplicate check done 17 Nov 2026: no match.",
+  "changes": [
+    {
+      "field": "FirstName",
+      "to": "Adam",
+      "cites": [
+        "fag_adam"
+      ]
+    },
+    {
+      "field": "LastNameAtBirth",
+      "to": "Höhn",
+      "cites": [
+        "fag_margaretha"
+      ]
+    },
+    {
+      "field": "LastNameOther",
+      "to": "Hohn",
+      "cites": [
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "Gender",
+      "to": "Male",
+      "cites": [
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "30 Nov 1875",
+      "status": "",
+      "cites": [
+        "fag_adam",
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Germany",
+      "cites": [
+        "c1900hohn"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "to": "5 Jul 1902",
+      "status": "certain",
+      "cites": [
+        "fag_adam",
+        "d1902adam"
+      ]
+    },
+    {
+      "field": "DeathLocation",
+      "to": "Manhattan, New York, New York, United States",
+      "cites": [
+        "d1902adam"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nAdam Höhn was born in Germany on 30 November 1875, the son of Jacob Höhn and Margaretha Schmidt.<ref name=\"fag_adam\">Find a Grave, database and images (https://www.findagrave.com/memorial/133020376/adam-hohn : accessed 17 November 2026), memorial 133020376, Adam Hohn (30 Nov 1875-5 Jul 1902), All Faiths Cemetery, Middle Village, Queens, New York.</ref><ref name=\"c1900hohn\">\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).</ref> He probably came to New York with his parents on the ''Rhynland'' in August 1883.<ref name=\"ship1883\">\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469.</ref> In 1900 he was 20, single, and working as a grocer with his father at 833 First Avenue in Manhattan.<ref name=\"c1900hohn\" /> He died in Manhattan on 5 July 1902, aged 26, and was buried in the Lutheran (now All Faiths) Cemetery in Middle Village, Queens. His mother was buried beside him in 1906.<ref name=\"d1902adam\">\"New York, New York, U.S., Extracted Death Index, 1862-1948\", database, Ancestry (https://www.ancestry.com/search/collections/9131/records/1557712 : accessed 17 November 2026), Adam Hohn, age 25, died 5 Jul 1902, Manhattan, certificate 20097.</ref><ref name=\"fag_margaretha\">Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\").</ref>\n\n== Sources ==\n<references />\n",
+  "edit_summary": "Created from 1900 census, NYC death index and family gravestone.",
+  "sources": {
+    "fag_adam": "Find a Grave, database and images (https://www.findagrave.com/memorial/133020376/adam-hohn : accessed 17 November 2026), memorial 133020376, Adam Hohn (30 Nov 1875-5 Jul 1902), All Faiths Cemetery, Middle Village, Queens, New York.",
+    "c1900hohn": "\"1900 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7602/records/66919373 : accessed 17 November 2026), Jacob Hohn household, 833 First Avenue, Manhattan, New York, New York; enumeration district (ED) 589, sheet 7, lines 93-96; NARA microfilm publication T623, roll 1107. Daughter indexed as \"Horn Hohn\" (name and relationship columns transposed on the image; she is \"Annie\", daughter).",
+    "ship1883": "\"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957\", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/11769566 : accessed 17 November 2026), Jacob Hohn, 32, with Mary Hohn, 26, and Adam Hohn, 8; ship Rhynland, Antwerp to New York, arrived 10 Aug 1883; NARA microfilm publication M237, roll 469.",
+    "d1902adam": "\"New York, New York, U.S., Extracted Death Index, 1862-1948\", database, Ancestry (https://www.ancestry.com/search/collections/9131/records/1557712 : accessed 17 November 2026), Adam Hohn, age 25, died 5 Jul 1902, Manhattan, certificate 20097.",
+    "fag_margaretha": "Find a Grave, database and images (https://www.findagrave.com/memorial/133020303/margaretha-hohn : accessed 17 November 2026), memorial 133020303, Margaretha Hohn (18 Nov 1856-27 May 1906), All Faiths Cemetery, Middle Village, Queens, New York; gravestone photograph by Lisa F. (inscription: \"meine geliebte Gattin Margaretha Höhn ... und Sohn Adam Höhn\")."
+  }
+}

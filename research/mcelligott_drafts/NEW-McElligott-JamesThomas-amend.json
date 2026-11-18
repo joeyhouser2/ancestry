@@ -1,0 +1,41 @@
+{
+  "action": "edit",
+  "status": "ready",
+  "wikitree_id": null,
+  "summary": "Amendment to drafts/NEW-McElligott-JamesThomas.json (main session's draft, not yet saved): exact birth date 6 Jan 1877, baptism 7 Jan 1877 Charlestown, and parents NEW-McElligott-Thomas and NEW-Sullivan-Mary.",
+  "manager_note": "Merge into NEW-McElligott-JamesThomas.json before saving. In its biography, replace 'was born in 1877' with 'was born on 6 January 1877', insert the sentence below, add both sources, and delete the Research Note saying the parents can be added.",
+  "changes": [
+    {
+      "field": "BirthDate",
+      "from": "1877 (about)",
+      "to": "6 Jan 1877",
+      "status": "certain",
+      "cites": [
+        "jtmbirth",
+        "jtmbapt"
+      ]
+    },
+    {
+      "field": "Father",
+      "to": "NEW-McElligott-Thomas",
+      "cites": [
+        "jtmbirth",
+        "jtmbapt"
+      ]
+    },
+    {
+      "field": "Mother",
+      "to": "NEW-Sullivan-Mary",
+      "cites": [
+        "jtmbirth",
+        "jtmbapt"
+      ]
+    }
+  ],
+  "biography": "Sentence to insert after the opening sentence:\nHe was born on 6 January 1877 and baptised the next day at a Catholic church in Charlestown.<ref name=\"jtmbirth\">\"Massachusetts, U.S., Town and Vital Records, 1620-1988\", database, Ancestry (https://www.ancestry.com/search/collections/2495/records/47744464 : accessed 17 November 2026), James McElligott, born 6 Jan 1877, Boston; father Thomas [indexed \"Thoams\"], mother Mary Sullivan.</ref><ref name=\"jtmbapt\">\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/221418 : accessed 17 November 2026), Jacobum [James] McAlligott, born 6 Jan, baptised 7 Jan 1877, Charlestown; father Thoma McAlligott, mother Maria Sullivan; Boston Archdiocese Sacramental Records vol. 48609, p. 200.</ref>\n",
+  "edit_summary": "Exact birth date from Boston birth register and Charlestown baptism.",
+  "sources": {
+    "jtmbirth": "\"Massachusetts, U.S., Town and Vital Records, 1620-1988\", database, Ancestry (https://www.ancestry.com/search/collections/2495/records/47744464 : accessed 17 November 2026), James McElligott, born 6 Jan 1877, Boston; father Thomas [indexed \"Thoams\"], mother Mary Sullivan.",
+    "jtmbapt": "\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/221418 : accessed 17 November 2026), Jacobum [James] McAlligott, born 6 Jan, baptised 7 Jan 1877, Charlestown; father Thoma McAlligott, mother Maria Sullivan; Boston Archdiocese Sacramental Records vol. 48609, p. 200."
+  }
+}

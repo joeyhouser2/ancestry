@@ -1,0 +1,103 @@
+{
+  "action": "create",
+  "status": "ready",
+  "wikitree_id": null,
+  "user_id": null,
+  "relation": {
+    "to": "NEW-McElligott-JamesThomas",
+    "as": "father"
+  },
+  "edit_url": "Create from James Thomas McElligott's profile once it exists: Special:EditFamily&u=<James's user id>&who=father",
+  "summary": "Create Thomas McElligott (born about 1844 Ireland), a Charlestown laborer and the father of James Thomas McElligott. Married (1) Mary Sullivan 1868 and (2) Hannah Noyes 1881. Duplicate check (WikiTree API, 17 Nov 2026): no match.",
+  "changes": [
+    {
+      "field": "FirstName",
+      "to": "Thomas",
+      "cites": [
+        "tmmarr1868",
+        "jtmbirth"
+      ]
+    },
+    {
+      "field": "LastNameAtBirth",
+      "to": "McElligott",
+      "cites": [
+        "tmmarr1868"
+      ]
+    },
+    {
+      "field": "LastNameOther",
+      "to": "McElligot, McAligott, McAlligott",
+      "cites": [
+        "tmchurch1868",
+        "marysdeath",
+        "jtmbapt"
+      ]
+    },
+    {
+      "field": "Gender",
+      "to": "Male",
+      "cites": [
+        "tmmarr1868"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "1844",
+      "status": "about",
+      "cites": [
+        "tmmarr1868",
+        "tmmarr1881"
+      ],
+      "reason": "Age 24 in Nov 1868 and 37 in Oct 1881; 28 in the 1870 census (about 1842)."
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Ireland",
+      "cites": [
+        "tmmarr1868",
+        "tmmarr1881",
+        "census1870"
+      ]
+    },
+    {
+      "field": "Spouse",
+      "to": "NEW-Sullivan-Mary, married 7 Nov 1868, Charlestown, Middlesex, Massachusetts, United States",
+      "cites": [
+        "tmmarr1868",
+        "tmchurch1868"
+      ]
+    },
+    {
+      "field": "Child",
+      "to": "NEW-McElligott-JamesThomas (James Thomas McElligott, 1877-1924)",
+      "cites": [
+        "jtmbirth",
+        "jtmbapt",
+        "jtmmarr",
+        "jtmdeath"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nThomas McElligott was born in Ireland about 1844, the son of Patrick and Catharine McElligott.<ref name=\"tmmarr1868\">\"Massachusetts, U.S., Marriage Records, 1840-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2511/records/7907390 and https://www.ancestry.com/search/collections/2511/records/17907390 : accessed 17 November 2026), Thomas Mc Elligott, 24, born Ireland, son of Patrick and Catharine, and Mary Sullivan, 25, born Ireland, daughter of James and Joanna, married 7 Nov 1868, Charlestown.</ref><ref name=\"tmmarr1881\">\"Massachusetts, U.S., Marriage Records, 1840-1915\", database with images, Ancestry (https://www.ancestry.com/search/collections/2511/records/2575484 : accessed 17 November 2026), Thomas McElligott, 37, laborer, born Ireland, parents Patrick and Katharine, 2nd marriage, and Hannah Noyes [as indexed], 37, born Ireland, parents James and Hannah, married 11 Oct 1881, Boston.</ref>\n\nOn 7 November 1868 he married Mary Sullivan, daughter of James and Joanna Sullivan, at Charlestown, Massachusetts.<ref name=\"tmmarr1868\" /><ref name=\"tmchurch1868\">\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/232083 : accessed 17 November 2026), Thomas McElligot and Mary Sullivan, marriage 7 Nov 1868, Charlestown; vol. 48603, p. 106a.</ref> In 1870 they lived in Charlestown's Ward 1, where Thomas worked as a laborer.<ref name=\"census1870\">\"1870 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7163/records/26578808 : accessed 17 November 2026), Thomas Mcellgott household, Charlestown Ward 1, Middlesex, Massachusetts, dwelling 1371; NARA M593, roll 625, p. 124B. Thomas 28, laborer, born Ireland; Mary 26; Patrick 5/12.</ref>\n\nTheir children, all baptised in Charlestown, were:\n* Patrick, born 23 March 1870; died 30 August 1870.<ref name=\"patbapt\">\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/220939 : accessed 17 November 2026), Patrick McElligott, baptised 25 Mar 1870, Charlestown; father Thomas McElligott, mother Mary Sullivan; vol. 48609, p. 27.</ref><ref name=\"patdeath\">\"Massachusetts, U.S., Death Records, 1841-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2101/records/6517719 : accessed 17 November 2026), Patrick McAlligott, died 30 Aug 1870, Charlestown, infant; father Thomas McAlligott, mother Mary.</ref>\n* Mary Ellen, baptised 18 August 1873; died 27 October 1889 in Boston, aged 16.<ref name=\"mebapt\">\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/221193 : accessed 17 November 2026), Mary Ellen McElligot, baptised 18 Aug 1873, Charlestown; father Thomas McElligot, mother Mary Sullivan; vol. 48609, p. 110.</ref><ref name=\"medeath\">\"Massachusetts, U.S., Death Records, 1841-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2101/records/1334663 : accessed 17 November 2026), Mary E McElligott, died 27 Oct 1889, Boston, age 16, born Charlestown; father Thomas, mother Mary.</ref>\n* Catherine, baptised 21 January 1875.<ref name=\"cathbapt\">\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/297706 : accessed 17 November 2026), Catharinam [Catherine] McElligot, baptised 21 Jan 1875, Charlestown; father Thomae, mother Mariae.</ref>\n* James Thomas, born 6 January 1877; married Mary Delores Carroll in 1904<ref name=\"jtmmarr\">\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FHKG-66Z : accessed 17 November 2026), James Thomas McElligott and Mary Delores Carroll, married 10 Oct 1904, Watertown, Middlesex, Massachusetts; groom born 1877, parents Thomas McElligott and Mary Sullivan; bride's parents James Carroll and Mary Hunt.</ref> and died 12 May 1924 in Boston.<ref name=\"jtmbirth\">\"Massachusetts, U.S., Town and Vital Records, 1620-1988\", database, Ancestry (https://www.ancestry.com/search/collections/2495/records/47744464 : accessed 17 November 2026), James McElligott, born 6 Jan 1877, Boston; father Thomas [indexed \"Thoams\"], mother Mary Sullivan.</ref><ref name=\"jtmbapt\">\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/221418 : accessed 17 November 2026), Jacobum [James] McAlligott, born 6 Jan, baptised 7 Jan 1877, Charlestown; father Thoma McAlligott, mother Maria Sullivan; Boston Archdiocese Sacramental Records vol. 48609, p. 200.</ref><ref name=\"jtmdeath\">\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6ZD7-X1YD : accessed 17 November 2026), James T McElligott, died 12 May 1924, Boston, Suffolk, Massachusetts; born 1877, Charlestown, Boston; parents Thomas McElligott and Mary Sullivan; spouse Mary Carroll McElligott.</ref>\n* Margaret, baptised 21 April 1879; died 26 April 1879.<ref name=\"margbapt\">\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/266624 : accessed 17 November 2026), Margaritam [Margaret] McElligot, baptised 21 Apr 1879, Charlestown; father Thoma, mother Maria.</ref><ref name=\"margdeath\">\"Massachusetts, U.S., Death Records, 1841-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2101/records/3204714 : accessed 17 November 2026), Margaret McElligot, died 26 Apr 1879, Boston, infant; father Thomas, mother Mary.</ref>\n\nMary died in Boston on 17 May 1879, aged 34.<ref name=\"marysdeath\">\"Massachusetts, U.S., Death Records, 1841-1915\", database with images, Ancestry (https://www.ancestry.com/search/collections/2101/records/3204834 : accessed 17 November 2026), Mary McAligott, died 17 May 1879, Boston; married, 34, wife of Thomas, born Ireland; father James, mother Joanna; Boston deaths 1879, p. 112, entry 60.</ref> On 11 October 1881, in Boston, Thomas married secondly Hannah Noyes (surname as indexed), who was also born in Ireland about 1844.<ref name=\"tmmarr1881\" />\n\n=== Research Notes ===\n* His parents' names, Patrick and Catharine (Katharine), appear on both of his marriage records, which is what identifies the 1868 and 1881 grooms as the same man.\n* A Mary McElligott, single, who died in Boston on 10 August 1901 aged 70, was the daughter of Patrick McElligott and Catherine Moore.<ref name=\"aunt1901\">\"Massachusetts, U.S., Death Records, 1841-1915\", database with images, Ancestry (https://www.ancestry.com/search/collections/2101/records/1851432 : accessed 17 November 2026), Mary McElligott, died 10 Aug 1901, Boston; single, 70, born Ireland; father Patrick McElligott, mother Catherine Moore.</ref> She may have been Thomas's sister, which would make his mother Catherine Moore, but no record found so far links them.\n* His place of origin in Ireland and his death are not yet known. The Thomas McElligott who died in Boston on 15 July 1902 named his parents as Thomas McElligott and Mary Gibbons, and is probably a different man. Online trees giving a birth on 15 March 1840 at Ballymacelligott, Kerry cite no source.\n\n== Sources ==\n<references />\n",
+  "edit_summary": "Created from 1868/1881 marriage records, 1870 census and children's Charlestown baptisms.",
+  "sources": {
+    "tmmarr1868": "\"Massachusetts, U.S., Marriage Records, 1840-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2511/records/7907390 and https://www.ancestry.com/search/collections/2511/records/17907390 : accessed 17 November 2026), Thomas Mc Elligott, 24, born Ireland, son of Patrick and Catharine, and Mary Sullivan, 25, born Ireland, daughter of James and Joanna, married 7 Nov 1868, Charlestown.",
+    "tmmarr1881": "\"Massachusetts, U.S., Marriage Records, 1840-1915\", database with images, Ancestry (https://www.ancestry.com/search/collections/2511/records/2575484 : accessed 17 November 2026), Thomas McElligott, 37, laborer, born Ireland, parents Patrick and Katharine, 2nd marriage, and Hannah Noyes [as indexed], 37, born Ireland, parents James and Hannah, married 11 Oct 1881, Boston.",
+    "tmchurch1868": "\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/232083 : accessed 17 November 2026), Thomas McElligot and Mary Sullivan, marriage 7 Nov 1868, Charlestown; vol. 48603, p. 106a.",
+    "census1870": "\"1870 United States Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/7163/records/26578808 : accessed 17 November 2026), Thomas Mcellgott household, Charlestown Ward 1, Middlesex, Massachusetts, dwelling 1371; NARA M593, roll 625, p. 124B. Thomas 28, laborer, born Ireland; Mary 26; Patrick 5/12.",
+    "patbapt": "\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/220939 : accessed 17 November 2026), Patrick McElligott, baptised 25 Mar 1870, Charlestown; father Thomas McElligott, mother Mary Sullivan; vol. 48609, p. 27.",
+    "patdeath": "\"Massachusetts, U.S., Death Records, 1841-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2101/records/6517719 : accessed 17 November 2026), Patrick McAlligott, died 30 Aug 1870, Charlestown, infant; father Thomas McAlligott, mother Mary.",
+    "mebapt": "\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/221193 : accessed 17 November 2026), Mary Ellen McElligot, baptised 18 Aug 1873, Charlestown; father Thomas McElligot, mother Mary Sullivan; vol. 48609, p. 110.",
+    "medeath": "\"Massachusetts, U.S., Death Records, 1841-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2101/records/1334663 : accessed 17 November 2026), Mary E McElligott, died 27 Oct 1889, Boston, age 16, born Charlestown; father Thomas, mother Mary.",
+    "cathbapt": "\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/297706 : accessed 17 November 2026), Catharinam [Catherine] McElligot, baptised 21 Jan 1875, Charlestown; father Thomae, mother Mariae.",
+    "jtmbirth": "\"Massachusetts, U.S., Town and Vital Records, 1620-1988\", database, Ancestry (https://www.ancestry.com/search/collections/2495/records/47744464 : accessed 17 November 2026), James McElligott, born 6 Jan 1877, Boston; father Thomas [indexed \"Thoams\"], mother Mary Sullivan.",
+    "jtmbapt": "\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/221418 : accessed 17 November 2026), Jacobum [James] McAlligott, born 6 Jan, baptised 7 Jan 1877, Charlestown; father Thoma McAlligott, mother Maria Sullivan; Boston Archdiocese Sacramental Records vol. 48609, p. 200.",
+    "jtmdeath": "\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6ZD7-X1YD : accessed 17 November 2026), James T McElligott, died 12 May 1924, Boston, Suffolk, Massachusetts; born 1877, Charlestown, Boston; parents Thomas McElligott and Mary Sullivan; spouse Mary Carroll McElligott.",
+    "margbapt": "\"Massachusetts, U.S., Boston Archdiocese Roman Catholic Sacramental Records, 1789-1920\", database, Ancestry (https://www.ancestry.com/search/collections/61585/records/266624 : accessed 17 November 2026), Margaritam [Margaret] McElligot, baptised 21 Apr 1879, Charlestown; father Thoma, mother Maria.",
+    "margdeath": "\"Massachusetts, U.S., Death Records, 1841-1915\", database, Ancestry (https://www.ancestry.com/search/collections/2101/records/3204714 : accessed 17 November 2026), Margaret McElligot, died 26 Apr 1879, Boston, infant; father Thomas, mother Mary.",
+    "marysdeath": "\"Massachusetts, U.S., Death Records, 1841-1915\", database with images, Ancestry (https://www.ancestry.com/search/collections/2101/records/3204834 : accessed 17 November 2026), Mary McAligott, died 17 May 1879, Boston; married, 34, wife of Thomas, born Ireland; father James, mother Joanna; Boston deaths 1879, p. 112, entry 60.",
+    "aunt1901": "\"Massachusetts, U.S., Death Records, 1841-1915\", database with images, Ancestry (https://www.ancestry.com/search/collections/2101/records/1851432 : accessed 17 November 2026), Mary McElligott, died 10 Aug 1901, Boston; single, 70, born Ireland; father Patrick McElligott, mother Catherine Moore.",
+    "jtmmarr": "\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FHKG-66Z : accessed 17 November 2026), James Thomas McElligott and Mary Delores Carroll, married 10 Oct 1904, Watertown, Middlesex, Massachusetts; groom born 1877, parents Thomas McElligott and Mary Sullivan; bride's parents James Carroll and Mary Hunt."
+  }
+}

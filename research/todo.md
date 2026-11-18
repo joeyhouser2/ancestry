@@ -93,6 +93,20 @@ Goal: find the parents of Joseph McGlynn (b. Mar 1855, NY) and of Ellen Carroll 
 - [ ] Once Ellen's parents are known: her civil birth registration, Jun 1865, Co. Cork, on irishgenealogy.ie (free).
 - [ ] **Joseph's own family**: if the birth index shows John was born in Albany, search the 1860–1880 Albany censuses for a McGlynn household with a Joseph b. about 1855.
 
+# Sopko / Macko line: to-do
+
+Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in today's Slovakia. See [sopko_findings.md](sopko_findings.md).
+
+- [x] Mary's maiden name Macko is confirmed (Bayonne Times obituary, 5 Feb 1947). She died 1947, not 1942.
+- [x] John died about Sep 1923 (Bayonne Times obituary, 21 Sep 1923).
+- [ ] **Ellis Island lists, Andrew Macko (b. about 1878, arrived 1901) and George Macko (b. about 1883, arrived 1903)**: use the stevemorse.org one-step search with given-name variants (András/Ondrej, György/Juraj) and surname variants (Maczko, Matzko). The lists name the village and the relative being joined.
+- [ ] **Full obituaries**, Bayonne Times 21 Sep 1923 and 5 Feb 1947 (Newspapers.com or Bayonne library): church, cemetery, "native of".
+- [ ] **NJ death certificates**: John (Sep 1923) and Mary (Feb 1947). Order from the NJ Department of Health or NJ State Archives (for 1923).
+- [ ] **Bayonne parish registers**: St. John the Baptist (Greek Catholic) or the Slovak parish. The children's baptisms (1893–1912) may name the parents' village, and the marriage about 1892 may be there too.
+- [ ] **John's naturalization**: Hudson County Court of Common Pleas, about 1890–1910.
+- [ ] **Mary Jr.'s 1895 birth "in Hungary"**: look for mother and baby arriving about 1895–96.
+- [ ] Once a village is found: "Slovakia Church and Synagogue Books, 1592-1935" on FamilySearch.
+
 # Hohn drafts: still to decide on WikiTree
 - [ ] Review and save the drafts in `research/hohn_drafts/` (Hoene-55 → Jacob Höhn, new Margaretha Schmidt, optional Adam, Anna update).
 - [ ] Decide whether to change Hoene-55's last name at birth to "Höhn" (this changes the profile ID).

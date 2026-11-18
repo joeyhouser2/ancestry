@@ -5,13 +5,13 @@ Researched 17 November 2026. Every record below was viewed on that date: Ancestr
 ## Short answer
 
 - **James Thomas McElligott** (father of Thomas, McElligott-60) was **born 6 Jan 1877 in Charlestown** and **baptised 7 Jan 1877** at a Charlestown Catholic church. He was the son of **Thomas McElligott and Mary Sullivan**. This is proven by his civil birth record, his baptism, his 1904 marriage and his 1924 death record, which all agree.
-- **Thomas McElligott** (James's father) was born about **1842–44 in Ireland**, the son of **Patrick McElligott and Catharine** (maiden name not stated). He was a laborer and could not read or write in 1870. He married twice:
+- **Thomas McElligott** (James's father) was born about **1842–44 in Ireland**, the son of **Patrick McElligott and Catharine Moore** (Moore was confirmed 18 Nov from the 1868 marriage register image; see §17). He was a laborer and could not read or write in 1870. He married twice:
   1. **Mary Sullivan**, 7 Nov 1868, Charlestown (civil and Catholic records). She was born about 1843–45 in Ireland, daughter of **James Sullivan and Joanna**. She **died 17 May 1879** in Boston, aged 34, "wife of Thomas" (register image read).
   2. **Hannah Noyes** (as indexed), 11 Oct 1881, Boston. It was his 2nd marriage and her 1st. Both were 37 and born in Ireland. His parents are again given as Patrick and Katharine, which is the link that makes him the same man (register image read).
 - **Children of Thomas and Mary (all Charlestown):** Patrick (b. 23 Mar 1870, d. 30 Aug 1870), Mary Ellen (bapt. 18 Aug 1873, d. 27 Oct 1889, aged 16), Catherine (bapt. 21 Jan 1875, fate unknown), **James Thomas** (b. 6 Jan 1877), and Margaret (bapt. 21 Apr 1879, d. 26 Apr 1879). Mary died three weeks after Margaret.
 - **Thomas's death: not found.** The Thomas McElligott who died 15 Jul 1902 in Boston (age 58, fireman) gives his parents as Thomas McElligott and Mary Gibbons (image read). That does not match Patrick and Catharine, so he is probably a different man. An Ancestry member tree ("Stevens Family Tree") merges the two men and gives a birth of "15 Mar 1840, Ballymacelligott, Kerry". That tree has no sources and should not be used.
 - **Irish home parish: not found.** None of the US records found name a county. Kerry baptism indexes for 1834–1850 have **no** Thomas McElligott with father Patrick. Two leads point to the Moyvane/Knockanure area of north Kerry, but neither is proven (see Open leads).
-- **Probable aunt:** Mary McElligott, single, died 10 Aug 1901 in Boston aged 70, born Ireland. She was the daughter of **Patrick McElligott and Catherine Moore** (image read). If she was Thomas's sister, Catharine's maiden name was **Moore**. This is probable but not proven, because nothing in her record mentions Thomas.
+- **Siblings (added 18 Nov):** Mary (about 1831–1901), Margaret (about 1838–1918) and Patrick (1846–1917), all single or widowed in Boston, all with mother **Catherine Moore** on their death records, and the last three buried at Holy Cross, Malden. See §20. (On 17 Nov I called Mary an "aunt" in error.) **The Irish parish is still unknown**; the best lead is Moyvane, north Kerry (§21).
 - **WikiTree:** none of Thomas, Mary Sullivan, Hannah or the Charlestown children exist on WikiTree (searched 17 Nov 2026; see §9). New profiles are drafted in `mcelligott_drafts/`.
 
 ## Findings with citations
@@ -62,7 +62,7 @@ All are from Ancestry's Boston Archdiocese sacramental index (collection 61585) 
 "Massachusetts, U.S., Marriage Records, 1840-1915", Ancestry (https://www.ancestry.com/search/collections/2511/records/2575484 : accessed 17 November 2026), Thomas McElligott and Hannah Noyes, 11 Oct 1881, Boston (register image 1014 of 1258). Entry as read: Thomas McElligott, Boston, 37, laborer, born Ireland, parents Patrick and Katharine, **2nd** marriage; Hannah Noyes [surname as indexed; the handwriting could also be read "Royes"], Boston, 37, born Ireland, parents James and Hannah, 1st marriage.
 - **Why he is the same Thomas:** the same parents' names (Patrick and Catharine/Katharine), the same age (born about 1844) and birthplace, the same occupation, a widower by 1879, and a 2nd marriage.
 
-### 11. Probable aunt: Mary McElligott (about 1831–1901) (image read)
+### 11. Probable sister: Mary McElligott (about 1831–1901) (image read)
 "Massachusetts, U.S., Death Records, 1841-1915", Ancestry (https://www.ancestry.com/search/collections/2101/records/1851432 : accessed 17 November 2026), Mary McElligott, died 10 Aug 1901, Boston (register image 2384 of 2778). Entry as read: female, **single**, 70; malignant disease; burial Calvary(?), Malden(?); born Ireland; father **Patrick McElligott**, mother **Catherine Moore**, both born Ireland.
 - **Probable, not proven,** sister of Thomas. A single woman still using the McElligott surname, with parents Patrick and Catherine, living in Boston in the same years makes this likely. But Patrick McElligott was a common name, and her record does not name Thomas. If she is his sister, Thomas's mother was **Catherine Moore**.
 
@@ -80,7 +80,8 @@ All are from Ancestry's Boston Archdiocese sacramental index (collection 61585) 
 | Mary (Sullivan) died 17 May 1879 Boston | **Proven** (image) |
 | Thomas m. 2nd Hannah Noyes 11 Oct 1881 Boston | **Strong** (same parents, age and birthplace) |
 | Siblings Patrick, Mary Ellen, Catherine, Margaret | **Proven** (baptisms name both parents; Catherine's and Margaret's index lines show Thoma/Maria) |
-| Catharine's maiden name Moore | **Possible** (only via the probable aunt Mary, 1901) |
+| Mary, Margaret and Patrick were Thomas's siblings | **Strong** (all name mother Catherine Moore; same city; 3 Malden burials) |
+| Thomas's mother was Catharine Moore; Mary Sullivan's mother was Joanna Connors | **Proven** (1868 register image, §17) |
 | Thomas born in Ballymacelligott; died 1902 | **Unsupported** (member tree only; conflicts with records) |
 | Irish parish | **Unknown** |
 
@@ -125,6 +126,67 @@ Source for every line: "Church Records" (Kerry RC transcripts), irishgenealogy.i
 
 **How this could connect to Thomas (all speculation):** Thomas's father Patrick would have been born roughly 1800–1820, so he is too late for this list. A Patrick baptised 1797 at Ballybeggan, Tralee (son of Thomas and Catherine Cahane), is the only pre-1800 Patrick apart from Patrick 1773. Treat it as a coincidence of a common name until a record links them.
 
+## Follow-up, 18 November 2026 (Ancestry World Explorer)
+
+### 13. Probable brother: Patrick McElligott (about 1846/47 – ?)
+- Marriage: "Massachusetts, U.S., Marriage Records, 1840-1915", Ancestry (https://www.ancestry.com/search/collections/2511/records/5994722 : accessed 18 November 2026). Patrick Mc Elligott, 30, born Ireland, son of **Patrick and Catharine** Mc Elligott, married **Frances Edwards**, 14 May 1876, Boston. The Catholic entry is in the Boston Archdiocese index ("Patricium McElligott … Francem", 14 May 1876).
+- 1900: "1900 United States Federal Census", Ancestry (https://www.ancestry.com/search/collections/7602/records/75388057 : accessed 18 November 2026), Boston Ward 9, ED 1288, sheet 10, 637 Harrison Ave. Patrick M"Elligott, 53, born Mar 1847 Ireland, immigrated **1865**, not naturalised, boot and shoe maker, married 24 years. Household: wife Frances, 52; daughters Frances C., 22, and Mary E. T., 19 (index says born 1888, but their ages fit about 1878 and 1881).
+- 1910: Boston Ward 9, born 1848 Ireland, immigrated **1859** (index only, https://www.ancestry.com/search/collections/7884 search result; not opened).
+- His death was not found in the Massachusetts death indexes. An Ancestry tree ("Keenan-Cuddy 2020") gives 1914 but cites no source. Frances Edwards McElligott died in 1914 in Boston (https://www.ancestry.com/search/collections/2101/records/8699368, index only).
+
+### 14. Mary McElligott in 1900
+"1900 United States Federal Census", Ancestry (https://www.ancestry.com/search/collections/7602/records/75388109 : accessed 18 November 2026), same sheet as Patrick. Mary McElligon [indexed as McElligott], lodger with Ellen Maginn at **646 Harrison Ave**: 67, born Mar 1833 Ireland, **widowed**, 0 children, immigrated **1850**, houseworker.
+- Her 1901 death record says "single". She has no children, the same surname, and the same father's name (Patrick) as both brothers, and she lived across the street from Patrick. Together these make the three of them probably siblings. The conflict between "single" and "widowed" is noted but doesn't change that.
+- **What this adds:** if the three are siblings, the family emigrated over many years: Mary about 1850, Patrick 1859 or 1865, and Thomas before 1868. Their mother was **Catherine Moore**.
+
+### 15. Hannah McElligott née Nash, died 13 Jul 1900, Boston (image read): probably the other Thomas's wife
+"Massachusetts, U.S., Death Records, 1841-1915", Ancestry (https://www.ancestry.com/search/collections/2101/records/2184685 : accessed 18 November 2026), Boston deaths 1900, July, entry 6 (image 2355 of 2704). Hannah McElligott, maiden name Nash, **wife of Thomas McElligott**, married, 50; abscess of lung and bronchitis; buried Malden; born Ireland; parents **Edmund Nash and Mary Ganty(?)**.
+- Our Thomas's 1881 bride was "Hannah Noyes", 37, with parents James and Hannah. The age (about 1844 vs about 1850) and both parents differ, so this is most likely the wife of the *other* Thomas McElligott (the fireman who died in 1902, also buried at Holy Cross, Malden). Recorded here so it isn't mistaken for our Hannah. Re-reading the 1881 bride's surname on the image would settle it.
+
+### 16. Irish parish search (Ancestry "Ireland, Catholic Parish Registers, 1655-1915", collection 61039, and irishgenealogy.ie Kerry transcripts)
+- **No baptism found for a Thomas McElligott/McElligot/Elligott (about 1838–1848) whose parents were Patrick and Catherine Moore.** The searches covered about 1,300 Ancestry index rows (McElligott, McElligot, Elligott, McEligott, McGillicuddy; births 1820–1850) and all 134 Kerry baptisms with a parent Patrick McElligott in 1825–1860.
+- Couples named Patrick McElligott & Catherine found in Ireland. None has a Thomas, a Patrick (about 1846) or a Mary (about 1831) recorded, so **none can be chosen**:
+  | Couple | Place | Evidence |
+  |---|---|---|
+  | Patrick McElligott & Catherine **Flynn** | Castlemaine (Farnees), Kerry | Mary bapt. Jan 1836 (Ancestry 61039/1056058); James bapt. 28 Dec 1839 (KY-RC-BA-147939; sponsors Richard and Catherine McElligot) |
+  | Patrick McElligott & Catherine **Mulvihill** | Ballybunion, Kerry | marriage Nov 1840 (Ancestry 61039/1577316) |
+  | Patrick McElligott & Catherine **Lawlor** | Ballylongford (Carraghderrig), Kerry | James bapt. 1 May 1847 (KY-RC-BA-73055); Mary bapt. 1 Oct 1853 (KY-RC-BA-74096) |
+  | Patrick Elligott & Catherine **Mc??array** | Ballylongford, Kerry | Edmond, date incomplete in the index (Ancestry 61039/1980907) |
+  | Patrick Elligot & Catherine **Howell** | Pallasgreen & Templebredin (Limerick/Tipperary) | **Thomas** bapt. 14 Jul 1844 (Ancestry 61039/4883677; NLI microfilm 02498/03). This is the only Thomas with a father Patrick and mother Catherine, but the mother's surname is not Moore and the surname is "Elligot". It is a lead only. |
+- Kerry Catholic registers have many gaps for 1840–1850. Several north Kerry parishes (Ballymacelligott, Listowel, Lixnaw) have missing years. A Thomas born about 1844 may simply not have a surviving baptism.
+
+## Follow-up, 18 November 2026 (FamilySearch, signed in): Catherine Moore proven
+
+### 17. The 1868 Charlestown marriage register names Thomas's mother: Catharine Moore (image read)
+"Massachusetts, State Vital Records, 1638-1927", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FHGX-R4D : accessed 18 November 2026), Thomas McElligott and Mary Sullivan, 7 Nov 1868, Charlestown. Register "Marriages Registered in the Town of Charlestown, for the years 1843 to 1873", entry **255**, image 509 of 686.
+- Entry as read: Nov 7; Thomas McElligott, 24, first marriage, Charlestown, laborer; Mary Sullivan, 25, first marriage, Charlestown. Both born Ireland. Groom's parents **Patrick McElligott** and **Catharine Moore**. Bride's parents **James Sullivan** and **Joanna Connors**. Married by Rev. George A. Hamilton, Charlestown.
+- **What it proves:** Thomas's mother was Catharine Moore, and Mary Sullivan's mother was Joanna Connors. The Ancestry index of the same marriage leaves out the maiden names.
+
+### 18. Patrick McElligott's death, Boston, 16 Jun 1917 (image read)
+"Massachusetts, State Vital Records, 1638-1927", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:23RV-CMR : accessed 18 November 2026), Boston deaths 1917, entry 6495, p. 162 (film 004966595, image 163). Entry as read: Patrick McElligott, male, **widowed, 71 (born March 1846)**, 72 Romsey St, died at the Little Sisters of the Poor home; born Ireland; retired shoemaker; informant C. Healy. Father **John** McElligott, Ireland; mother **Catherine Moore**, Ireland. Cause arteriosclerosis. Buried **Holy Cross, Malden**, 20 Jun.
+- His age and birth month match the 1900 census (Mar 1847), and he is a widower, which fits Frances's death in 1914. This is the shoemaker of §13.
+
+### 19. Margaret McElligott, died 7 Aug 1918, Boston (image read): another sister
+"Massachusetts, State Vital Records, 1638-1927", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:23RV-2Z1 : accessed 18 November 2026), Boston deaths 1918, entry 7960, p. 87 (image 88 of 368). Entry as read: Margaret McElligott, female, **single, 80** (born about 1838), 76 E. Canton St, died at City Hospital; born Ireland; retired cook; informant K. Collins. Father **John** McElligott, mother **Catherine Moore**, both born Ireland. Cause chronic myocarditis and arteriosclerosis. Buried **Holy Cross, Malden**, 10 Aug.
+
+### 20. The family, as now proven or probable
+Children of **Patrick McElligott and Catherine (Catharine) Moore**, all born in Ireland, who all came to Boston:
+| Name | Born | Died | Evidence for parents |
+|---|---|---|---|
+| Mary | about 1831–33 | 10 Aug 1901, Boston, single | death: Patrick McElligott and Catherine Moore |
+| Margaret | about 1838 | 7 Aug 1918, Boston, single | death: John McElligott and Catherine Moore |
+| **Thomas** | about 1844 | not found | 1868 marriage: Patrick McElligott and Catharine Moore; 1881 marriage: Patrick and Katharine |
+| Patrick | Mar 1846/47 | 16 Jun 1917, Boston | 1876 marriage: Patrick and Catharine; death: John McElligott and Catherine Moore |
+- **Father's name:** "Patrick" is on the 1868, 1876 and 1881 marriages (given by the grooms themselves) and on Mary's 1901 death. "John" appears only on the 1917 and 1918 deaths, which were given by informants who were not family members (C. Healy, K. Collins). **Patrick is preferred.**
+- **Status:** Thomas's parents are **proven**. The sibling link is **strong**: every one of them has a mother named Catherine Moore, they lived in Boston at the same time, Mary and Patrick were neighbours in 1900, and three of them were buried at Malden.
+- **The 1902 Thomas** (§12) was also buried at Holy Cross, Malden. That is a reason to reopen whether he was our Thomas with a wrong informant (parents given as "Thomas McElligott and Mary Gibbons"). Still unresolved: a Holy Cross lot record would settle it.
+
+### 21. Irish origin: still not found
+- On irishgenealogy.ie (Kerry Catholic transcripts) there are **no** McElligott/Elligott baptisms with mother Catherine Moore for 1825–1850, other than the Moyvane couple Thomas McElligott and Catherine Moore (children 1844–1859, too late). There is also no Patrick McElligott–Catherine Moore marriage for 1815–1840.
+- FamilySearch has no Irish baptism with mother Catherine Moore either.
+- The family's births (about 1831–1847) probably fall in a parish whose registers are missing for those years.
+- **The best clue is the Moyvane family:** a Thomas McElligott married to *another* Catherine Moore, at Clounbrane, Moyvane (Newtownsandes), north Kerry, with children 1844–1859. Two McElligott–Moore marriages in one generation would fit a family link between neighbouring households in Moyvane/Knockanure. **This is a lead, not evidence.**
+
 ## Open leads
 
 1. **Irish origin, next steps:**
@@ -137,6 +199,9 @@ Source for every line: "Church Records" (Kerry RC transcripts), irishgenealogy.i
 4. **1900 census:** James (23) and Thomas (about 56, with Hannah) were not found.
 5. **Thomas's death after 1881:** search the Massachusetts death index 1882–1930 by page for Thomas McElligott/McAligott with spouse Hannah. Also Hannah McElligott's death.
 6. **Catherine (b. 1875)**: her later life is unknown.
+7. **Brother Patrick's death certificate is now the best lead to the parish.** Boston certificates from the 1910s–20s often name the mother's maiden name and sometimes the Irish town. Search the Massachusetts death records 1910–1930 by Ward 9 address (Harrison Ave), or ask Joey to sign in to FamilySearch ("Massachusetts Deaths, 1841-1915" / "1916–1970"). Also check his daughters, Frances C. and Mary E. T. McElligott (born about 1878–1881): their marriage or death records may name a grandparent.
+8. **Mary (1901)**: her death image gives burial "Calvary(?)/Malden(?)". A cemetery record or lot owner could tie her to Patrick or Thomas.
+9. **Reread the 1881 marriage image** to decide whether the bride was "Noyes" or "Nash" (see §15).
 
 ## Notes for merging
 - Living people: none of the drafts include anyone living. James's 1910 household names his wife and two children born 1905/1908, who are all deceased.

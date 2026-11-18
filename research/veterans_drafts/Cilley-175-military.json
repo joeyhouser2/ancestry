@@ -1,0 +1,14 @@
+{
+  "action": "edit",
+  "status": "ready",
+  "wikitree_id": "Cilley-175",
+  "summary": "Add Revolutionary War service: soldier from New Hampshire, enlisted 1775 in Capt. Jacob Webster's company; recognised SAR patriot; buried Town Cemetery, Andover NH.",
+  "manager_note": "Existing WikiTree profile with another manager. Add this as a new section and sources; do not replace the existing biography. Get the edit URL from the profile's Edit tab. Optional category: [[Category: New Hampshire, American Revolution]]. Do not add an SAR sticker with 133056: that is a member number, not a patriot number.",
+  "changes": [],
+  "biography": "Section to add:\n=== Revolutionary War ===\nBenjamin served as a soldier from New Hampshire in the Revolutionary War, enlisting in 1775 in Captain Jacob Webster's company.<ref name=\"cilleydar\">\"U.S., Revolutionary War Burial Index, 1775-1875\", database, Ancestry (https://www.ancestry.com/search/collections/63156/records/54562 : accessed 18 November 2026), Benjamin Silly [Cilley], died 9 Mar 1823 aged 82; enlisted 1775, Capt. Jacob Webster's company; buried Town Cemetery, Andover, New Hampshire; citing DAR annual reports to the U.S. Senate.</ref> The Sons of the American Revolution recognise him as a patriot.<ref name=\"cilleysar\">\"U.S., Sons of the American Revolution Patriots List, 1775-1783\", database, Ancestry (https://www.ancestry.com/search/collections/63651/records/127733 : accessed 18 November 2026), Benjamin Cilley, soldier, New Hampshire; born 12 May 1742 Amesbury; died 9 Mar 1823 Andover NH; spouse Apphia Keniston; citing SAR Known Patriots, SAR membership no. 133056.</ref> He died at Andover on 9 March 1823, aged about 82, and was buried in the town cemetery there.<ref name=\"cilleydar\"/>\n\n=== Research Notes ===\n* Still needed: the primary 1775 muster roll (New Hampshire State Papers, Rolls) for his regiment. No pension file was found.\n",
+  "edit_summary": "Added Revolutionary War service (SAR patriot; DAR burial index).",
+  "sources": {
+    "cilleysar": "\"U.S., Sons of the American Revolution Patriots List, 1775-1783\", database, Ancestry (https://www.ancestry.com/search/collections/63651/records/127733 : accessed 18 November 2026), Benjamin Cilley, soldier, New Hampshire; born 12 May 1742 Amesbury; died 9 Mar 1823 Andover NH; spouse Apphia Keniston; citing SAR Known Patriots, SAR membership no. 133056.",
+    "cilleydar": "\"U.S., Revolutionary War Burial Index, 1775-1875\", database, Ancestry (https://www.ancestry.com/search/collections/63156/records/54562 : accessed 18 November 2026), Benjamin Silly [Cilley], died 9 Mar 1823 aged 82; enlisted 1775, Capt. Jacob Webster's company; buried Town Cemetery, Andover, New Hampshire; citing DAR annual reports to the U.S. Senate."
+  }
+}

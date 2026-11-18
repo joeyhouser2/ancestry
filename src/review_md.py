@@ -17,7 +17,7 @@ ORDER = [
     ("Mother's mother's side: McElligott / Carroll / O'Donnell / Currier", [
         "McElligott-60", "McElligott-60-father", "NEW-McElligott-JamesThomas", "NEW-McElligott-Thomas", "NEW-Sullivan-Mary", "Carroll-4441", "Carroll-4441-parents",
         "NEW-ODonnell-James", "NEW-Mullen-Susan", "Currier-800", "NEW-Currier-Lawson", "NEW-Murphy-Hannah", "NEW-Murphy-parents",
-        "NEW-Currier-Benjamin", "NEW-Wright-Elizabeth"]),
+        "NEW-Currier-Benjamin", "NEW-Wright-Elizabeth", "Currier-1180", "Cilley-175"]),
 ]
 
 

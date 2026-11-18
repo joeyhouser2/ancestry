@@ -1,0 +1,37 @@
+{
+  "action": "create",
+  "status": "ready",
+  "wikitree_id": null,
+  "summary": "Amendment to drafts/NEW-Murphy-parents.json (not yet saved): Martin Murphy's Civil War service, Co. B, 9th Massachusetts Infantry, 1861-64, shoemaker of Weymouth Landing, born about 1833 Ireland, died 25 Jun 1911.",
+  "manager_note": "Merge into Martin Murphy's profile only (not Bridget's) when creating it from NEW-Murphy-parents.json. Martin's own fields can then be filled: birth about 1831-1833 Ireland; death 25 Jun 1911 (place probably Weymouth, still to confirm from the death record). Optional category: [[Category: 9th Massachusetts Infantry, United States Civil War]].",
+  "changes": [
+    {
+      "field": "BirthDate",
+      "to": "about 1833",
+      "status": "about",
+      "cites": [
+        "murphysoldier"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Ireland",
+      "cites": [
+        "murphysoldier"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "to": "25 Jun 1911",
+      "cites": [
+        "murphysoldier"
+      ]
+    }
+  ],
+  "biography": "Section to add to Martin's biography:\n=== Civil War ===\nMartin Murphy, a shoemaker of Weymouth Landing born about 1833 in Ireland, enlisted at 28 on 11 June 1861 as a private in Company B of the 9th Massachusetts Infantry, the state's Irish regiment. He served three years and was mustered out at Boston on 21 June 1864.<ref name=\"murphysoldier\">\"U.S., Civil War Soldier Records and Profiles, 1861-1865\", database, Ancestry (https://www.ancestry.com/search/collections/1555/records/2139248 : accessed 18 November 2026), Martin Murphy, private, Co. B, 9th Massachusetts Infantry; enlisted 11 Jun 1861 aged 28; born about 1833 Ireland; shoemaker of Weymouth Landing; mustered out 21 Jun 1864 Boston; died 25 Jun 1911; citing Massachusetts Soldiers, Sailors and Marines in the Civil War and GAR Department of Massachusetts records.</ref> In 1890 he was still living in Weymouth and was listed on the census schedule of Union veterans.<ref name=\"murphy1890\">\"1890 Veterans Schedules of the U.S. Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/8667/records/61579 : accessed 18 November 2026), Martin Murphy, Weymouth, Norfolk, Massachusetts, enumeration district 686; private, Co. B, 9th Mass. Inf., 11 Jun 1861 - 11 Jun 1864; citing NARA microfilm M123.</ref> He belonged to the Grand Army of the Republic and died on 25 June 1911.<ref name=\"murphysoldier\"/>\n\n=== Research Notes ===\n* '''Identification.''' The soldier's residence (Weymouth), Irish birth and death year (1911) match Hannah L. Murphy's father, Martin Murphy of Weymouth (died 1911 according to FamilySearch's shared tree). His death record naming his wife Bridget would settle it. No pension index card could yet be tied to him.\n",
+  "edit_summary": "Added Civil War service (Co. B, 9th Mass. Infantry) and 1890 veterans schedule.",
+  "sources": {
+    "murphysoldier": "\"U.S., Civil War Soldier Records and Profiles, 1861-1865\", database, Ancestry (https://www.ancestry.com/search/collections/1555/records/2139248 : accessed 18 November 2026), Martin Murphy, private, Co. B, 9th Massachusetts Infantry; enlisted 11 Jun 1861 aged 28; born about 1833 Ireland; shoemaker of Weymouth Landing; mustered out 21 Jun 1864 Boston; died 25 Jun 1911; citing Massachusetts Soldiers, Sailors and Marines in the Civil War and GAR Department of Massachusetts records.",
+    "murphy1890": "\"1890 Veterans Schedules of the U.S. Federal Census\", database with images, Ancestry (https://www.ancestry.com/search/collections/8667/records/61579 : accessed 18 November 2026), Martin Murphy, Weymouth, Norfolk, Massachusetts, enumeration district 686; private, Co. B, 9th Mass. Inf., 11 Jun 1861 - 11 Jun 1864; citing NARA microfilm M123."
+  }
+}

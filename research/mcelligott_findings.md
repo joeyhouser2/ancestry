@@ -226,6 +226,9 @@ The register images for the Boston Archdiocese records are on AmericanAncestors.
 
 What to look for: the witnesses (often siblings, such as Mary, Margaret or Patrick), the church name, and any note of the parish of origin. Boston-area Catholic marriage registers of the 1860s–80s sometimes add "of the parish of ___, Co. Kerry".
 
+## Note: the "McElligott valley" (Ballymacelligott)
+The name is **Ballymacelligott** (*Baile Mhic Eileagóid*, "the McElligotts' town"), a parish just east of Tralee, Co. Kerry. It is the family's ancestral district, but by the 1800s McElligotts were spread across north and central Kerry, so the place name doesn't show that this particular family came from there. **Ballymacelligott's own Catholic registers begin only on 4 Oct 1868** for baptisms and 14 Nov 1868 for marriages (NLI microfilms 04273/01–02, https://registers.nli.ie/registers/vtls000634256 : accessed 18 November 2026). That is after Mary (about 1831), Margaret (about 1838), Thomas (about 1844) and Patrick (1846) were born. Before 1868 the area was served by neighbouring parishes (Tralee and Castleisland), and the Kerry transcripts searched in §16 and §21–22 cover those. An Ancestry member tree's claim that Thomas was born in Ballymacelligott (§12) has no source.
+
 ## Open leads
 
 1. **Irish origin, next steps:**

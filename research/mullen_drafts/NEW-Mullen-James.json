@@ -1,0 +1,91 @@
+{
+  "action": "create",
+  "status": "ready",
+  "wikitree_id": null,
+  "user_id": null,
+  "relation": {
+    "to": "NEW Susan T. Mullen (drafts/NEW-Mullen-Susan.json)",
+    "as": "father"
+  },
+  "summary": "Create James Mullen (about 1829 Charlestown - 8 Dec 1905 Boston), coffin maker and undertaker, father of Susan T. (Mullen) O'Donnell; son of Patrick Mullen and Ellen Loan. Duplicate check (WikiTree API, 18 Nov 2026): no match found for these Mullens.",
+  "changes": [
+    {
+      "field": "FirstName",
+      "to": "James",
+      "cites": [
+        "susanbirth",
+        "jamesdeath"
+      ]
+    },
+    {
+      "field": "LastNameAtBirth",
+      "to": "Mullen",
+      "cites": [
+        "jamesdeath"
+      ]
+    },
+    {
+      "field": "Gender",
+      "to": "Male",
+      "cites": [
+        "jamesdeath"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "1829",
+      "status": "about",
+      "cites": [
+        "jamesdeath"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Charlestown, Middlesex, Massachusetts, United States",
+      "cites": [
+        "jamesdeath",
+        "susanbirth"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "to": "8 Dec 1905",
+      "status": "certain",
+      "cites": [
+        "jamesdeath"
+      ]
+    },
+    {
+      "field": "DeathLocation",
+      "to": "Boston, Suffolk, Massachusetts, United States",
+      "cites": [
+        "jamesdeath"
+      ]
+    },
+    {
+      "field": "Spouse",
+      "to": "NEW Catherine McElaney (probably married 24 Aug 1851, Sandwich, Barnstable, Massachusetts)",
+      "cites": [
+        "cathdeath",
+        "marr1851"
+      ]
+    },
+    {
+      "field": "Child",
+      "to": "NEW Susan T. Mullen (1857-1941)",
+      "cites": [
+        "susanbirth",
+        "marr1882"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nJames Mullen was born in Charlestown, Massachusetts, about 1829, the son of Patrick Mullen and Ellen Loan, who were both born in Ireland.<ref name=\"jamesdeath\">\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5H-PJT : accessed 18 November 2026), James Mullen, died 1905 (8 Dec 1905 per the town record), Boston; age 76, born Charlestown; widowed; undertaker; burial Calvary; parents Patrick Mullen and Ellen Loan, both born Ireland.</ref>\n\nHe married Catherine McElaney (McLaney), who was born in East Cambridge about 1828, the daughter of Thomas and Susan McElaney.<ref name=\"cathdeath\">\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:N7RS-674 : accessed 18 November 2026), Catharine McElaney Mullen, died 1872 (13 Oct 1872 per the town record, https://www.familysearch.org/ark:/61903/1:1:FHGK-ZKH), Boston; age 44, born E. Cambridge; married, spouse James; parents Thomas and Susan, both born Ireland; vol. 249 p. 207.</ref> They were probably the James Mullin and Catherine McLaney who married at Sandwich on 24 August 1851.<ref name=\"marr1851\">\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q29L-JNBG : accessed 18 November 2026), James Mullin and Catherine McLaney, married 24 Aug 1851, Sandwich, Barnstable, Massachusetts; p. 36.</ref> Their daughter Susan T. was born in Cambridge on 24 August 1857, when James was a coffin maker.<ref name=\"susanbirth\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FXCL-6C3 : accessed 18 November 2026), Susan T. Mullen, born 24 Aug 1857, Cambridge, Middlesex; Cambridge births 1857, p. 77, no. 335 (film 004341179, image 922). Parents James and Catherine Mullen; father a coffin maker, born Charlestown; mother born Cambridge.</ref> Susan married James W. O'Donnell in Boston in 1882.<ref name=\"marr1882\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Bride 21, born Cambridge, parents James and Catharine.</ref>\n\nCatherine died in Boston in October 1872.<ref name=\"cathdeath\" /> James, by then an undertaker, died a widower in Boston on 8 December 1905, aged 76, and was buried at Calvary Cemetery.<ref name=\"jamesdeath\" />\n\n=== Research Notes ===\n* The 1851 Sandwich marriage is linked by name only (spelling McLaney); a Find a Grave memorial for Catherine McLaney Mullen (died 1872, Mount Calvary) supports it.\n* Siblings, censuses (1860 Cambridge, 1865-1880 Boston) and his parents' immigration are not yet researched.\n\n== Sources ==\n<references />\n",
+  "edit_summary": "Created from daughter's 1857 birth, 1882 marriage, wife's 1872 death and his 1905 death.",
+  "sources": {
+    "jamesdeath": "\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5H-PJT : accessed 18 November 2026), James Mullen, died 1905 (8 Dec 1905 per the town record), Boston; age 76, born Charlestown; widowed; undertaker; burial Calvary; parents Patrick Mullen and Ellen Loan, both born Ireland.",
+    "cathdeath": "\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:N7RS-674 : accessed 18 November 2026), Catharine McElaney Mullen, died 1872 (13 Oct 1872 per the town record, https://www.familysearch.org/ark:/61903/1:1:FHGK-ZKH), Boston; age 44, born E. Cambridge; married, spouse James; parents Thomas and Susan, both born Ireland; vol. 249 p. 207.",
+    "marr1851": "\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q29L-JNBG : accessed 18 November 2026), James Mullin and Catherine McLaney, married 24 Aug 1851, Sandwich, Barnstable, Massachusetts; p. 36.",
+    "susanbirth": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FXCL-6C3 : accessed 18 November 2026), Susan T. Mullen, born 24 Aug 1857, Cambridge, Middlesex; Cambridge births 1857, p. 77, no. 335 (film 004341179, image 922). Parents James and Catherine Mullen; father a coffin maker, born Charlestown; mother born Cambridge.",
+    "marr1882": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Bride 21, born Cambridge, parents James and Catharine."
+  }
+}

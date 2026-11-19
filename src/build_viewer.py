@@ -6,12 +6,23 @@ Usage (from the repo root, after fetch_tree.py):
 
 The page is a single file with the data embedded. It stays in data/
 (gitignored) because it includes living relatives. Don't publish it.
+
+Optional overlay (data/overlay.json, also gitignored) shows researched people
+who are not on WikiTree yet:
+    {"extra_trees": ["data/tree_extra_x.json"],          # more fetch_tree.py output
+     "edits":  {"Bigg-111": {"draft": "Bigg-111", "Father": "alfred", "Mother": "hattie"}},
+     "people": {"alfred": {"draft": "NEW-Bigg-AlfredSr", "Father": "fred", "Mother": "maryann"},
+                "bart":   {"tier": "lead", "FirstName": "Bartholomew", "BirthDate": "about 1774", ...}}}
+A person's fields come from the named draft's changes (drafts/<draft>.json; skipped
+with "use_changes": false, e.g. for one half of a couple draft), then from the entry. Father/Mother may name another overlay key or a WikiTree ID.
+Tier is "draft" (ready draft), "hold" (draft on hold) or "lead" (research notes only).
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -38,10 +49,84 @@ def relation(gen: int, side: str, gender: str) -> str:
     return f"{base} ({side} side)" if side else base
 
 
+MONTHS = {m: i for i, m in enumerate(
+    "jan feb mar apr may jun jul aug sep oct nov dec".split(), 1)}
+SIMPLE = ("FirstName", "MiddleName", "LastNameAtBirth", "LastNameCurrent", "Nicknames", "Gender",
+          "BirthDate", "BirthLocation", "DeathDate", "DeathLocation")
+SYNTH = 900_000_000  # synthetic ids for people not on WikiTree
+
+
+def wt_date(text: str | None) -> str:
+    """'24 Aug 1857' / 'Aug 1857' / 'about 1833' / '30 Jan 1747/48' -> WikiTree YYYY-MM-DD."""
+    t = (text or "").lower()
+    y = re.search(r"\b(1[0-9]{3})\b", t)
+    if not y:
+        return ""
+    head = t[: y.start()]
+    m = next((MONTHS[w[:3]] for w in re.findall(r"[a-z]+", head) if w[:3] in MONTHS), 0)
+    d = re.search(r"\b([0-3]?[0-9])\b", head)
+    return f"{y.group(1)}-{m:02d}-{int(d.group(1)) if d and m else 0:02d}"
+
+
+def apply_overlay(tree: dict, path: Path, drafts_dir: Path) -> dict[str, dict]:
+    """Merge extra trees and draft/lead people into tree["people"]. Returns {id: overlay info}."""
+    people: dict = tree["people"]
+    ov = json.loads(path.read_text(encoding="utf-8"))
+    for extra in ov.get("extra_trees", []):
+        f = ROOT / extra
+        if f.exists():
+            for k, v in json.loads(f.read_text(encoding="utf-8"))["people"].items():
+                people.setdefault(k, v)
+    by_name = {p["Name"]: k for k, p in people.items() if p.get("Name")}
+    keys = {k: str(SYNTH + i) for i, k in enumerate(ov.get("people", {}))}
+    info: dict[str, dict] = {}
+
+    def draft(name):
+        f = drafts_dir / f"{name}.json"
+        return json.loads(f.read_text(encoding="utf-8")) if name and f.exists() else None
+
+    def fill(p, entry):
+        d = draft(entry.get("draft"))
+        if d and entry.get("use_changes", True):  # False for one person of a couple draft
+            for c in d.get("changes", []):
+                if c.get("field") in SIMPLE and (c.get("to") or c.get("from")):
+                    p[c["field"]] = c.get("to") or ""  # an empty "to" clears the field
+        p.update({k: v for k, v in entry.items() if k in SIMPLE})
+        for k in ("BirthDate", "DeathDate"):
+            if p.get(k) and not re.fullmatch(r"\d{4}-\d\d-\d\d", p[k]):
+                p[k] = wt_date(p[k])
+        for k in ("Father", "Mother"):
+            ref = entry.get(k)
+            if ref:
+                p[k] = int(keys.get(ref) or by_name.get(ref) or 0)
+        return d
+
+    for key, entry in ov.get("people", {}).items():
+        pid = keys[key]
+        p = people[pid] = {"Id": int(pid), "Name": entry.get("draft") or key, "Father": 0, "Mother": 0}
+        d = fill(p, entry)
+        p["bio"] = (d or {}).get("biography", "")
+        tier = entry.get("tier") or ("hold" if (d or {}).get("status") == "hold" else "draft")
+        info[pid] = {"tier": tier, "draft": entry.get("draft") if d else None,
+                     "dsrc": list((d or {}).get("sources", {}).values()),
+                     "note": entry.get("note") or (d or {}).get("hold_reason") or ""}
+    for name, entry in ov.get("edits", {}).items():
+        pid = by_name.get(name)
+        if not pid:
+            print(f"  overlay: {name} not in tree, skipped")
+            continue
+        d = fill(people[pid], entry)
+        info[pid] = {"tier": "edited", "draft": entry.get("draft") if d else None,
+                     "dsrc": list((d or {}).get("sources", {}).values()), "note": entry.get("note", "")}
+    return info
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--tree", default=str(ROOT / "data" / "tree.json"))
     ap.add_argument("--notes", default=str(ROOT / "data" / "research_notes.json"))
+    ap.add_argument("--overlay", default=str(ROOT / "data" / "overlay.json"))
+    ap.add_argument("--drafts", default=str(ROOT / "drafts"))
     ap.add_argument("--out", default=str(ROOT / "data" / "tree.html"))
     args = ap.parse_args()
 
@@ -54,6 +139,22 @@ def main() -> int:
     if not root:
         print("Root profile not found in tree.json")
         return 1
+    info: dict[str, dict] = {}
+    if Path(args.overlay).exists():
+        info = apply_overlay(tree, Path(args.overlay), Path(args.drafts))
+        # Recount generations from the root, since parents were added or changed.
+        gens = {str(root["Id"]): 0}
+        queue = [str(root["Id"])]
+        while queue:
+            c = queue.pop(0)
+            for k in ("Father", "Mother"):
+                par = str(people[c].get(k) or 0)
+                if par in people and par not in gens:
+                    gens[par] = gens[c] + 1
+                    queue.append(par)
+        for pid, g in gens.items():
+            people[pid].setdefault("Meta", {})["Degrees"] = g
+        people = {k: v for k, v in people.items() if k in gens}  # drops branches cut by an edit
 
     # Walk up from the root to label each ancestor's side (first path found wins).
     side: dict[str, str] = {str(root["Id"]): ""}
@@ -92,6 +193,12 @@ def main() -> int:
         gaps = analyse(p, tree.get("ancestors"))
         gen = (p.get("Meta") or {}).get("Degrees") or 0
         n = notes.get(p["Name"], {})
+        ov = info.get(pid, {})
+        lk = links(p)
+        if ov.get("tier") in ("draft", "hold", "lead"):
+            lk = lk[1:]  # no WikiTree profile yet
+        if ov.get("draft"):
+            lk.insert(0, ("Draft file", f"../drafts/{ov['draft']}.json"))
         out[pid] = {
             "id": pid,
             "w": p["Name"],
@@ -115,7 +222,10 @@ def main() -> int:
             "score": sum(GAPS[x][0] for x in gaps),
             "src": extract_sources(p.get("bio") or ""),
             "sug": suggestions(p, gaps, us_hint=pid in us_parent),
-            "links": links(p),
+            "links": lk,
+            "tier": ov.get("tier"),
+            "dsrc": ov.get("dsrc", []),
+            "onote": ov.get("note", ""),
             "flag": n.get("flag"),
             "leads": n.get("leads", []),
             "fam": n.get("family", []),

@@ -1,0 +1,90 @@
+{
+  "action": "create",
+  "status": "ready",
+  "wikitree_id": null,
+  "user_id": null,
+  "relation": {
+    "to": "NEW Susan T. Mullen (drafts/NEW-Mullen-Susan.json)",
+    "as": "mother",
+    "also_spouse_of": "NEW-Mullen-James"
+  },
+  "summary": "Create Catherine (McElaney) Mullen (about 1828 East Cambridge - 13 Oct 1872 Boston), mother of Susan T. Mullen; daughter of Thomas and Susan McElaney.",
+  "changes": [
+    {
+      "field": "FirstName",
+      "to": "Catherine",
+      "cites": [
+        "cathdeath",
+        "susanbirth"
+      ]
+    },
+    {
+      "field": "LastNameAtBirth",
+      "to": "McElaney",
+      "cites": [
+        "cathdeath"
+      ]
+    },
+    {
+      "field": "LastNameOther",
+      "to": "McLaney",
+      "cites": [
+        "marr1851",
+        "cathgrave"
+      ]
+    },
+    {
+      "field": "LastNameCurrent",
+      "to": "Mullen",
+      "cites": [
+        "cathdeath"
+      ]
+    },
+    {
+      "field": "Gender",
+      "to": "Female",
+      "cites": [
+        "cathdeath"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "1828",
+      "status": "about",
+      "cites": [
+        "cathdeath"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "to": "East Cambridge, Middlesex, Massachusetts, United States",
+      "cites": [
+        "cathdeath",
+        "susanbirth"
+      ]
+    },
+    {
+      "field": "DeathDate",
+      "to": "13 Oct 1872",
+      "status": "certain",
+      "cites": [
+        "cathdeath"
+      ]
+    },
+    {
+      "field": "DeathLocation",
+      "to": "Boston, Suffolk, Massachusetts, United States",
+      "cites": [
+        "cathdeath"
+      ]
+    }
+  ],
+  "biography": "== Biography ==\nCatherine McElaney (also McLaney) was born in East Cambridge, Massachusetts, about 1828, the daughter of Thomas and Susan McElaney, both born in Ireland.<ref name=\"cathdeath\">\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:N7RS-674 : accessed 18 November 2026), Catharine McElaney Mullen, died 1872 (13 Oct 1872 per the town record, https://www.familysearch.org/ark:/61903/1:1:FHGK-ZKH), Boston; age 44, born E. Cambridge; married, spouse James; parents Thomas and Susan, both born Ireland; vol. 249 p. 207.</ref> She probably married James Mullin (Mullen) at Sandwich on 24 August 1851.<ref name=\"marr1851\">\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q29L-JNBG : accessed 18 November 2026), James Mullin and Catherine McLaney, married 24 Aug 1851, Sandwich, Barnstable, Massachusetts; p. 36.</ref> Their daughter Susan T. Mullen was born in Cambridge on 24 August 1857; the birth register gives the mother's birthplace as Cambridge.<ref name=\"susanbirth\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FXCL-6C3 : accessed 18 November 2026), Susan T. Mullen, born 24 Aug 1857, Cambridge, Middlesex; Cambridge births 1857, p. 77, no. 335 (film 004341179, image 922). Parents James and Catherine Mullen; father a coffin maker, born Charlestown; mother born Cambridge.</ref>\n\nCatherine died in Boston on 13 October 1872, aged 44, and was buried at Mount Calvary Cemetery, Roslindale.<ref name=\"cathdeath\" /><ref name=\"cathgrave\">\"Find a Grave Index\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:66M9-RX3Y : accessed 18 November 2026), Catherine McLaney Mullen, 1828 - 12 Oct 1872, burial Mount Calvary Cemetery, Roslindale, Boston.</ref>\n\n=== Research Notes ===\n* Her parents Thomas and Susan McElaney (both born in Ireland) are not yet researched.\n\n== Sources ==\n<references />\n",
+  "edit_summary": "Created from her 1872 death record, daughter's 1857 birth and burial index.",
+  "sources": {
+    "cathdeath": "\"Massachusetts, State Vital Records, 1638-1927\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:N7RS-674 : accessed 18 November 2026), Catharine McElaney Mullen, died 1872 (13 Oct 1872 per the town record, https://www.familysearch.org/ark:/61903/1:1:FHGK-ZKH), Boston; age 44, born E. Cambridge; married, spouse James; parents Thomas and Susan, both born Ireland; vol. 249 p. 207.",
+    "marr1851": "\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q29L-JNBG : accessed 18 November 2026), James Mullin and Catherine McLaney, married 24 Aug 1851, Sandwich, Barnstable, Massachusetts; p. 36.",
+    "susanbirth": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FXCL-6C3 : accessed 18 November 2026), Susan T. Mullen, born 24 Aug 1857, Cambridge, Middlesex; Cambridge births 1857, p. 77, no. 335 (film 004341179, image 922). Parents James and Catherine Mullen; father a coffin maker, born Charlestown; mother born Cambridge.",
+    "cathgrave": "\"Find a Grave Index\", database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:66M9-RX3Y : accessed 18 November 2026), Catherine McLaney Mullen, 1828 - 12 Oct 1872, burial Mount Calvary Cemetery, Roslindale, Boston."
+  }
+}

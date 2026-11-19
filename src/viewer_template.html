@@ -67,6 +67,11 @@ label.range input { width: 100%; }
 .box .nm { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .box .sub { font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .box .tags { position: absolute; top: 4px; right: 6px; font-size: 11px; }
+.box.t-draft { border-style: dashed; border-left-style: solid; }
+.box.t-hold, .box.t-lead { border-style: dotted; border-left-style: solid; }
+.box.t-lead .nm { font-style: italic; font-weight: 500; }
+.tier { display: inline-block; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; border-radius: 4px; padding: 0 4px; background: var(--chip); color: var(--muted); margin-left: 4px; vertical-align: 1px; }
+.note { border: 1px dashed var(--line); border-radius: 8px; padding: 8px 12px; margin-top: 12px; font-size: 13px; }
 .compact .box .sub { display: none; }
 .compact .box { padding: 2px 6px; }
 .compact .box .nm { font-size: 12px; }
@@ -138,6 +143,8 @@ const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const lvl = p => p.score >= 15 ? 3 : p.score >= 6 ? 2 : p.score > 0 ? 1 : 0;
 const linkify = s => esc(s).replace(/https?:\/\/[^\s)<]+/g, u => `<a href="${u}" target="_blank" rel="noopener">${u}</a>`);
+const TIER = { draft: "draft", hold: "on hold", lead: "research", edited: "edits drafted" };
+const tierTag = p => p.tier ? `<span class="tier">${TIER[p.tier]}</span>` : "";
 const deadEnd = p => p.gaps.includes("no_parents") || p.gaps.includes("no_father") || p.gaps.includes("no_mother");
 const state = { focus: DATA.root, sel: DATA.root, filter: "priority", side: "all", gmax: 10, q: "" };
 try { Object.assign(state, JSON.parse(localStorage.getItem("treeview") || "{}")); } catch (e) {}
@@ -154,13 +161,14 @@ $("#stats").innerHTML = [
   [all.filter(p => p.gaps.includes("no_parents")).length, "dead ends"],
   [all.filter(p => p.gaps.includes("unsourced")).length, "unsourced"],
   [all.filter(p => p.flag || p.leads.length || p.fam.length || p.found.length).length, "with research notes"],
+  [all.filter(p => ["draft", "hold", "lead"].includes(p.tier)).length, "not on WikiTree yet"],
 ].map(([n, t]) => `<span><b>${esc(n)}</b> ${t}</span>`).join("") +
   `<span>fetched ${esc((DATA.fetched || "").slice(0, 10))}</span>`;
 $("#gmax").max = maxGen;
 
 // ---- filters ----
 const FILTERS = [["priority", "All gaps"], ["notes", "⚑ Research notes"], ["deadend", "Dead ends"],
-  ["unsourced", "Unsourced"], ["places", "Places to fix"], ["all", "Everyone"]];
+  ["unsourced", "Unsourced"], ["places", "Places to fix"], ["new", "Not on WikiTree yet"], ["all", "Everyone"]];
 const SIDES = [["all", "Both sides"], ["father's", "Father's"], ["mother's", "Mother's"]];
 function chips(el, opts, key) {
   el.innerHTML = opts.map(([v, t]) => `<button class="chip" data-v="${v}" aria-pressed="${state[key] === v}">${t}</button>`).join("");
@@ -179,6 +187,7 @@ function renderList() {
   const f = state.filter;
   if (f === "priority") rows = rows.filter(p => p.score > 0 && !p.liv);
   if (f === "notes") rows = rows.filter(p => p.flag || p.leads.length || p.fam.length || p.found.length);
+  if (f === "new") rows = rows.filter(p => ["draft", "hold", "lead"].includes(p.tier));
   if (f === "deadend") rows = rows.filter(p => p.gaps.includes("no_parents"));
   if (f === "unsourced") rows = rows.filter(p => p.gaps.includes("unsourced"));
   if (f === "places") rows = rows.filter(p => p.gaps.some(g => ["vague_place", "place_format", "no_birth_place", "no_death_place"].includes(g)));
@@ -188,7 +197,7 @@ function renderList() {
   $("#count").textContent = `${rows.length} people` + (rows.length > 300 ? " (showing first 300)" : "");
   $("#list").innerHTML = rows.slice(0, 300).map(p =>
     `<li data-id="${p.id}" class="${p.id === state.sel ? "sel" : ""}"><i class="dot s${lvl(p)}"></i>
-      <div><div class="nm">${p.flag || p.leads.length || p.fam.length || p.found.length ? "⚑ " : ""}${esc(p.n)}</div><div class="sub">${esc(p.y)} · gen ${p.gen}</div></div>
+      <div><div class="nm">${p.flag || p.leads.length || p.fam.length || p.found.length ? "⚑ " : ""}${esc(p.n)}${tierTag(p)}</div><div class="sub">${esc(p.y)} · gen ${p.gen}</div></div>
       <span class="sub">${p.score || ""}</span></li>`).join("");
 }
 $("#list").onclick = e => { const li = e.target.closest("li"); if (li) { select(li.dataset.id, true); } };
@@ -214,8 +223,8 @@ function renderPed() {
     const p = id && P[id];
     if (p) {
       const more = g === depth && (p.f || p.m) ? `<div class="more">more ancestors ›</div>` : "";
-      return `<div class="cell"><div class="box b${lvl(p)} ${id === state.sel ? "sel" : ""}" data-id="${id}" data-g="${g}" data-i="${i}">
-        <span class="tags">${p.flag || p.leads.length || p.fam.length || p.found.length ? "⚑" : ""}${p.gaps.includes("unsourced") ? " ∅" : ""}</span>
+      return `<div class="cell"><div class="box b${lvl(p)} ${p.tier ? "t-" + p.tier : ""} ${id === state.sel ? "sel" : ""}" data-id="${id}" data-g="${g}" data-i="${i}">
+        <span class="tags">${p.tier && p.tier !== "edited" ? (p.tier === "lead" ? "?" : "✎") : ""}${p.flag || p.leads.length || p.fam.length || p.found.length ? "⚑" : ""}${p.gaps.includes("unsourced") ? " ∅" : ""}</span>
         <div class="nm">${esc(p.n)}</div><div class="sub">${esc(p.y)}${p.bp ? " · " + esc(p.bp) : ""}</div>${more}</div></div>`;
     }
     const child = g > 0 && slots[g - 1][i >> 1] && P[slots[g - 1][i >> 1]];
@@ -272,8 +281,9 @@ function renderDetail() {
     `<span class="muted">${p[k + "x"] ? "linked beyond fetched depth" : (j ? "Mother" : "Father") + " unknown"}</span>`).join("<br>");
   const kids = all.filter(c => c.f === p.id || c.m === p.id);
   $("#detail").innerHTML = `
-    <h2>${esc(p.n)}</h2>
-    <div class="muted">${esc(p.rel)} · generation ${p.gen} · <a href="https://www.wikitree.com/wiki/${encodeURIComponent(p.w)}" target="_blank" rel="noopener">${esc(p.w)}</a></div>
+    <h2>${esc(p.n)}${tierTag(p)}</h2>
+    <div class="muted">${esc(p.rel)} · generation ${p.gen} · ${["draft", "hold", "lead"].includes(p.tier) ? "not on WikiTree yet" : `<a href="https://www.wikitree.com/wiki/${encodeURIComponent(p.w)}" target="_blank" rel="noopener">${esc(p.w)}</a>`}</div>
+    ${p.tier ? `<div class="note">${{ draft: "From a draft that's ready to save.", hold: "From a draft on hold: the link is probable, not proven.", lead: "From research notes only (no draft yet). Probable unless the note says proven.", edited: "Shown with the changes in its draft; not saved to WikiTree yet." }[p.tier]}${p.onote ? " " + esc(p.onote) : ""}</div>` : ""}
     <dl class="facts">${fact("Born", [fmt(p.b), p.bp].filter(Boolean).join(", "))}${p.liv ? "" : fact("Died", [fmt(p.d), p.dp].filter(Boolean).join(", "))}
       <dt>Parents</dt><dd>${parents}</dd>
       ${kids.length ? `<dt>Child</dt><dd>${kids.map(c => `<a href="#" data-id="${c.id}">${esc(c.n)}</a>`).join("<br>")}</dd>` : ""}</dl>
@@ -284,7 +294,8 @@ function renderDetail() {
     ${p.leads.length ? `<h3>Research leads</h3><ul>${p.leads.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
     ${p.sug.length ? `<h3>Records to look for</h3><ul>${p.sug.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
     <h3>Search</h3><div class="links">${p.links.map(([t, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)} ↗</a>`).join("")}</div>
-    <h3>Sources on WikiTree now</h3>${p.src.length ? `<ul>${p.src.map(s => `<li class="src">${esc(s)}</li>`).join("")}</ul>` : `<span class="muted">None</span>`}
+    ${p.dsrc.length ? `<h3>Sources in the draft (${p.dsrc.length})</h3><ul>${p.dsrc.map(s => `<li class="src">${linkify(s)}</li>`).join("")}</ul>` : ""}
+    ${["draft", "hold", "lead"].includes(p.tier) ? "" : `<h3>Sources on WikiTree now</h3>`}${["draft", "hold", "lead"].includes(p.tier) ? "" : p.src.length ? `<ul>${p.src.map(s => `<li class="src">${esc(s)}</li>`).join("")}</ul>` : `<span class="muted">None</span>`}
     <div style="margin-top:16px"><button class="btn primary" id="center">Center tree on ${esc(p.n.split(" ")[0])}</button></div>`;
   $("#center").onclick = () => { state.focus = p.id; renderPed(); };
 }

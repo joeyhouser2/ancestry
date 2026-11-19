@@ -71,9 +71,14 @@ FamilySearch index, "Massachusetts, State Vital Records, 1638-1927" (search for 
 | Parents married at St Martin in the Fields, 1856 | Possible (§4) |
 | James W. died 14 Jun 1926 | Index and tree only |
 
+## Follow-up, 18 Nov 2026 (later)
+- **London Church of England marriages and banns, 1754–1941** (Ancestry collection 1623, searched 18 Nov 2026): **no** Jeremiah O'Donnell in 1855–1858, no Elizabeth Delay or Le Lay, and no O'Hea. The 1856 St Martin in the Fields marriage was therefore probably at a **Catholic chapel**, so the civil (GRO) certificate is the way to see it.
+- **Susan T. Mullen** was actually born **24 Aug 1857** in Cambridge, the daughter of James Mullen (born Charlestown) and Catherine McElaney (born East Cambridge). See `mullen_findings.md`.
+- **Is the O'Donnell line a dead end? No.** It stops at the Irish border only because no record seen yet names a county. The next records that usually do are the two GRO certificates below (about £12.50 each online), James's London Catholic baptism, and Jeremiah's US naturalization, if he naturalized.
+
 ## Open leads
 1. **GRO certificates** (England, orderable online, about £12.50 each): James William O'Donnell's birth (City of London, Q3 1859, vol. 1c p. 76) gives the mother's maiden name and the address; the 1856 St Martin in the Fields marriage (vol. 1a p. 558) would confirm the bride and name both fathers. **These are the best paths to the Irish origin.**
 2. **London Catholic registers** (Westminster diocese) for James's baptism, about 1859 (City of London chapels, e.g. St Mary Moorfields). These are on Findmypast, which needs a subscription.
 3. **James W.'s 1926 Massachusetts death certificate** (FamilySearch "Massachusetts Deaths, 1841–1915" stops before 1926; the 1926 certificate is at the Massachusetts Archives / State Registry).
-4. **Susan T. Mullen**: her Cambridge birth (about 1860–61), her parents James and Catharine Mullen in the 1865/1870 censuses, and her death.
+4. **Susan T. Mullen**: done; see `mullen_findings.md`.
 5. **Jeremiah's naturalization** (Middlesex courts), if any. It might give an Irish county.

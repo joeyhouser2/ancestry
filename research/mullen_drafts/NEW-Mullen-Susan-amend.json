@@ -1,0 +1,62 @@
+{
+  "action": "edit",
+  "status": "ready",
+  "wikitree_id": null,
+  "summary": "Amendment to drafts/NEW-Mullen-Susan.json (not yet saved): Susan T. Mullen, born 24 Aug 1857 Cambridge MA, daughter of James Mullen (coffin maker, later undertaker) and Catherine McElaney; married James W. O'Donnell 21 Sep 1882 Boston. Replaces research/odonnell_drafts/NEW-Mullen-Susan-amend.json.",
+  "manager_note": "Merge into NEW-Mullen-Susan.json before saving. The marriage gives her age as 21 (about 1861); the birth register (24 Aug 1857, parents James and Catherine, Cambridge) is preferred. FamilySearch's shared tree (LW4N-4Y7) gives her death as Dec 1941, Boston, burial St Joseph, West Roxbury: not yet checked against a record.",
+  "changes": [
+    {
+      "field": "MiddleName",
+      "to": "T.",
+      "cites": [
+        "susanbirth",
+        "marr1882"
+      ]
+    },
+    {
+      "field": "BirthDate",
+      "to": "24 Aug 1857",
+      "status": "certain",
+      "cites": [
+        "susanbirth"
+      ]
+    },
+    {
+      "field": "BirthLocation",
+      "to": "Cambridge, Middlesex, Massachusetts, United States",
+      "cites": [
+        "susanbirth",
+        "marr1882"
+      ]
+    },
+    {
+      "field": "Spouse",
+      "to": "James W. O'Donnell, married 21 Sep 1882, Boston, Suffolk, Massachusetts, United States",
+      "cites": [
+        "marr1882"
+      ]
+    },
+    {
+      "field": "Father",
+      "to": "NEW-Mullen-James",
+      "cites": [
+        "susanbirth",
+        "marr1882"
+      ]
+    },
+    {
+      "field": "Mother",
+      "to": "NEW-McElaney-Catherine",
+      "cites": [
+        "susanbirth",
+        "marr1882"
+      ]
+    }
+  ],
+  "biography": "Sentence to add after the opening sentence:\nSusan T. Mullen was born in Cambridge, Massachusetts, on 24 August 1857, the daughter of James Mullen, a coffin maker, and his wife Catherine (McElaney).<ref name=\"susanbirth\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FXCL-6C3 : accessed 18 November 2026), Susan T. Mullen, born 24 Aug 1857, Cambridge, Middlesex; Cambridge births 1857, p. 77, no. 335 (film 004341179, image 922). Parents James and Catherine Mullen; father a coffin maker, born Charlestown; mother born Cambridge.</ref> She married James W. O'Donnell in Boston on 21 September 1882.<ref name=\"marr1882\">\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Bride 21, born Cambridge, parents James and Catharine.</ref>\n",
+  "edit_summary": "Birth and parents from 1857 Cambridge birth register; marriage from 1882 record.",
+  "sources": {
+    "susanbirth": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FXCL-6C3 : accessed 18 November 2026), Susan T. Mullen, born 24 Aug 1857, Cambridge, Middlesex; Cambridge births 1857, p. 77, no. 335 (film 004341179, image 922). Parents James and Catherine Mullen; father a coffin maker, born Charlestown; mother born Cambridge.",
+    "marr1882": "\"Massachusetts, State Vital Records, 1638-1927\", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:NW5J-1BC : accessed 18 November 2026), James W. O'Donnell and Susan T. Mullen, married 21 Sep 1882, Boston, entry 2849. Bride 21, born Cambridge, parents James and Catharine."
+  }
+}

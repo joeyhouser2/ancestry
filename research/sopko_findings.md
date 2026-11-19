@@ -116,6 +116,28 @@ Kysak (Hungarian Kőszeg/Sároskőszeg) belonged to the parish of **Abos (Obišo
 
 The parish had several János Maczkos, so the parents' names matter when tracing the line further back.
 
+### 10. János Maczko's baptism: Abos, 28 May 1838 (found 19 Nov 2026)
+"Slovakia, Church and Synagogue Books, 1592-1935", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KHC3-JJB : accessed 19 November 2026), Joannes Macko, baptism 1838, Obišovce. Father Georgius Macko, mother Illona Maczko.
+- Image: "Abos. Baptism Registers 1787–1871", DGS 004948211 item 1, image 85 of 163, 1838 entry 10.
+- As read from the image: **Joannes Macko**, born 27 May, baptized 28 May 1838, son.
+  - Parents: **Georgius Macko** and **Ilona Macko**.
+  - Godparents: Georgius Marcin and Elisabetha Kollár.
+  - Status: *colonus* (farmer), "Kőszeghiensis" (of Kőszeg); religion A.C. (Lutheran).
+- **What it proves:** the birth date matches the 1863 marriage's "28 May 1838" (that is the baptism date). Both name the father György. The mother's **maiden name was also Macko**, which explains why the 1863 entry corrects her surname to Maczko.
+- **Siblings, from the index only** (children of Georgius Macko and Ilona):
+  - Anna, 22 Mar 1833 (KHCW-2XL)
+  - Elisabetha, 22 Oct 1840 (KHC3-T3M)
+- **FamilySearch Family Tree:** this record is already attached to a tree profile for János Maczko, 1838 (LDNJ-N7J). It was not reviewed.
+
+**Mary Sopko's ancestry, as now documented:**
+- **Mary Macko (Sopko)**, born 14 Sep 1872, Kysak
+  - **János Maczko**, born 27 May 1838, Kysak; married 26 Aug 1863
+    - **György Maczko**, died 4 Jul 184?
+    - **Ilona Macko**
+  - **Erzsébet Sejga**, born 30 Dec 1838, Abos
+    - **András Sejga**, died 1857
+    - **Erzsébet Dániel**, died 23 Feb 1874
+
 ### Not matched
 - Andras Maczko, 25, arrived 26 Oct 1900 on the *Trier*, residence "Jenrocz" (Ancestry record 4007076483): a different village, so probably not Andrew. Not checked further.
 - Other Gyorgy Maczkos arriving in 1903 (born about 1861 and 1876) are too old for George.
@@ -146,7 +168,8 @@ Source text for those citations:
 
 ## Next steps (the village is now Kysak, see §5–8)
 1. ~~The marriage of János Maczko and Erzsébet Sejga~~: found, 26 Aug 1863 (§9).
-2. **János Maczko's baptism**, about 28 May 1838, Abos (parents György Maczko and Ilona). The FamilySearch index has 1838–41 Macko baptisms at Obišovce, so search under Joannes Macko, 1838. Also look for György's death about 184? (4 July).
+2. ~~János Maczko's baptism~~: found, 28 May 1838 (§10).
+3. **Next generation back:** György Maczko's death (4 Jul 184?) and the marriage of György and Ilona Macko (before 1833). Both are in the Abos 1787–1871 book (DGS 004948211 item 1). The marriage would name a further set of parents.
 3. **John Sopko's own baptism** (Jul 1866): try the Abos register and nearby Lutheran and Greek Catholic parishes. Sopko isn't yet known to be from Kysak.
 2. **Mary Sopko's NJ death certificate, Feb 1947**, from the NJ Department of Health. It gives her parents and birthplace, though usually only the country.
 3. **The full 1947 and 1923 obituaries** (Bayonne Times, Newspapers.com or Bayonne library microfilm). They name the funeral church and burial ground, and sometimes "a native of ___".

@@ -99,8 +99,10 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
 
 - [x] Mary's maiden name Macko is confirmed (Bayonne Times obituary, 5 Feb 1947). She died 1947, not 1942.
 - [x] John died about Sep 1923 (Bayonne Times obituary, 21 Sep 1923).
-- [ ] **Verify the Maczko manifests**: György Maczko (1903, *Königin Luise*, "Koskey") and Stefan Maczko (1904, *Zeeland*, "Koszek"). Check whether they were going to Bayonne or to John Sopko. If so, the village is found (see findings).
-- [ ] **Ellis Island lists, Andrew Macko (b. about 1878, arrived 1901) and George Macko (b. about 1883, arrived 1903)**: use the stevemorse.org one-step search with given-name variants (András/Ondrej, György/Juraj) and surname variants (Maczko, Matzko). The lists name the village and the relative being joined.
+- [x] **Maczko manifests verified (19 Nov 2026)**: Stefan (1904) was joining his brother-in-law John Sopko on John St, Bayonne; György (1903) a brother in Bayonne. Both from "Kószek/Kőszeg", probably **Kysak (Sároskőszeg)** near Košice.
+- [ ] **Confirm Kysak**: find which parish served Kysak and search its registers on FamilySearch for Mary Macko's baptism (Oct 1875) and her brothers' (György about 1885, Stefan about 1888, Andrew about 1875–78).
+- [ ] **John Sopko's own village**: probably the same area; look for his baptism (Jul 1866) in the same registers.
+- [ ] **Andrew Macko's arrival** (about 1901): still not found. Try Ondrej/Andrej Macko/Maczko with residence Kőszeg/Kysak.
 - [ ] **Full obituaries**, Bayonne Times 21 Sep 1923 and 5 Feb 1947 (Newspapers.com or Bayonne library): church, cemetery, "native of".
 - [ ] **NJ death certificates**: John (Sep 1923) and Mary (Feb 1947). Order from the NJ Department of Health or NJ State Archives (for 1923).
 - [ ] **Bayonne parish registers**: St. John the Baptist (Greek Catholic) or the Slovak parish. The children's baptisms (1893–1912) may name the parents' village, and the marriage about 1892 may be there too.

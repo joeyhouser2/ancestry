@@ -34,18 +34,30 @@ Researched 18 November 2026 on Ancestry and FamilySearch (signed in). This build
 ## Ellis Island search (Steve Morse one-step, 18 Nov 2026)
 Tool: stevemorse.org/ellis2/ellisgold.html, which queries the Statue of Liberty–Ellis Island Foundation database through JewishGen.
 
-**Best lead, not yet verified:** two Maczko boys from the same village, matching the 1910 boarders George and Stephen Macko:
-- **György Maczko**, 18, born about 1884–85, residence **"Koskey"**, arrived **1903** on the *Königin Luise*. He matches George Macko, 27 in 1910, who arrived in 1903.
-- **Stefan Maczko**, 16, born about 1887–88, residence **"Koszek"**, arrived **1904** on the *Zeeland*. He matches Stephen Macko, 22 in 1910.
-- **Next step:** open both manifests to see the destination and the "going to join" relative. A destination of Bayonne, or a relative named John Sopko or a Macko, would confirm them and give the village name as written. "Koskey/Koszek" is a transcriber's reading of the place name and needs checking on the image.
-  - Steve Morse's results link to statueofliberty.org/arrival-details. The line number and image reference there let you open the same page on Ancestry (collection 7488, image ID NYT715_[roll]-[frame]).
-  - Note: the Foundation's frame numbers can differ from Ancestry's per-ship numbering, so check the neighboring frames.
+### 5. CONFIRMED (19 Nov 2026): Stefan Maczko was going to his brother-in-law John Sopko in Bayonne
+"New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957", database with images, Ancestry (https://www.ancestry.com/search/collections/7488/records/4031158163 : accessed 19 November 2026), Stefan Maczko, 16, arrived New York 19 Apr 1904 on the *Zeeland* from Antwerp; NARA T715 roll 448, image NYT715_448-0166 (Ancestry frame 41 of 54), line 16.
+- As read from the image: single, laborer, cannot read or write; nationality Hungary; race **Slovak**; last residence **"Kószek"**; final destination **"Bayonne City"**; ticket paid by brother-in-law; going to join **"brother in law John Sopko, [2 or 3]4 John St, Bayonne"**.
+- **What it proves:** the Macko boarders are Mary Sopko's **brothers** (John Sopko is Stefan's brother-in-law), and the family's village was written "Kószek". The Sopkos lived at 34 John St in 1910; the house number here is hard to read.
+
+### 6. György Maczko (1903) was going to a brother in Bayonne, from the same village
+Same collection (https://www.ancestry.com/search/collections/7488/records/4001805513 : accessed 19 November 2026), Gyorgy Maczko, 18, arrived 27 Feb 1903 on the *Königin Luise* from Bremen; NARA T715 roll 325, image NYT715_325-0700 (Ancestry frame 12 of 140; Foundation reference T715-0325-325), line 12. Foundation passenger ID JFBS-W5S.
+- As read from the image: single, laborer, Hungary, race Slovak; last residence **"Kőszeg"**-like (indexed "Roszeg" by Ancestry, "Koskey" by the Foundation); destination **Bayonne, N.J.**; joining a **brother**, whose name looks like "Maczko András", Bayonne, N.J. (hard to read).
+- **What it shows:** George Macko of the 1910 census, and through him Andrew Macko (already in Bayonne by 1903, matching the 1910 census's arrival year of 1901). So the three Macko boarders are brothers of Mary Sopko.
+
+### 7. The village: probably Kysak (Hungarian Sároskőszeg), Sáros County, near Košice
+- "Kószek/Kőszeg" is the Hungarian name element *kőszeg*. The famous Kőszeg is a town in western Hungary (Vas County), which had no Slovak population to speak of, so it doesn't fit two Slovak laborers.
+- **Kysak**, a Slovak village in today's Košice-okolie District, was called **Sároskőszeg** in Hungarian (https://en.wikipedia.org/wiki/Kysak). Emigrants commonly dropped the county prefix ("Sáros-") on the lists.
+- **Assessment:** Kysak is the likely village, but it is an identification from the place name, not yet proven. Confirm it in the Kysak-area Roman Catholic (or Greek Catholic) registers: Mary Macko's baptism about Oct 1875, György about 1885, Stefan about 1888, Andrew about 1875–78; and the Sopko–Macko marriage if it was there.
+
+### Not matched
+- Andras Maczko, 25, arrived 26 Oct 1900 on the *Trier*, residence "Jenrocz" (Ancestry record 4007076483): a different village, so probably not Andrew. Not checked further.
+- Other Gyorgy Maczkos arriving in 1903 (born about 1861 and 1876) are too old for George.
 
 **Ruled out:**
 - Stefan Macko, 16, arrived 27 May 1904 on the *Chemnitz*, residence "Keop...": nationality Russian.
 - Maria Szopko, 25, with Margit (2 months), from "Nadazsd", arrived 13 Jun 1901 on the *Lahn* (T715 roll 205, line 15): her destination was **Toledo**, joining her husband at 309 Front St.
 - János Szopko, 26, arrived 1894 with no residence given: not checked further.
-- Andrew Macko (b. about 1878, arrived 1901): no matching Macko or Maczko; only an Andras Maczko, 24, arriving 1904. Not checked.
+- Andrew Macko (b. about 1878, arrived 1901): no matching Macko or Maczko on Steve Morse; only an Andras Maczko, 24, arriving 1904. Not checked. György's 1903 list shows Andrew was already in Bayonne.
 
 ## Searched with no useful result
 - **FamilySearch death indexes:** John Sopko (1923) and Mary Sopko (1947) are not indexed. FamilySearch's NJ births index has only index entries for the children Veronika (9 Jun 1907), Stephan (8 Dec 1909) and John (1 Jan 1911), with no parents' details.
@@ -65,8 +77,8 @@ Source text for those citations:
 - `obit_mary1947`: "U.S., Newspapers.com Obituary Index, 1800s-current", database, Ancestry (https://www.ancestry.com/search/collections/61843/records/1200731706 : accessed 18 November 2026), Mary Sopko, maiden name Macko, Bayonne; obituary in The Bayonne Times, 5 Feb 1947; spouse John; children including Mary McGlynn, Anna Osbahr, Veronica Peregrin, John and Steven Sopko.
 - `obit_john1923`: "U.S., Newspapers.com Obituary Index, 1800s-current", database, Ancestry (https://www.ancestry.com/search/collections/61843/records/2120492848 : accessed 18 November 2026), John Sopko, Bayonne; obituary in The Bayonne Times, 21 Sep 1923; wife Mary; children including Andrew, Mary McGlynn, Anna Osbahr, Stephen and John.
 
-## What would find the village
-1. **Ellis Island lists for Andrew Macko (1901) and George Macko (1903).** Search stevemorse.org's Ellis Island one-step tool, which searches by town, sound-alikes and given-name variants. Try Andras/Ondrej/Andrej and Gyorgy/Juraj Macko/Maczko/Matzko. The lists give the village and the relative being joined.
+## What would confirm the village (Kysak/Sároskőszeg is the working answer, see §5–7)
+1. **Kysak church registers** on FamilySearch ("Slovakia Church and Synagogue Books, 1592-1935"): find the parish that served Kysak, then Mary Macko's baptism (Oct 1875) and her brothers'. Parents' names there would extend the Macko line.
 2. **Mary Sopko's NJ death certificate, Feb 1947**, from the NJ Department of Health. It gives her parents and birthplace, though usually only the country.
 3. **The full 1947 and 1923 obituaries** (Bayonne Times, Newspapers.com or Bayonne library microfilm). They name the funeral church and burial ground, and sometimes "a native of ___".
 4. **The church registers.** Bayonne's Greek Catholic/Rusyn parish (St. John the Baptist) or Slovak parish holds the baptisms of the children from 1893 to 1912. Their registers often record the parents' native village, and the Sopkos' marriage about 1892 may be there too.

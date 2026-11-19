@@ -101,7 +101,8 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
 - [x] John died about Sep 1923 (Bayonne Times obituary, 21 Sep 1923).
 - [x] **Maczko manifests verified (19 Nov 2026)**: Stefan (1904) was joining his brother-in-law John Sopko on John St, Bayonne; György (1903) a brother in Bayonne. Both from "Kószek/Kőszeg", probably **Kysak (Sároskőszeg)** near Košice.
 - [x] **Kysak confirmed (19 Nov 2026)**: Abos (Obišovce) Lutheran register. Mária Macka was born 14 Sep 1872 at Kőszeg (Kysak) to János Maczko and Erzsébet Sejga. Her brothers András (1877), György (1882) and István (23 Jul 1887, Kőszeg no. 44) were born to the same parents.
-- [ ] **János Maczko–Erzsébet Sejga marriage** (about 1863–64): browse the Abos register's marriage section (DGS 004948211, item 3). It names the next generation.
+- [x] **János Maczko–Erzsébet Sejga marriage**: 26 Aug 1863, Abos Lutheran (film image 560 of 669). His parents: the late György Maczko and Ilona ___. Hers: the late András Sejga and Erzsébet Dániel. She was born 30 Dec 1838 (baptism KHC3-2ZQ).
+- [ ] **János Maczko's baptism** (about 28 May 1838, Abos) and the death of his father György (4 Jul 184?).
 - [ ] **Decide on WikiTree**: add the 1872 baptism to Mary Sopko's draft (birth 14 Sep 1872, Kysak) and create profiles for János Maczko and Erzsébet Sejga.
 - [ ] **John Sopko's own village**: probably the same area; look for his baptism (Jul 1866) in the same registers.
 - [ ] **Andrew Macko's arrival** (about 1901): still not found. Try Ondrej/Andrej Macko/Maczko with residence Kőszeg/Kysak.

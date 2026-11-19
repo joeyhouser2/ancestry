@@ -110,6 +110,8 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
   - Helena, 27 May 1811, daughter of Joannes Maczko and Anna Marton. The 1805 Helena died in 1806.
   - Not proven without the marriage.
 - [ ] **Decide on WikiTree**: add the 1872 baptism to Mary Sopko's draft (birth 14 Sep 1872, Kysak) and create profiles for János Maczko and Erzsébet Sejga.
+- [x] **Sejga–Dániel line**: András Sejga died 6 Mar 1857, about 52. Erzsébet Dániel was born 27 Sep 1807 and died 23 Feb 1874; her parents were János Dániel and Ilona Sztraka. Her death entry names daughter Erzsébet as "wife of János Maczko in Kőszeg".
+- [x] **Sopko–Macko marriage in Abos?** No: none in 1889–Aug 1892, and the film has no later marriages. They probably married in the US, about 1892–94. Search NJ and NY marriage indexes for John Sopko and Mary Macko/Maczko.
 - [ ] **John Sopko's own village**: probably the same area; look for his baptism (Jul 1866) in the same registers.
 - [ ] **Andrew Macko's arrival** (about 1901): still not found. Try Ondrej/Andrej Macko/Maczko with residence Kőszeg/Kysak.
 - [ ] **Full obituaries**, Bayonne Times 21 Sep 1923 and 5 Feb 1947 (Newspapers.com or Bayonne library): church, cemetery, "native of".

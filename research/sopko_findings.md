@@ -173,6 +173,47 @@ All are from "Abos. Baptism Registers 1787–1871", DGS 004948211 item 1 (Latin 
   - The Levoča archive (Štátny archív v Prešove, Spišský archív v Levoči) holds the originals.
   - The 1828 Hungarian land census (Dica) may list a Maczko household in Kőszeg.
 
+### 12. The Sejga–Dániel side (found 19 Nov 2026)
+All from FamilySearch, "Slovakia, Church and Synagogue Books, 1592-1935", Evangelical church, Obišovce, film "Baptisms, marriages, deaths 1796-1894" (images numbered out of 669).
+
+**András Sejga died 6 Mar 1857, Abos** (image 357, 1857 deaths, entry 5).
+- As read: "Sejga András, abosi zsellér (cottager), husband of Erzsébet Dániel".
+- Buried 8 Mar. Age about 52 (the number is overwritten), so born about 1804–05.
+- Cause: ague with fever (*hideglelés, inlázzal*). He lived "at the upper mill" (*felső malomnál*).
+- His baptism is not indexed, and the index has no Sejga baptisms before 1821.
+
+**Erzsébet Dániel died 23 Feb 1874, Abos** (image 513, 1874 deaths, entry 9).
+- As read: "Daniel Erzsébet, Lutheran, widow of András Sejga, who died in Abos in March 1857".
+- Buried 25 Feb. Age **66**, **born 27 Sep 1807**. Widow. Cause: lung disease (*tüdőbaj*), 4 months.
+- Parents: the late **János Dániel**, Lutheran landholder, and **Ilona Sztraka**, Lutheran, residents of Abos.
+- **The margin lists her children:**
+
+| | Child | Born | Note |
+|---|---|---|---|
+| 1 | András | 22 Aug 1833 | died 20 Apr 1838 |
+| 2 | Anna | 29 Jun 1836 | died 25 Aug 1855 |
+| 3 | **Erzsébet** | **30 Dec 1838** | "**Maczko János neje Kőszegen**" (wife of János Maczko, in Kőszeg) |
+| 4 | János | 24 Mar 1844 | married Nov 1872 |
+| 5 | András | 20 Apr 1850 | Abos |
+
+  The index also has an Anna Sejga born 1831 to the same parents (KHC3-KRH), probably a child who died before 1836.
+- **What it proves:** this independently confirms that Mary Sopko's mother Erzsébet Sejga was the daughter of András Sejga and Erzsébet Dániel.
+
+**Erzsébet Dániel's baptism: 27 Sep 1807, Abos**, daughter of **Joannes Dániel and Helena Straka**.
+- Source: FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KHCQ-TJ1 : accessed 19 November 2026), Elisabetha Daniel. Index only; the image was not viewed. The date matches her death entry exactly.
+- Her siblings in the index (same parents):
+  - Joannes, 9 Nov 1802
+  - Anna, 1805
+  - Barbara, 25 Nov 1810
+  - Helena, 1813 and 1815
+
+**John Sopko and Mary did not marry in Abos.** I checked every marriage in the Abos Lutheran register from Jan 1889 to Aug 1892 (images 635–638), and the film has no marriages after that. They probably married in America, around 1892–94.
+- Other Kőszeg Maczkos in those years, not in our line:
+  - 24 Nov 1889: János Maczko, son of János and Anna Maczko (the 1864 couple), married Anna Marga.
+  - 12 Nov 1890: an András Maczko.
+  - 3 Jul 1892: a widower György Maczko of Kőszeg **no. 44**, age 47 (born about 1845), married the widow Anna Martok.
+- Kőszeg no. 44 was our family's house (István was born there in 1887). So that György may be a younger brother of Mary's father János: a son of György and Ilona, born about 1845. Not checked.
+
 **Mary Sopko's ancestry, as now documented:**
 - **Mary Macko (Sopko)**, born 14 Sep 1872, Kysak
   - **János Maczko**, born 27 May 1838, Kysak; married 26 Aug 1863
@@ -181,8 +222,10 @@ All are from "Abos. Baptism Registers 1787–1871", DGS 004948211 item 1 (Latin 
     - **Ilona Macko**
       - probably the daughter of Joannes Maczko and Anna Marton (baptized 27 May 1811)
   - **Erzsébet Sejga**, born 30 Dec 1838, Abos
-    - **András Sejga**, died 1857
-    - **Erzsébet Dániel**, died 23 Feb 1874
+    - **András Sejga**, born about 1805, cottager of Abos, died 6 Mar 1857
+    - **Erzsébet Dániel**, born 27 Sep 1807, Abos, died 23 Feb 1874
+      - **János Dániel**, Lutheran landholder of Abos
+      - **Ilona (Helena) Sztraka**
 
 ### Not matched
 - Andras Maczko, 25, arrived 26 Oct 1900 on the *Trier*, residence "Jenrocz" (Ancestry record 4007076483): a different village, so probably not Andrew. Not checked further.

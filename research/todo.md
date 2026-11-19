@@ -105,7 +105,10 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
 - [x] **János Maczko's baptism**: born 27 May, baptized 28 May 1838, Kőszeg (Kysak), to Georgius Macko and Ilona Macko (KHC3-JJB; item 1, image 85).
 - [x] **György Maczko's death**: 4 Jul 1847, Kőszeg, age 40, husband of Ilona Macko (film image 318 of 669, entry 42).
 - [ ] **György–Ilona marriage** (about 1830–32): not on FamilySearch's film, which has marriages only from 1839. Ask the Levoča archive, or check the bride's parish.
-- [ ] **György's and Ilona's baptisms**: check the index candidates (Georgius 1805, KHC3-51X; Helena 1805, KHC3-Y9H, or 1811, KHC3-N91) on the images.
+- [x] **György's and Ilona's baptisms (probable)**:
+  - Georgius, 26 Apr 1805, son of Joannes Maczko and Anna Gergelyi.
+  - Helena, 27 May 1811, daughter of Joannes Maczko and Anna Marton. The 1805 Helena died in 1806.
+  - Not proven without the marriage.
 - [ ] **Decide on WikiTree**: add the 1872 baptism to Mary Sopko's draft (birth 14 Sep 1872, Kysak) and create profiles for János Maczko and Erzsébet Sejga.
 - [ ] **John Sopko's own village**: probably the same area; look for his baptism (Jul 1866) in the same registers.
 - [ ] **Andrew Macko's arrival** (about 1901): still not found. Try Ondrej/Andrej Macko/Maczko with residence Kőszeg/Kysak.

@@ -140,12 +140,31 @@ The parish had several János Maczkos, so the parents' names matter when tracing
   - Source: 1841 burials, entry 25, film image 151 of 669.
   - He is probably the Georgius Maczko baptized 1803 to Andreas Maczko and Dorothea Martyon (KHCW-4Y6).
 
-**Candidate baptisms, from the index only (none proven):**
-- **For György** (born about 1807): Georgius Maczko, 1805, son of Joannes Maczko and Anna Gergelyi (KHC3-51X). An earlier Georgius was born in 1800 to the same couple (KHC7-7BR); he probably died young, and the name was reused.
-- **For Ilona** (Latin "Helena"):
-  - Helena Maczko, 1805, daughter of Joannes Maczko and Anna Martyon (KHC3-Y9H)
-  - Helena Maczko, 27 May 1811, daughter of Joannes Maczko and Anna Marton (KHC3-N91). These two may be the same couple.
-- The parish's indexing for 1800–1830 is thin, so these lists may be incomplete.
+**György's and Ilona's likely baptisms (read on the images 19 Nov 2026; probable, not proven):**
+
+All are from "Abos. Baptism Registers 1787–1871", DGS 004948211 item 1 (Latin entries).
+
+**György: Georgius, baptized 26 Apr 1805, Kőszeg** (image 19 of 163).
+- Parents: **Joannes Maczko and Anna Gergelyi**.
+- Godparents: Andreas Rozsnyik(?) and Dorothea Scholtz(?).
+- Index: KHC3-51X.
+- He would have been 42 at his death in 1847; the death entry says 40, which is close enough for the time.
+- An earlier Georgius (1800, KHC7-7BR) has the same parents, so that child probably died and the name was reused.
+
+**Ilona: Helena, baptized 27 May 1811, Kőszeg** (image 24 of 163).
+- Parents: **Joannes Maczko and Anna Marton**.
+- Godparents: Andreas Varga and Susanna Greska(?).
+- Index: KHC3-N91.
+- The same couple's earlier **Helena** (baptized 29 Sep 1805, image 19, KHC3-Y9H) **was buried 7 Jul 1806** as "Helena filiola Kőszeghiensis", daughter of Joannes Maczko and Anna Martyon, of consumption (*phthisis*).
+  - Source: 1806 burials, film image 110 of 669.
+- This couple also lost a daughter Anna, aged 1½, to smallpox in Feb 1809 (film image 111).
+- So the 1811 Helena is the only Ilona Maczko of the right age known to have survived in Kőszeg.
+- She would have been about 21 at her marriage (about 1832) and 29 when Elisabetha was born in 1840.
+
+**Why "probable" and not "proven":**
+- Without the marriage record (not filmed), nothing directly links these baptisms to the couple.
+- Kőszeg had several Joannes Maczkos, and the indexing for 1800–1830 is thin, so another György or Ilona may be missing from the index.
+- György's and Ilona's fathers were **two different Joannes Maczkos**, with wives Gergelyi and Marton/Martyon. So the couple were not brother and sister, though they may have been cousins.
 
 **The György–Ilona marriage (about 1830–32) is not on this film.**
 - The Abos Lutheran marriage register on DGS 004948211 begins only in 1839 (film images 155–163, "Series Copulatorum", from page 307). The book's baptisms run 1787–1843 (images 5–104) and its burials 1796–1843 (105–154).
@@ -158,7 +177,9 @@ The parish had several János Maczkos, so the parents' names matter when tracing
 - **Mary Macko (Sopko)**, born 14 Sep 1872, Kysak
   - **János Maczko**, born 27 May 1838, Kysak; married 26 Aug 1863
     - **György Maczko**, born about 1807, died 4 Jul 1847, Kysak
+      - probably the son of Joannes Maczko and Anna Gergelyi (baptized 26 Apr 1805)
     - **Ilona Macko**
+      - probably the daughter of Joannes Maczko and Anna Marton (baptized 27 May 1811)
   - **Erzsébet Sejga**, born 30 Dec 1838, Abos
     - **András Sejga**, died 1857
     - **Erzsébet Dániel**, died 23 Feb 1874

@@ -129,10 +129,35 @@ The parish had several János Maczkos, so the parents' names matter when tracing
   - Elisabetha, 22 Oct 1840 (KHC3-T3M)
 - **FamilySearch Family Tree:** this record is already attached to a tree profile for János Maczko, 1838 (LDNJ-N7J). It was not reviewed.
 
+### 11. György Maczko's death: Kőszeg, 4 July 1847 (found 19 Nov 2026)
+"Slovakia, Church and Synagogue Books, 1592-1935", FamilySearch, Evangelical church, Obišovce, "Baptisms, marriages, deaths 1796-1894": image 318 of 669 (https://www.familysearch.org/ark:/61903/3:1:33S7-9R77-VYW : accessed 19 November 2026). Abos Lutheran death register, 1847, entry 42, page 31.
+- As read from the image: **Macko György**, *kőszegi telkes gazda* (landholding farmer of Kőszeg), husband of **Macko Ilona** ("Macko Ilonának … férje").
+  - Died 4 July 1847, buried 6 July 1847.
+  - Age **40**, so born about 1807.
+  - Cause: *inláz* (a fever). House no. 19.
+- This matches the 1863 marriage note "+1847 Julius 4". 1847 was an epidemic year, with many deaths in the register.
+- **A different György:** a Georgius Macko, a half-tenant farmer of Kőszeg, son of Andreas Macko and Dorothea Márton, was buried 15 Nov 1841 aged 38. He is **not** ours, since ours died in 1847.
+  - Source: 1841 burials, entry 25, film image 151 of 669.
+  - He is probably the Georgius Maczko baptized 1803 to Andreas Maczko and Dorothea Martyon (KHCW-4Y6).
+
+**Candidate baptisms, from the index only (none proven):**
+- **For György** (born about 1807): Georgius Maczko, 1805, son of Joannes Maczko and Anna Gergelyi (KHC3-51X). An earlier Georgius was born in 1800 to the same couple (KHC7-7BR); he probably died young, and the name was reused.
+- **For Ilona** (Latin "Helena"):
+  - Helena Maczko, 1805, daughter of Joannes Maczko and Anna Martyon (KHC3-Y9H)
+  - Helena Maczko, 27 May 1811, daughter of Joannes Maczko and Anna Marton (KHC3-N91). These two may be the same couple.
+- The parish's indexing for 1800–1830 is thin, so these lists may be incomplete.
+
+**The György–Ilona marriage (about 1830–32) is not on this film.**
+- The Abos Lutheran marriage register on DGS 004948211 begins only in 1839 (film images 155–163, "Series Copulatorum", from page 307). The book's baptisms run 1787–1843 (images 5–104) and its burials 1796–1843 (105–154).
+- Earlier marriages may be lost, kept in a separate volume, or recorded in the bride's parish.
+- Possible routes:
+  - The Levoča archive (Štátny archív v Prešove, Spišský archív v Levoči) holds the originals.
+  - The 1828 Hungarian land census (Dica) may list a Maczko household in Kőszeg.
+
 **Mary Sopko's ancestry, as now documented:**
 - **Mary Macko (Sopko)**, born 14 Sep 1872, Kysak
   - **János Maczko**, born 27 May 1838, Kysak; married 26 Aug 1863
-    - **György Maczko**, died 4 Jul 184?
+    - **György Maczko**, born about 1807, died 4 Jul 1847, Kysak
     - **Ilona Macko**
   - **Erzsébet Sejga**, born 30 Dec 1838, Abos
     - **András Sejga**, died 1857
@@ -169,7 +194,8 @@ Source text for those citations:
 ## Next steps (the village is now Kysak, see §5–8)
 1. ~~The marriage of János Maczko and Erzsébet Sejga~~: found, 26 Aug 1863 (§9).
 2. ~~János Maczko's baptism~~: found, 28 May 1838 (§10).
-3. **Next generation back:** György Maczko's death (4 Jul 184?) and the marriage of György and Ilona Macko (before 1833). Both are in the Abos 1787–1871 book (DGS 004948211 item 1). The marriage would name a further set of parents.
+3. ~~György Maczko's death~~: found, 4 Jul 1847 (§11). His marriage to Ilona (about 1830–32) is not on the film, because the marriage register starts in 1839.
+4. **György's and Ilona's own parents:** check the candidate baptisms in §11 on the images (book item 1, images 5–104), and compare godparents and house numbers.
 3. **John Sopko's own baptism** (Jul 1866): try the Abos register and nearby Lutheran and Greek Catholic parishes. Sopko isn't yet known to be from Kysak.
 2. **Mary Sopko's NJ death certificate, Feb 1947**, from the NJ Department of Health. It gives her parents and birthplace, though usually only the country.
 3. **The full 1947 and 1923 obituaries** (Bayonne Times, Newspapers.com or Bayonne library microfilm). They name the funeral church and burial ground, and sometimes "a native of ___".

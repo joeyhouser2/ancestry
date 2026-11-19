@@ -103,7 +103,9 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
 - [x] **Kysak confirmed (19 Nov 2026)**: Abos (Obišovce) Lutheran register. Mária Macka was born 14 Sep 1872 at Kőszeg (Kysak) to János Maczko and Erzsébet Sejga. Her brothers András (1877), György (1882) and István (23 Jul 1887, Kőszeg no. 44) were born to the same parents.
 - [x] **János Maczko–Erzsébet Sejga marriage**: 26 Aug 1863, Abos Lutheran (film image 560 of 669). His parents: the late György Maczko and Ilona ___. Hers: the late András Sejga and Erzsébet Dániel. She was born 30 Dec 1838 (baptism KHC3-2ZQ).
 - [x] **János Maczko's baptism**: born 27 May, baptized 28 May 1838, Kőszeg (Kysak), to Georgius Macko and Ilona Macko (KHC3-JJB; item 1, image 85).
-- [ ] **Next generation back:** the György Maczko–Ilona Macko marriage (before 1833) and György's death (4 Jul 184?), both in the Abos 1787–1871 book.
+- [x] **György Maczko's death**: 4 Jul 1847, Kőszeg, age 40, husband of Ilona Macko (film image 318 of 669, entry 42).
+- [ ] **György–Ilona marriage** (about 1830–32): not on FamilySearch's film, which has marriages only from 1839. Ask the Levoča archive, or check the bride's parish.
+- [ ] **György's and Ilona's baptisms**: check the index candidates (Georgius 1805, KHC3-51X; Helena 1805, KHC3-Y9H, or 1811, KHC3-N91) on the images.
 - [ ] **Decide on WikiTree**: add the 1872 baptism to Mary Sopko's draft (birth 14 Sep 1872, Kysak) and create profiles for János Maczko and Erzsébet Sejga.
 - [ ] **John Sopko's own village**: probably the same area; look for his baptism (Jul 1866) in the same registers.
 - [ ] **Andrew Macko's arrival** (about 1901): still not found. Try Ondrej/Andrej Macko/Maczko with residence Kőszeg/Kysak.

@@ -18,6 +18,9 @@ ORDER = [
         "McElligott-60", "McElligott-60-father", "NEW-McElligott-JamesThomas", "NEW-McElligott-Thomas", "NEW-Sullivan-Mary", "Carroll-4441", "Carroll-4441-parents",
         "NEW-ODonnell-James", "NEW-Mullen-Susan", "NEW-ODonnell-Jeremiah", "NEW-OHea-Eliza", "NEW-Mullen-James", "NEW-McElaney-Catherine", "Currier-800", "NEW-Currier-Lawson", "NEW-Murphy-Hannah", "NEW-Murphy-parents",
         "NEW-Currier-Benjamin", "NEW-Wright-Elizabeth", "Currier-1180", "Cilley-175"]),
+    ("Father's side: Drost / Bąk / Chłap / Bunce / Moore / Bauer", [
+        "Drost-122", "NEW-Bak-Szymon-JadwigaMozdzan", "NEW-Chlap-Antoni-ReginaJakiela", "Bunce-393", "Conlan-245",
+        "Moore-35142", "Unknown-381847", "Bauer-2326", "NEW-Bower-Frederick"]),
 ]
 
 

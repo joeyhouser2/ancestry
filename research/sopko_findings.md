@@ -49,6 +49,50 @@ Same collection (https://www.ancestry.com/search/collections/7488/records/400180
 - **Kysak**, a Slovak village in today's Košice-okolie District, was called **Sároskőszeg** in Hungarian (https://en.wikipedia.org/wiki/Kysak). Emigrants commonly dropped the county prefix ("Sáros-") on the lists.
 - **Assessment:** Kysak is the likely village, but it is an identification from the place name, not yet proven. Confirm it in the Kysak-area Roman Catholic (or Greek Catholic) registers: Mary Macko's baptism about Oct 1875, György about 1885, Stefan about 1888, Andrew about 1875–78; and the Sopko–Macko marriage if it was there.
 
+### 8. The family found in the Abos (Obišovce) Lutheran registers: Kysak confirmed (19 Nov 2026)
+Kysak (Hungarian Kőszeg/Sároskőszeg) belonged to the parish of **Abos (Obišovce)**. The family was **Lutheran** (*evangélikus ágostai hitvallású*). Their entries are in the Abos Lutheran register, filmed in "Slovakia, Church and Synagogue Books, 1592-1935" on FamilySearch (DGS 004948211).
+
+**István (Stefan) Maczko**, born **23 Jul 1887**, baptized 31 Jul 1887, at **Kőszeg no. 44**. Parents: **János Maczko**, Lutheran, and **Erzsébet Sejga**, Lutheran.
+- Index: FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KHC7-6PK : accessed 19 November 2026), István Maczko, 1887, Obišovce; father János Maczko, mother Erzsébet Sejga.
+- Image: "Abos. Baptism Registers 1887–1893", DGS 004948211 item 4, image 7 of 57, entry 33.
+- Stefan was 16 in April 1904, which fits a July 1887 birth.
+
+**Mária Macka**, born **14 Sep 1872** (the index gives baptism 15 Sep), at Kőszeg; confirmed 1886. Parents: **János Macka**, Lutheran, and **Erzsébet Sejga**, Lutheran, "kőszegi lakosok" (residents of Kőszeg).
+- Godparents: János Masag(?) and Mária Márton, wife of György Varga.
+- The notes column records her as the **4th child** and lists the older siblings Erzsébet, Anna and János.
+- Index: FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KHC3-GW3 : accessed 19 November 2026), Mária Macka, baptism 15 Sep 1872, Obišovce.
+- Image: "Abos. Baptism Registers 1855–1888", DGS 004948211 item 3, image 38 of 212, entry 29.
+- A FamilySearch Family Tree stub exists for her (LDN9-QKB), with birth place Kysak but no parents or spouse linked.
+
+**The other children of János Maczko and Erzsébet Sejga, from the index only (images not checked):**
+
+| Child | Baptized | FamilySearch record |
+|---|---|---|
+| Erzsébet | 1865 | KHCQ-49H |
+| Anna | 2 Feb 1867 | KHC3-VLQ |
+| János | 8 Nov 1868 | KHC3-V8X |
+| unnamed child | 1871 | KHC3-2LW |
+| **Mária** | 14/15 Sep 1872 | KHC3-GW3 |
+| Borbála | 4 Jul 1875 | KHC3-J8L |
+| **András** | 1877 | KHCQ-LHJ |
+| unnamed child | 3 Mar 1880 | KHC3-VNN |
+| **György** | 1882 | KHC7-FGY |
+| **István** | 23 Jul 1887 | KHC7-6PK |
+
+- The note beside István's entry seems to mention a György born 10 Aug 1882.
+
+**Assessment: Mária b. 1872 is almost certainly Mary Sopko.**
+- This one family has a Mária, an András, a György and an István, the same four names as Mary Sopko and her three Macko brothers in Bayonne.
+- Stefan's 1904 list names John Sopko as his brother-in-law.
+- Both arrival lists give Kőszeg as the home village.
+- The ages fit the 1910 census: Andrew 32 (b. 1877), George 27 (b. 1882) and Stephen 22 (b. 1887).
+- **Conflict:** the 1900 census gives Mary's birth as Oct 1875, three years later than the baptism. Census ages for immigrant women often drift like this. The family's memory of her dying "aged 75" fits 1872 with her real death year of 1947.
+- A second Maczko couple in the parish (János Maczko and Anna Dzurány(?), KHC3-J6W) had a child baptized 1 Oct 1875, which matches the census month. But that couple has no György or István, so they are the weaker candidates.
+
+**Possible next generation, not proven:** an Elisabetha Sejga was baptized at Obišovce in 1838 to Andreas Sejga and Elisabetha Daniel (KHC3-2ZQ). She would be the right age to be Mary's mother.
+- The marriage of János Maczko and Erzsébet Sejga (about 1863–64) is not indexed.
+- It should be in the marriage section of the same 1855–1888 Abos register (DGS 004948211, item 3) and would name both sets of parents.
+
 ### Not matched
 - Andras Maczko, 25, arrived 26 Oct 1900 on the *Trier*, residence "Jenrocz" (Ancestry record 4007076483): a different village, so probably not Andrew. Not checked further.
 - Other Gyorgy Maczkos arriving in 1903 (born about 1861 and 1876) are too old for George.
@@ -77,8 +121,9 @@ Source text for those citations:
 - `obit_mary1947`: "U.S., Newspapers.com Obituary Index, 1800s-current", database, Ancestry (https://www.ancestry.com/search/collections/61843/records/1200731706 : accessed 18 November 2026), Mary Sopko, maiden name Macko, Bayonne; obituary in The Bayonne Times, 5 Feb 1947; spouse John; children including Mary McGlynn, Anna Osbahr, Veronica Peregrin, John and Steven Sopko.
 - `obit_john1923`: "U.S., Newspapers.com Obituary Index, 1800s-current", database, Ancestry (https://www.ancestry.com/search/collections/61843/records/2120492848 : accessed 18 November 2026), John Sopko, Bayonne; obituary in The Bayonne Times, 21 Sep 1923; wife Mary; children including Andrew, Mary McGlynn, Anna Osbahr, Stephen and John.
 
-## What would confirm the village (Kysak/Sároskőszeg is the working answer, see §5–7)
-1. **Kysak church registers** on FamilySearch ("Slovakia Church and Synagogue Books, 1592-1935"): find the parish that served Kysak, then Mary Macko's baptism (Oct 1875) and her brothers'. Parents' names there would extend the Macko line.
+## Next steps (the village is now Kysak, see §5–8)
+1. **The marriage of János Maczko and Erzsébet Sejga** (about 1863–64): browse the marriage section of the Abos Lutheran register (DGS 004948211, item 3).
+2. **John Sopko's own baptism** (Jul 1866): try the Abos register and nearby Lutheran and Greek Catholic parishes. Sopko isn't yet known to be from Kysak.
 2. **Mary Sopko's NJ death certificate, Feb 1947**, from the NJ Department of Health. It gives her parents and birthplace, though usually only the country.
 3. **The full 1947 and 1923 obituaries** (Bayonne Times, Newspapers.com or Bayonne library microfilm). They name the funeral church and burial ground, and sometimes "a native of ___".
 4. **The church registers.** Bayonne's Greek Catholic/Rusyn parish (St. John the Baptist) or Slovak parish holds the baptisms of the children from 1893 to 1912. Their registers often record the parents' native village, and the Sopkos' marriage about 1892 may be there too.

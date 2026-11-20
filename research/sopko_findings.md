@@ -214,6 +214,32 @@ All from FamilySearch, "Slovakia, Church and Synagogue Books, 1592-1935", Evange
   - 3 Jul 1892: a widower György Maczko of Kőszeg **no. 44**, age 47 (born about 1845), married the widow Anna Martok.
 - Kőszeg no. 44 was our family's house (István was born there in 1887). So that György may be a younger brother of Mary's father János: a son of György and Ilona, born about 1845. Not checked.
 
+### 13. John Sopko and Mary Macko married in Manhattan, 24 July 1892 (found 20 Nov 2026)
+"New York City Marriage Certificates", NYC Municipal Archives, Historical Vital Records (https://a860-historicalvitalrecords.nyc.gov/view/8066710 : accessed 20 November 2026), certificate M-M-1892-0009066 (Manhattan no. 9066). The groom is indexed as **"John Lopko"**: the archive misread the S as an L, which is why every Sopko search missed it.
+
+| | Groom | Bride |
+|---|---|---|
+| Name | **John Sopko** | **Marie Macko** |
+| Residence | Centreville, N.J. | Centreville, N.J. |
+| Age | 24 (so born about 1868) | 18 (so born about 1874) |
+| Race, status | white, single | white, single |
+| Birthplace | Hungary | Hungary |
+| Father | **John Sopko** | **John Macko** |
+| Mother's maiden name | **Marie Novak** | **Lizzie Sejga** |
+| Marriage | his first | her first |
+
+- **Married 24 July 1892, recorded 25 July,** by **Vincent Pisek**, priest and pastor, of 347 E. 4th St, New York. That address was St. John Nepomucene, the Bohemian (Czech) Catholic church on the Lower East Side.
+- Witnesses: Andreas Sokaj(?) and George Vavrinec(?). The readings are uncertain.
+- **Centreville** was a neighborhood of Bayonne (the Centreville section, around the Bayonne–Jersey City line), so the couple was already in Bayonne in 1892.
+
+**What it proves:**
+- The bride's parents, "John Macko" and "Lizzie Sejga" (Erzsébet = Elizabeth = Lizzie), match the Abos Lutheran register exactly. **Mary Sopko is the daughter of János Maczko and Erzsébet Sejga of Kőszeg (Kysak).** This settles the identification in §8, which until now rested on matching names and ages.
+- **John Sopko's parents:** **John (János) Sopko and Marie (Mária) Novak.** This is the first record to name them.
+- **Age conflict:** the bride's age of 18 points to a birth about 1874, against the 14 Sep 1872 baptism, which would make her 19 going on 20. Her ages drift later in every record (1900 census: Oct 1875). The parents' names identify her firmly, so the 1872 baptism stands.
+- **Religion:** the bride's family was Lutheran in Abos, but the couple married before a Catholic priest. John Sopko was probably Roman Catholic (or Greek Catholic). That suggests his home parish was Catholic, not the Abos Lutheran one.
+
+**Next for John Sopko's line:** search Slovak Catholic and Greek Catholic baptisms about 1866–68 for a János Sopko with parents János Sopko and Mária Novák. Start in the Kysak–Košice area, and also around Svidník (see §4).
+
 **Mary Sopko's ancestry, as now documented:**
 - **Mary Macko (Sopko)**, born 14 Sep 1872, Kysak
   - **János Maczko**, born 27 May 1838, Kysak; married 26 Aug 1863

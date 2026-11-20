@@ -114,6 +114,45 @@ Line: Lillian J. Currier (1890) ← Lawson W. Currier ← **Benjamin Currier (18
    - Ancestry turns up only family trees for Benjamin Cilley, died 1765, Kingston.
    - The Kingston NH town records (for the 1736 marriage and the 1742 birth) need FamilySearch, which was **signed out** in Chrome this session.
 
+## Follow-up, 20 Nov 2026: Richard's parents in Salisbury, Wiltshire
+Source for all entries below: "Wiltshire, England, Church of England Baptisms, Marriages and Burials, 1538-1812", Ancestry (collection 61187, accessed 20 November 2026). The register is Salisbury St Thomas, parish registers 1570–1653 (Wiltshire and Swindon History Centre ref. 1900/5) unless another parish is named. Old Style years are given as written, with the modern year after the slash.
+
+11. **The parents' marriage (image read).** Under 1610 weddings, January: "Thomas Currier to Martha Osborne", the 14th. The 1610 page runs from November into the new year, so this is **14 Jan 1610/11** (record 587474, image 143 of 296).
+12. **Their children, all baptized at St Thomas** (index; Richard's entry image read earlier):
+
+    | Child | Baptized | Entry | Record |
+    |---|---|---|---|
+    | Elizabeth | 28 Oct 1611 | father Thomas | 587618, image 146 |
+    | Thomas | 23 Jan 1613/14 | father Thomas | 588005, image 153 |
+    | **Richard** | **6 Mar 1616/17** | "the sonn of Thomas Curryer" | 588459, image 162 |
+
+    This matches the children WikiTree lists on Currier-32.
+13. **A Thomas Curryer was buried at St Thomas on 28 Jun 1627 (image read).** The 1627 burials, June, read "Thomas Curryer — 28", with no note such as "householder" or "the elder" (record 590003, image 192).
+    - He is probably Richard's father, since he is the only adult Thomas in the parish in the 1620s.
+    - But a Thomas Currier was also buried at St Thomas on **4 Apr 1653** (register 1900/6, record 1502213). That one is probably Richard's brother Thomas, born 1613/14.
+    - WikiTree's death year of 1676 for Currier-32 has no source. Its "Fladbury, Worcestershire" burial is marked doubtful on the profile itself.
+14. **Other Curriers in Salisbury.** These are possible relatives, not proven:
+    - **Margaret Curryer**, buried at St Thomas on **4 Jan 1609/10** (image read; no relationship stated). She was buried a year before Thomas married Martha, so she may have been Thomas's first wife or his mother.
+    - **Henry Curryer** at St Thomas had a son John baptized on 27 Dec 1580.
+    - A Henry Curryer at St Edmund's had a daughter Marye baptized on 28 Sep 1590, and was buried at St Edmund's on 22 Nov 1602.
+    - The Currier-32 biography suggests Thomas was a son of "Henry married in 1579". These Henry entries fit that, but no baptism of Thomas was found in the Wiltshire index.
+    - A **Thomas Curryer at St Edmund's** had children in 1596:
+      - Anna, baptized 20 Jan 1596
+      - Francis, buried 19 Apr 1596
+      - Cuthbert, buried 8 Sep 1596
+      He may be the "Thomas the elder" (married 1592) of the WikiTree note. He may or may not be Richard's father.
+    - **Henry and Martha Currier** had a daughter Martha baptized at St Thomas on 16 Jan 1624/5 (image read: "Martha d. of Henrie & Martha Currier"). Thomas was still alive in 1624, so this is a different couple, perhaps Thomas's brother Henry. It is not Martha (Osborne) remarried.
+15. **Martha Osborne.** No baptism was found in the Wiltshire index, so WikiTree's 1593 birth is a guess. Its death date, 23 Dec 1650 at Caddington, Bedfordshire, has no source.
+16. **Richard's wife Ann.** The 1910 genealogy names her only as "Ann", from a deed of 8 Jul 1671 in which "his wife Ann" released dower. Her surname is unknown. WikiTree says Richard married secondly, on 26 Oct 1676, Joanna Pinder; that is not checked here.
+
+**Where this leaves the line:** Richard's parents are **Thomas Currier and Martha Osborne**, married at St Thomas, Salisbury, in January 1610/11. This is **probable**: it rests on the baptism plus the Dove connection, as before.
+
+Going further back is a lead only. Thomas may be a son of Henry Curryer of Salisbury (fl. 1579–1602), but no baptism or will links them.
+
+Next sources:
+- the Salisbury St Thomas **bishop's transcripts**, which might add "Thomas, the son of Henry"
+- **Salisbury probate records** for Thomas (1627), Henry (1602) and Margaret (1609/10), in the Wiltshire and Swindon History Centre wills index
+
 ## Sources
 - [AmesVR] *Vital Records of Amesbury, Massachusetts, to the End of the Year 1849* (Topsfield Historical Society, 1913), Currier births, marriages and deaths. Internet Archive, https://archive.org/details/vitalrecordsofam00ames (accessed 19 Nov 2026).
 - [SalVR] *Vital Records of Salisbury, Massachusetts, to the End of the Year 1849* (1915), Currier, Selley and Selly entries. https://archive.org/details/vitalrecordsofsa00salis (accessed 19 Nov 2026).
@@ -139,4 +178,4 @@ Line: Lillian J. Currier (1890) ← Lawson W. Currier ← **Benjamin Currier (18
    - Kingston NH town records for the 1736 marriage and the children's births
    - the NH State Papers
 4. **Benoni's father.** Read W. G. Davis, "The Sealy Brothers of the Isles of Shoals", NEHGR 85:74–75 (AmericanAncestors, membership), or *The Ancestry of Nicholas Davis* (1956). These are the only modern analyses.
-5. **Richard Currier's English origin.** The baptism has been read (6 Mar 1616/17, St Thomas, Salisbury). To make it proof, look for a Salisbury record of Francis Dove naming his servant Richard Currier, or a later Salisbury record of Thomas Curryer's family referring to Richard "in New England".
+5. **Richard Currier's English origin.** Parents Thomas Currier and Martha Osborne, married 14 Jan 1610/11 (see Follow-up 11–16). A Thomas Curryer was buried 28 Jun 1627. Still open: Thomas's own parents (Henry Curryer?), and Wiltshire wills for Thomas, Henry and Margaret. The baptism has been read (6 Mar 1616/17, St Thomas, Salisbury). To make it proof, look for a Salisbury record of Francis Dove naming his servant Richard Currier, or a later Salisbury record of Thomas Curryer's family referring to Richard "in New England".

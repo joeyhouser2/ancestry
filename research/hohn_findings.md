@@ -9,7 +9,7 @@ Researched 17 November 2026. All records below were viewed on that date. Images 
 - **Brother: Adam Höhn**, born 30 Nov 1875 in Germany, died 5 Jul 1902 in Manhattan. He is buried with his mother.
 - **Stepmother:** her mother died when Anna was about 22. That fits Anna's memory of a stepmother if Jacob remarried after May 1906. No remarriage was found (three NYC Jacob Hohn/Hoehn marriages from 1906–09 were checked and ruled out).
 - **"Carl Hoene, 1851–1936" (Hoene-55)** has no source. The WeRelate page has no sources and only gives "b. 1851 Germany, d. 1936". It was evidently built from family memory. The birth year roughly fits Jacob (Nov 1850), but nothing supports the name Carl or the 1936 death. **Recommendation:** correct Hoene-55 to Jacob Höhn (draft below). Joey manages that profile, and Anna is its only child.
-- **German home town: still not found.** The records found say only "Germany". The spelling "Höhn" and the name Margaretha suggest southwest Germany (Hesse, Palatinate or Bavaria), but that is a guess.
+- **German home town: FOUND (20 Nov 2026).** Jacob was born 21 Nov 1850 at **Weilers** (Kreis Gelnhausen, Hesse; now part of Wächtersbach, Main-Kinzig-Kreis), son of the day labourer **Conrad Höhn** and **Elisabetha Götz**. See §10.
 - **Anna's birth is still open.** The 1900 census says Feb 1883 in Germany, immigrated 1884, and the 1930 census says Germany, arrived 1885. But her 1911 marriage certificate and the 1920 census say she was born in New York City. The family date is 4 Feb 1884. If the 1883 *Rhynland* passenger list is this family (probable), it shows no infant. That would fit a birth in New York in Feb 1884, after the August 1883 arrival. However, no matching NYC birth return was found under Hohn/Hoehn/Hahn, and not every NYC birth of that period was registered.
 
 ## Findings with citations
@@ -87,7 +87,7 @@ Find a Grave, memorial 133020303, Margaretha Hohn (https://www.findagrave.com/me
   - Adam Höhn/Hoehn, b. 1875, father Jacob: none matching. There are near misses: an Adam Hohn b. 30 Apr 1875 in the Saar (father Daniel), an Adam Höhn b. 12 May 1875 at Wilhelmsfeld, Baden (father Martin), and an Adam Horn b. Jun 1875 in Michelstadt, Hesse. All have the wrong date or the wrong father.
   - A marriage of Jacob Höhn and Margaretha Schmidt: none.
   - **Conclusion:** the family's home parish has probably not been indexed online yet. Many German parishes are filmed but not indexed.
-- **Ruled out: Hesse civil marriage, Frankfurt am Main, 17 Mar 1877** ("Hesse, Germany, Marriages, 1849-1930", Ancestry 61118/2698316). This Jacob Höhn was born **21 Nov 1850**, the same month as our Jacob, and his parents were Conrad and Elisabetha. But he married **Katharina Wilhelmine Eleonore Motzer** in 1877, while our Jacob had been married to Margaretha since about 1876 and had a son born in 1875. A different man, unless Jacob married twice; nothing suggests he did.
+- **(Reversed 20 Nov 2026, see §10: this IS our Jacob.)** Hesse civil marriage, Frankfurt am Main, 17 Mar 1877 ("Hesse, Germany, Marriages, 1849-1930", Ancestry 61118/2698316). This Jacob Höhn was born **21 Nov 1850**, the same month as our Jacob, and his parents were Conrad and Elisabetha. But he married **Katharina Wilhelmine Eleonore Motzer** in 1877, while our Jacob had been married to Margaretha since about 1876 and had a son born in 1875. A different man, unless Jacob married twice; nothing suggests he did.
 - **Naturalization witness George Rockelein (Röckelein):**
   - In 1900 Ann Rockelein (40, born Germany) headed a household at 207 W. 66th St, Manhattan, with five children. George Sr. was evidently dead by then.
   - A George Rockelein, born about 1847 in **Bamberg** (Upper Franconia, Bavaria), appears in New York Civil War muster rolls (Ancestry 1965/624242). He is probably the witness.
@@ -106,6 +106,28 @@ Find a Grave, memorial 133020303, Margaretha Hohn (https://www.findagrave.com/me
 
 ### 9. Obituary note
 The Bayonne Times obituary of 18 Jun 1968 is indexed by AI in the Ancestry Newspapers.com Obituary Index (61843/2004557073). It lists "Child: John Hohn". With Adam dead in 1902, John Hohn is more likely a nephew, a half-brother (from a second marriage of Jacob's) or an indexing error. Reading the clipping on Newspapers.com (image 908600513) would settle it. That needs a Newspapers.com subscription, so it was not viewed.
+
+## 10. Breakthrough, 20 Nov 2026: 1896 Manhattan marriage and the 1877 Rödelheim record
+
+### 10a. Jakob Hoehn and Margaretha Schmidt, married Manhattan, 6 Apr 1896 (image read)
+"Certificate and Record of Marriage", no. 5785 (1896), Manhattan; NYC Municipal Archives (https://a860-historicalvitalrecords.nyc.gov/view/7967655 : accessed 20 November 2026), image M-M-1896-0005785. Found through Ancestry's NYC Extracted Marriage Index (9105/439862).
+- **Groom:** Jakob Hoehn of 867 First Ave, 45, **widower**, born Germany. Father **Conrad Hoehn**, mother **Elisabeth Goetz**. **Second** marriage.
+- **Bride:** Margaretha Schmidt of 867 First Ave, 40, **widow**, maiden name Margaretha Schmidt, born Germany. Father **Conrad Schmidt** (the same as on her 1906 death certificate), mother **Katharine Mueller**. **Second** marriage.
+- **Officiant:** C. F. Grimm, clergyman, 320 E. 55th St.
+- **What it proves:** this is our couple. The bride's father matches, the ages match (b. Nov 1850 / Nov 1856), and First Avenue matches the 1888 and 1900 addresses. It gives **Jacob's parents** and **Margaretha's mother**. They lived together from at least 1883 (the *Rhynland* list) but married legally only in 1896, so the 1900 census's "married 24 years" is the family's own version.
+
+### 10b. Jacob Höhn's first marriage: Rödelheim (Frankfurt am Main), 17 Mar 1877 (image read)
+"Hesse, Germany, Marriages, 1849-1930", Ancestry (https://www.ancestry.com/search/collections/61118/records/2698316 : accessed 20 November 2026), Standesamt Rödelheim 1877 no. 11.
+- **Groom:** the innkeeper (*Gastwirth*) **Jacob Höhn**, Protestant, born **21 November 1850 at Weilers**, living at Königstraße 2, Rödelheim. He was the son of the day labourer (*Taglöhner*) **Conrad Höhn** and his wife **Elisabetha geb. Götz**, who lived **at Weilers, Kreis Gelnhausen**.
+- **Bride:** Katharina Wilhelmine Eleonore Motzer, Protestant, born 25 Oct 1848 at Eppstein, living at the same address. Her parents were of Eppstein, Obertaunuskreis.
+- **The identification is proven by two records that agree:** the same parents (Conrad Höhn and Elisabetha/Elisabeth Götz/Goetz) appear in 1877 and 1896, and the same birth (Nov 1850) appears in 1877 and in the 1900 census. "Wirth" (innkeeper) on the 1883 *Rhynland* list matches *Gastwirth*, and Jacob was a "widower" in 1896.
+
+### 10c. Consequences and new questions
+- Katharina Motzer must have died, or the marriage ended, between 1877 and 1896. Her death has not been found; try Rödelheim/Frankfurt deaths 1877–83, or New York.
+- **Adam** (b. 30 Nov 1875) was born before Jacob's 1877 marriage, while Margaretha said in 1896 that she was a widow. Adam could be Jacob and Margaretha's son born before marriage, or Margaretha's son by her first husband. Hesse birth indexes for Nov 1875 under Höhn and Schmidt found no match (the Adam Höhn b. 16 Jan 1875 at Wächtersbach is the son of Heinrich & Regina, so not ours).
+- Anna (b. c.1883–84) is named as Jacob's daughter in 1900 and 1911.
+- **The 1932 "Jacob Hoahn" is now doubtful.** The 1910 census has another widower, Jacob Hoehn, b. c.1852, immigrated 1869, a street-department section keeper living with his children George Hoehn and Kate Fay (Ancestry 7884/19104078). The 1932 street cleaner fits him at least as well.
+- **Hesse civil births 1851–1901 (Ancestry 61117):** Wächtersbach has later Höhn families (e.g. Konrad & Elisabethe Höhn, a child born 1896), probably relatives. Jacob's own 1850 birth predates civil registration, so the **Wächtersbach Protestant church books** (on Archion, or Hessian archive films) are the next source for Conrad and Elisabetha.
 
 ## Still open / next steps
 1. **German home town.** The best sources are:

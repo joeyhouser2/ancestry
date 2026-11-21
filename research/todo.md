@@ -116,7 +116,8 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
 - [x] **John Sopko's baptism found (21 Nov 2026)**: born 9 Jul, baptized 10 Jul 1867, **Trebišov (Tőketerebes), Greek Catholic**. Parents Szopko János (cottager) and Novák Mária (KH8H-NNX). See findings §14.
 - [x] **John Sopko's own village: Trebišov.** Proof: Mary Jr. was baptized there on 5 Jul 1895 (born 4 Jul), parents Szopko János and Maczko Mária, house Terebes 156, with the note "the parents married in America" (KH8H-LHY).
 - [ ] **Trebišov follow-ups**:
-  - the marriage of János Szopko and Mária Novák, about 1855–65, in the Trebišov Greek Catholic marriages (DGS 004948353 or a sister film);
+  - ~~the marriage in Trebišov~~: not there. I read every entry for 1855–1864 in DGS 004948354 (findings §14). They probably married in the bride's parish, which is still unknown. Found instead: the widower János Szopko, 54, married Mária Majcher in 1859; he is probably the grandfather (husband of Mária Hardi);
+  - Mária Novák's origin: try the deaths of János Szopko or Mária Novák in Trebišov (death register DGS 004948354; ages and birthplaces);
   - check the image for sister Mária Szipko (bapt. 27 Jan 1865, KH8H-FNJ);
   - test whether the father was János, baptized 1834 or 1837, son of János Szopko and Mária Hardi;
   - find the family's return manifest, about 1895–1900, naming Tőketerebes.

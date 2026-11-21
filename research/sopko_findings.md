@@ -281,8 +281,17 @@ All from FamilySearch, "Slovakia, Church and Synagogue Books, 1592-1935", Evange
 
 **Possible earlier generation, unproven:** the Trebišov index has a János Szopko baptized in 1837 (KH8H-3MN; also 1834, KH8Z-7VM) to János Szopko and Mária Hardi. One of them could be John's father, who married Mária Novák before 1865. Proving that needs the parents' marriage, about 1860–64, which is not indexed.
 
+**The parents' marriage is not in Trebišov 1855–1864 (searched 21 Nov 2026).**
+- Register: Trebišov Greek Catholic marriages 1823–1924, DGS 004948354 (film 1982278), not indexed.
+- I read every entry from 1855 no. 4 (image 43) through 1864 no. 25 (image 75). No János Szopko married a Mária Novák. Image ranges: 1855 = 43–45; 1856 = 45–48; 1857 = 48–49; 1858 = 49–53; 1859 = 53–56; 1860 = 56–60; 1861 = 61–67; 1862 = 67–69; 1863 = 69–71; 1864 = 72–75.
+- The likeliest explanation is that they married in the bride's home parish. That was the custom, and the index has many Mária Nováks born about 1830–47 in nearby Trebišov-district parishes (Streda nad Bodrogom, Parchovany, Zemplínska Teplica, Silvaš, Cejkov and others), so none can be picked out yet.
+- **One related find:** 1859, entry 7 (image 54). **Szopko János**, *zsellér*, of "Varichócz" (a part of Terebes), Greek Catholic, **aged 54, a widower**, married **Majcher Mária**, widow, of Terebes, on 29 May 1859.
+  - He is the father of the 1862 and 1863 Szopko–Majcher children.
+  - He was born about 1805, so he is probably the János Szopko who had children with Mária Hardi in 1834–44, and so plausibly **John's grandfather**.
+  - If so, John's father would be the János baptized in 1834 or 1837 to János Szopko and Mária Hardi. That remains unproven until the parents' marriage record turns up.
+
 **Not checked / next:**
-- the marriage of János Szopko and Mária Novák in the Trebišov Greek Catholic marriages, about 1855–1865;
+- the parents' marriage in the bride's parish: find Mária Novák's own baptism first, through the godparents or the 1865 and 1867 entries, or through a death record giving her age;
 - the 1865 image;
 - other siblings (only the indexed entries were searched);
 - the family's return trip to the US after 1895, since they were in Bayonne by the 1900 census.

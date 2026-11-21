@@ -298,8 +298,29 @@ All from FamilySearch, "Slovakia, Church and Synagogue Books, 1592-1935", Evange
   - **1864, entry 39 (image 407): János**, son of "Szopko János, *zsellér*, and Sirásó(?)", of Varichócz, died 5 May 1864 aged 11 months. The mother's name is unclear; it is not obviously Novák, so this may be a child of another János Szopko.
 - **No death of Mária Novák or of John's father, János Szopko, was found from 1864 to 1870.** They were alive past 1870, or died elsewhere.
 
+**John's parents' deaths found (read 21 Nov 2026, deaths 1870 – Feb 1904).**
+- Method: each page was read on the full-resolution scan, not the viewer. Image numbers below are the viewer's ("image N of 666").
+- **Mother: "Novák Mária, Szopko János zsellér neje"** (wife of János Szopko, cottager), of Terebes.
+  - Died 20 Mar 1898, aged **68**, so born about **1830**.
+  - Cause: *aggkori kimerülés* (old-age exhaustion). She received the last rites and was buried at Terebes on 22 Mar 1898.
+  - Source: 1898 entry 18, image 572 (https://www.familysearch.org/ark:/61903/3:1:33SQ-GRQ1-C35).
+  - "Neje" (wife), not widow, shows her husband was still living.
+- **Father: "Szopko János, zsellér"**, of Terebes.
+  - Died in the night of 11–12 Jan 1903, aged **70**, so born about **1832–33**.
+  - Cause: *aggkori kimerülés*. He received the last rites and was buried at Terebes on 13 Jan 1903, by Izidor Szaxun, the parish priest.
+  - Source: 1903 entry 1, image 604 (https://www.familysearch.org/ark:/61903/3:1:33SQ-GRQ1-HVS).
+- **Why these are John's parents:** the names match the 1867 baptism and the 1892 marriage certificate. The husband and wife are named together, and the family was still living in Terebes, where Mary Jr. was born in 1895. Neither entry names the parents of the deceased, so the next generation is still unproven.
+  - Born about 1832–33, the father fits the **János baptized in Trebišov in 1834 to János Szopko and Mária Hardi** (KH8Z-7VM) better than the 1837 one. The grandfather candidate, the Varichócz cottager who died in 1867 aged 66, fits as that father.
+  - Born about 1830, Mária Novák fits several indexed Mária Nováks of the district. Her own parish is still unknown.
+- **Other Szopkos in these deaths, not ours:**
+  - Anna, 15, daughter of Szopko Mihály and Mantics Anna (Feb 1889, image 517);
+  - Szopko Mihály, 65, husband of Mantics Anna (1892, image 530);
+  - infant Miklós, son of Szopkó János, cottager, and Dobrovszky Mária (Dec 1884, image 504; a different János);
+  - infant Zsuzsánna, daughter of Szopkó György and Tóth Mária (Mar 1897, image 567).
+- **Gap:** the deaths of Oct–Dec 1892 seem not to be filmed; the old register ends at image 531 and a new one starts in Jan 1893. Deaths after Feb 1904 were not read (not needed).
+- **Image ranges for the later deaths:** 1871 ≈ 437–441; 1873 (a cholera year, about 240 deaths) = 445–461; 1875 ≈ 469–472; 1880 ≈ 488–493; 1885 ≈ 505–506; 1890 ≈ 520–523; 1893 = 534–539; 1895 = 549–558; 1898 = 570–576; 1900 = 583–588; 1903 = 604–609.
+
 **Not checked / next:**
-- the Trebišov deaths 1870–1913 (images about 434–660), to look for John's parents' deaths. These give ages, and sometimes the birthplace or the spouse's name;
 - the parents' marriage in the bride's parish: find Mária Novák's own baptism first, through the godparents or the 1865 and 1867 entries, or through a death record giving her age;
 - the 1865 image;
 - other siblings (only the indexed entries were searched);

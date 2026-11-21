@@ -290,7 +290,16 @@ All from FamilySearch, "Slovakia, Church and Synagogue Books, 1592-1935", Evange
   - He was born about 1805, so he is probably the János Szopko who had children with Mária Hardi in 1834–44, and so plausibly **John's grandfather**.
   - If so, John's father would be the János baptized in 1834 or 1837 to János Szopko and Mária Hardi. That remains unproven until the parents' marriage record turns up.
 
+**Trebišov Greek Catholic deaths (searched 21 Nov 2026).**
+- Register: DGS 004948354, the same film as the marriages; deaths start at about image 290. Image ranges: 1847 ≈ 300; 1863 ≈ 400; 1864 = 406–409; 1865 = 409–412; 1866 = 412–415; 1867 = 416–421; 1868 = 421–425; 1869 = 426–429; 1870 = 429–434. About 4–5 images a year from the 1860s.
+- The FamilySearch index has **no** Szopko or Novák deaths in Trebišov (the name searches returned nothing there). So this register is unindexed and has to be read page by page.
+- I read every name from May 1864 to Aug 1870 (images 407–434). The faint 1870 pages were read at low resolution, so a name there could have been missed. Two Szopko entries:
+  - **1867, entry 69 (image 421): Szopko János, *zsellér* (cottager), of Varichócz, married, aged 66, so born about 1801.** He died in December 1867 (about the 11th) of *aszkór* (consumption), received the last rites, and was buried at Terebes about 12 Dec. Varichócz is the same part of Terebes as the 1859 widower, and the age fits (54 in 1859, so born about 1805; ages drift). **He is almost certainly the man who married Mária Majcher in 1859, and probably John's grandfather.**
+  - **1864, entry 39 (image 407): János**, son of "Szopko János, *zsellér*, and Sirásó(?)", of Varichócz, died 5 May 1864 aged 11 months. The mother's name is unclear; it is not obviously Novák, so this may be a child of another János Szopko.
+- **No death of Mária Novák or of John's father, János Szopko, was found from 1864 to 1870.** They were alive past 1870, or died elsewhere.
+
 **Not checked / next:**
+- the Trebišov deaths 1870–1913 (images about 434–660), to look for John's parents' deaths. These give ages, and sometimes the birthplace or the spouse's name;
 - the parents' marriage in the bride's parish: find Mária Novák's own baptism first, through the godparents or the 1865 and 1867 entries, or through a death record giving her age;
 - the 1865 image;
 - other siblings (only the indexed entries were searched);

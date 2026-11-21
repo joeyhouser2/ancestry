@@ -238,9 +238,9 @@ All from FamilySearch, "Slovakia, Church and Synagogue Books, 1592-1935", Evange
 - **Age conflict:** the bride's age of 18 points to a birth about 1874, against the 14 Sep 1872 baptism, which would make her 19 going on 20. Her ages drift later in every record (1900 census: Oct 1875). The parents' names identify her firmly, so the 1872 baptism stands.
 - **Religion:** the bride's family was Lutheran in Abos, but the couple married before a Catholic priest. John Sopko was probably Roman Catholic (or Greek Catholic). That suggests his home parish was Catholic, not the Abos Lutheran one.
 
-**Next for John Sopko's line:** search Slovak Catholic and Greek Catholic baptisms about 1866–68 for a János Sopko with parents János Sopko and Mária Novák. Start in the Kysak–Košice area, and also around Svidník (see §4).
+**Next for John Sopko's line:** found. See §14: Trebišov, Greek Catholic.
 
-**Mary Sopko's ancestry, as now documented:**
+**Mary Sopko's ancestry, as now documented** (John's side is in §14):
 - **Mary Macko (Sopko)**, born 14 Sep 1872, Kysak
   - **János Maczko**, born 27 May 1838, Kysak; married 26 Aug 1863
     - **György Maczko**, born about 1807, died 4 Jul 1847, Kysak
@@ -252,6 +252,40 @@ All from FamilySearch, "Slovakia, Church and Synagogue Books, 1592-1935", Evange
     - **Erzsébet Dániel**, born 27 Sep 1807, Abos, died 23 Feb 1874
       - **János Dániel**, Lutheran landholder of Abos
       - **Ilona (Helena) Sztraka**
+
+### 14. John Sopko's village: Trebišov (Tőketerebes), Zemplén County, Greek Catholic (found 21 Nov 2026)
+
+**John's baptism: born 9 Jul, baptized 10 Jul 1867, Trebišov Greek Catholic parish.** I read this on the original page.
+- Child: **János**, male, legitimate.
+- Parents: **Szopko János**, Greek Catholic, *zsellér* (cottager); **Novák Mária**, Greek Catholic.
+- House: "Zábava(?) 105". The reading is uncertain; it may be a named part or estate of Terebes.
+- Godparents: András Drurisin(?), Greek Catholic farmer (*gazda*), and Mária Rina(?), wife of János Rogyo(?), Roman Catholic.
+- FamilySearch index KH8H-NNX (Source Details 71, line 40). Image: DGS 004948353, item 2, image 79 of 263. The image group is mislabelled "Tőketerebes. Religious Death Registers 1859–1892", but this page is a baptism register.
+
+**Why it is him:**
+- The parents match the 1892 marriage certificate exactly (John Sopko and Marie Novak).
+- The birth month, July, matches the 1900 census (Jul 1866). The year is a year off, as his ages usually are, and agrees with "24" at the July 1892 marriage.
+- The family was Greek Catholic. That fits the Catholic wedding and the expectation that they used Bayonne's Greek Catholic parish.
+- Above all, the 1895 baptism below ties this parish to John and Mary as a couple.
+
+**Mary Jr. was born in Trebišov: born 4 Jul, baptized 5 Jul 1895.** I read this on the original page.
+- Child: **Mária**, female.
+- Parents: **Szopko János**, *zsellér*, and **Maczko Mária**.
+- House: **Terebes no. 156**.
+- Godparents: József Polyanszky(?) and Mária Pálfy(?).
+- Remark column: "A szülők Amerikában léptek házasságra", meaning "the parents married in America". This confirms that the family returned to John's home village about 1894–95, and it proves the family story that Mary Jr. (later Mary McGlynn) was born "in Hungary" in July 1895 (§ next steps no. 6). The family remembered 7 Jul; the register says 4 Jul.
+- FamilySearch index KH8H-LHY (page 30, entry 60). Image: "Tőketerebes. Baptism Records 1893–1913", DGS 004948353, item 3, image 32 of 203. The FamilySearch Family Tree has a person for her (LDVP-X5H; not examined).
+- Register creator: Gréckokatolícka cirkev, Farský úrad Trebišov. The originals are held by the Štátny oblastný archív v Levoči.
+
+**A probable sister, from the index only:** Mária Szipko, baptized 27 Jan 1865, Trebišov, parents János Szipko and Mária Novák (KH8H-FNJ). The image has not been checked.
+
+**Possible earlier generation, unproven:** the Trebišov index has a János Szopko baptized in 1837 (KH8H-3MN; also 1834, KH8Z-7VM) to János Szopko and Mária Hardi. One of them could be John's father, who married Mária Novák before 1865. Proving that needs the parents' marriage, about 1860–64, which is not indexed.
+
+**Not checked / next:**
+- the marriage of János Szopko and Mária Novák in the Trebišov Greek Catholic marriages, about 1855–1865;
+- the 1865 image;
+- other siblings (only the indexed entries were searched);
+- the family's return trip to the US after 1895, since they were in Bayonne by the 1900 census.
 
 ### Not matched
 - Andras Maczko, 25, arrived 26 Oct 1900 on the *Trier*, residence "Jenrocz" (Ancestry record 4007076483): a different village, so probably not Andrew. Not checked further.
@@ -286,10 +320,10 @@ Source text for those citations:
 2. ~~János Maczko's baptism~~: found, 28 May 1838 (§10).
 3. ~~György Maczko's death~~: found, 4 Jul 1847 (§11). His marriage to Ilona (about 1830–32) is not on the film, because the marriage register starts in 1839.
 4. **György's and Ilona's own parents:** check the candidate baptisms in §11 on the images (book item 1, images 5–104), and compare godparents and house numbers.
-3. **John Sopko's own baptism** (Jul 1866): try the Abos register and nearby Lutheran and Greek Catholic parishes. Sopko isn't yet known to be from Kysak.
+3. ~~John Sopko's own baptism~~: found, Trebišov Greek Catholic, 10 Jul 1867 (§14).
 2. **Mary Sopko's NJ death certificate, Feb 1947**, from the NJ Department of Health. It gives her parents and birthplace, though usually only the country.
 3. **The full 1947 and 1923 obituaries** (Bayonne Times, Newspapers.com or Bayonne library microfilm). They name the funeral church and burial ground, and sometimes "a native of ___".
 4. **The church registers.** Bayonne's Greek Catholic/Rusyn parish (St. John the Baptist) or Slovak parish holds the baptisms of the children from 1893 to 1912. Their registers often record the parents' native village, and the Sopkos' marriage about 1892 may be there too.
 5. **John's naturalization** (Hudson County Court of Common Pleas, about 1890–1910). Hudson County petitions may give a birthplace.
-6. **Mary Jr. born 7 Jul 1895 "in Hungary"** (family story; the 1900 census says NJ). If true, mother and baby returned about 1895–96, and their arrival list should name the village.
+6. **Mary Jr. born in Hungary: confirmed**, Trebišov, 4 Jul 1895 (§14). (Family story said 7 Jul; the 1900 census says NJ.) The family's return to the US, about 1895–1900, should be on a manifest naming Tőketerebes.
 7. **Once a village is found:** "Slovakia Church and Synagogue Books, 1592-1935" (free on FamilySearch, often indexed) has the Greek Catholic and Roman Catholic registers. Look for John Sopko (b. Jul 1866), Mary Macko (b. Oct 1875) and their marriage, if it was in Europe.

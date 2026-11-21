@@ -113,8 +113,14 @@ Goal: John Sopko's (b. Jul 1866) and Mary Macko's (b. Oct 1875) home village in 
 - [x] **Sejga–Dániel line**: András Sejga died 6 Mar 1857, about 52. Erzsébet Dániel was born 27 Sep 1807 and died 23 Feb 1874; her parents were János Dániel and Ilona Sztraka. Her death entry names daughter Erzsébet as "wife of János Maczko in Kőszeg".
 - [x] **Sopko–Macko marriage in Abos?** No: none in 1889–Aug 1892, and the film has no later marriages. They probably married in the US, about 1892–94. Search NJ and NY marriage indexes for John Sopko and Mary Macko/Maczko.
 - [x] **US marriage found**: John Sopko and Marie Macko, Manhattan, 24 Jul 1892, NYC certificate M-M-1892-0009066 (indexed as "John Lopko"). Both lived in Centreville, N.J. (Bayonne). Bride's parents: John Macko and Lizzie Sejga, which confirms the Abos line. Groom's parents: John Sopko and Marie Novak.
-- [ ] **John Sopko's baptism**: about 1866–68, parents János Sopko and Mária Novák, probably Catholic. Search the Slovakia church books index and nearby Catholic parishes (Kysak area; Svidník area).
-- [ ] **John Sopko's own village**: probably the same area; look for his baptism (Jul 1866) in the same registers.
+- [x] **John Sopko's baptism found (21 Nov 2026)**: born 9 Jul, baptized 10 Jul 1867, **Trebišov (Tőketerebes), Greek Catholic**. Parents Szopko János (cottager) and Novák Mária (KH8H-NNX). See findings §14.
+- [x] **John Sopko's own village: Trebišov.** Proof: Mary Jr. was baptized there on 5 Jul 1895 (born 4 Jul), parents Szopko János and Maczko Mária, house Terebes 156, with the note "the parents married in America" (KH8H-LHY).
+- [ ] **Trebišov follow-ups**:
+  - the marriage of János Szopko and Mária Novák, about 1855–65, in the Trebišov Greek Catholic marriages (DGS 004948353 or a sister film);
+  - check the image for sister Mária Szipko (bapt. 27 Jan 1865, KH8H-FNJ);
+  - test whether the father was János, baptized 1834 or 1837, son of János Szopko and Mária Hardi;
+  - find the family's return manifest, about 1895–1900, naming Tőketerebes.
+- [ ] **WikiTree decision**: Mary Jr. (Sopko-5, Mary McGlynn) birth: 4 Jul 1895, Trebišov, Zemplén, Hungary (now Slovakia). John Sopko birth: 9 Jul 1867, Trebišov. Draft only; Joey saves by hand.
 - [ ] **Andrew Macko's arrival** (about 1901): still not found. Try Ondrej/Andrej Macko/Maczko with residence Kőszeg/Kysak.
 - [ ] **Full obituaries**, Bayonne Times 21 Sep 1923 and 5 Feb 1947 (Newspapers.com or Bayonne library): church, cemetery, "native of".
 - [ ] **NJ death certificates**: John (Sep 1923) and Mary (Feb 1947). Order from the NJ Department of Health or NJ State Archives (for 1923).

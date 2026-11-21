@@ -151,7 +151,64 @@ Going further back is a lead only. Thomas may be a son of Henry Curryer of Salis
 
 Next sources:
 - the Salisbury St Thomas **bishop's transcripts**, which might add "Thomas, the son of Henry"
-- **Salisbury probate records** for Thomas (1627), Henry (1602) and Margaret (1609/10), in the Wiltshire and Swindon History Centre wills index
+- ~~**Salisbury probate records** for Thomas (1627), Henry (1602) and Margaret (1609/10)~~: none exist in the indexes; see Follow-up 17.
+
+## Follow-up, 21 Nov 2026: Wiltshire wills, and Thomas's first marriage
+Same parish-register source as above (Ancestry collection 61187), plus the wills indexes named below. All accessed 21 November 2026.
+
+17. **No Currier wills for this family.**
+    - **Wiltshire wills.** "Wiltshire, England, Wills and Probate, 1530-1858", Ancestry collection 61333, which indexes the Wiltshire and Swindon History Centre probate records for every Salisbury diocesan court, including the Peculiar of the Sub-dean of Salisbury that covered St Thomas and St Edmund. A soundex search on Currier (which also finds Carrier, Curryer and similar) gives only:
+      - **Roger Currier**, 1618, Cloatley in Hankerton, north Wiltshire. Unrelated as far as known.
+      - **Henry Currier**, cooper, of Salisbury, 1681 (P4/1681/29). Image read: an administration bond in which Elizabeth Curryer, widow, is granted the goods of "Henry Curryer late of the City of New Sarum, cooper, deceased", September 1681. He is the Henry who married Eliz. at St Thomas in 1655 and was buried there in 1681. No children are named.
+      - There is nothing for Thomas (1627), Henry (1602), Margaret (1609/10) or any other Currier before 1681.
+    - **Prerogative Court of Canterbury.** "England & Wales, Prerogative Court of Canterbury Wills, 1384-1858", Ancestry collection 5111: no Currier, Curryer or Currer of Salisbury or Wiltshire before 1831.
+    - **Osborne wills.** No Osborne of Salisbury left a will between 1590 and 1640 in either index. The only Salisbury Osborne is Anne, The Close, 1695. So no father's will names "my daughter Martha Currier".
+    - So the family probably left no probate at all, which is common for small tradesmen.
+18. **Thomas Curryer married Margaret in 1592 (image read).** St Edmund's register, 1559–1653, image 160 of 358 (record 2396443), 1592 marriages: "Thomas Curryer & Margaryt Ansell", the 11th. The month is under a faint heading, probably September. The bride's surname could also be read as Russell.
+19. **Children of Thomas Curryer at St Edmund's, 1596–1605:**
+
+    | Child | Event | Source |
+    |---|---|---|
+    | Anna | baptized 20 Jan 1596 | record 2391359 |
+    | Francis | buried 19 Apr 1596 | see item 14 |
+    | Cuthbert | buried 8 Sep 1596 | see item 14 |
+    | Dorothy | baptized the 27th, 1599 | image read: "Dorathye Curryer the daughter of Thomas Curryer" (image 64, record 2391596) |
+    | Alice | baptized 1605 | index only, as "Alice Curriare"; record 2392074 |
+
+    - **Not a son:** the index's "Thomas Curum, baptized 1599, son of Thomas" (record 2391587) is on the same page. The image reads "Thomas Curnum son of Thomas Curnum", which is a different surname.
+    - **Later marriages at St Thomas, probably these daughters:**
+      - "Richard Christopher to Ann Currier", June 1623 (image read; record 900589418)
+      - "Richard Wotton to Dorothie Currier", 17 Sep 1629 (image read; record 900590379)
+    - **A burial:** an Alice Currier was buried at St Thomas in 1635 (record 591361, index only).
+20. **A fourth child of Thomas and Martha.** "Margarett of Thomas and Martha Curriar" was baptized at St Thomas on 3 Oct 1619 (image read; image 169 of 296, record 588817). So Richard had a younger sister Margaret.
+21. **Martha Currier buried 1666 is not Martha Osborne.** St Martin's, Salisbury, burials, 24 Jun 1666: "Martha Currier a servant" (image read; record 1830643). A servant is not likely the widow of Thomas. She is more likely the Martha baptized in 1624 to Henry and Martha.
+22. **No baptism of Thomas.** No Thomas Currier, under any spelling, was baptized anywhere in Wiltshire between 1557 and 1577. No Curryer baptisms of any kind appear in Salisbury between 1560 and 1579.
+
+**What this changes.** The simplest reading is that one Thomas Curryer:
+- married Margaret Ansell (or Russell) at St Edmund's in 1592
+- had Anna, Francis, Cuthbert, Dorothy and Alice
+- lost Margaret, buried at St Thomas in January 1609/10
+- married Martha Osborne at St Thomas a year later, in January 1610/11
+- had Elizabeth, Thomas, Richard and Margaret
+- was buried at St Thomas in June 1627
+
+The evidence for this:
+- The remarriage follows Margaret's burial by a year, in the parish where she was buried.
+- No other adult Thomas Curryer appears in Salisbury in these years.
+- No son Thomas was born to the 1592 couple who could be a second, younger Thomas.
+
+**This is probable, not proven:** no entry calls Thomas "widower", and the 1592 couple lived in St Edmund's parish, not St Thomas.
+
+If it holds:
+- Thomas was born about 1565–70, not 1590 as WikiTree gives.
+- **Ann (Currier) Christopher** and **Dorothy (Currier) Wotton** were Richard's half-sisters.
+- WikiTree's "Thomas the elder, married 1592" as a separate father (Currier-249, "born 1553 in Glasgow") is probably the same man as Currier-32.
+- Henry Curryer, who married in 1579 and was buried in 1602, is too young to be Thomas's father. He is more likely a brother.
+
+**Pushing further back.** Thomas's parents can't be reached with the online records: there is no baptism and no will. Remaining options:
+- the **bishop's transcripts** for St Edmund's and St Thomas, held at the Wiltshire and Swindon History Centre, D1/24. These might fill gaps in the registers.
+- the **Salisbury city records** (apprenticeship and freemen's registers, and the 1590s "poor" and muster rolls) at the History Centre. These sometimes name a man's father or home parish.
+- **Hampshire and Dorset parish registers**, if Thomas came into the city from outside. Salisbury drew heavily from both.
 
 ## Sources
 - [AmesVR] *Vital Records of Amesbury, Massachusetts, to the End of the Year 1849* (Topsfield Historical Society, 1913), Currier births, marriages and deaths. Internet Archive, https://archive.org/details/vitalrecordsofam00ames (accessed 19 Nov 2026).
@@ -178,4 +235,4 @@ Next sources:
    - Kingston NH town records for the 1736 marriage and the children's births
    - the NH State Papers
 4. **Benoni's father.** Read W. G. Davis, "The Sealy Brothers of the Isles of Shoals", NEHGR 85:74–75 (AmericanAncestors, membership), or *The Ancestry of Nicholas Davis* (1956). These are the only modern analyses.
-5. **Richard Currier's English origin.** Parents Thomas Currier and Martha Osborne, married 14 Jan 1610/11 (see Follow-up 11–16). A Thomas Curryer was buried 28 Jun 1627. Still open: Thomas's own parents (Henry Curryer?), and Wiltshire wills for Thomas, Henry and Margaret. The baptism has been read (6 Mar 1616/17, St Thomas, Salisbury). To make it proof, look for a Salisbury record of Francis Dove naming his servant Richard Currier, or a later Salisbury record of Thomas Curryer's family referring to Richard "in New England".
+5. **Richard Currier's English origin.** Parents Thomas Currier and Martha Osborne, married 14 Jan 1610/11 (see Follow-up 11–16). A Thomas Curryer was buried 28 Jun 1627. Thomas probably married first Margaret Ansell/Russell in 1592 at St Edmund (Follow-up 18–19), so he was born about 1565–70. There are no wills (Follow-up 17). Still open: Thomas's own parents; Henry Curryer (married 1579, died 1602) is more likely a brother. Next: the bishop's transcripts and the Salisbury city freemen and apprentice records. The baptism has been read (6 Mar 1616/17, St Thomas, Salisbury). To make it proof, look for a Salisbury record of Francis Dove naming his servant Richard Currier, or a later Salisbury record of Thomas Curryer's family referring to Richard "in New England".

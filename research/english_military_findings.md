@@ -97,3 +97,45 @@ entered in the parish register.
 - Volunteer and yeomanry muster rolls, 1794–1815.
 - Lincolnshire militia lists (Lincolnshire Archives).
 - Royal Navy ship musters before 1853 (ADM 36–38). These are not indexed by name, apart from Trafalgar.
+
+## Are these lines on WikiTree? (checked 22 Nov 2026, WikiTree API)
+
+- **The Kent and Lincolnshire direct ancestors are not on WikiTree.** That covers everyone above
+  Frederic Bigg: Bigg, Mantle, Shrubsall, Couchman, Shore, Ekins, Oast, Markwell, Jeffery and West.
+  Every one of them would be a new profile, from the drafts in `drafts/`.
+- **Four collateral relatives are on WikiTree,** none with parents linked. Linking them would join our
+  new profiles to existing ones:
+  - Mary Bigg (Bigg-424, b. 1796 Minster, m. William Rouse).
+  - Sarah Bigg (Bigg-398, b. 1797 Minster, m. William Claringbold).
+  - Martha Mantle (Mantle-283, b. 1788 Warden, m. William Greenstreet).
+  - Mary Shore (Shore-2165, b. 1799 Milton, m. Joshua Gane).
+- **The Bigg family of Sutton Valence, Otham and Chart Sutton is on WikiTree**, back to Thomas Bigg
+  (Bigg-371, c.1650 Cranbrook – 1729 Otham) and his wife Persis Drabridge.
+  - The possible parents of Edward Bigg (b. c.1710) are Thomas Bigg and Elizabeth Coleman, who married
+    at Sutton Valence in 1701/2.
+  - That Thomas isn't among Bigg-371's children on WikiTree. He could be a nephew, but nothing links
+    them yet. Edward's 1711 Boughton Aluph baptism (parents Thomas and Elisabeth) is still the only
+    indexed candidate. No siblings are indexed there.
+- **By contrast, the colonial English lines on the mother's side are on WikiTree back to the 1500s.**
+  These are the families who emigrated in the 1630s: Currier, Dodge, Colby, Palgrave, Patch and others.
+
+## Jeffery line (Sarah Jeffery's parents), from FreeREG
+
+Hameringham register:
+- Sarah, baptised 7 Mar 1779, daughter of Thomas & Elizabeth Jeffry.
+- William, baptised 25 May 1788, son of Thomas & Elizabeth; buried 3 Aug 1788 as a child.
+- John, born 20 Aug 1789, baptised 30 Aug 1789, son of Thomas & Elizabeth.
+- Ann Jeffry, buried 12 Apr 1782.
+- **Thomas Jeffery, buried 28 Aug 1796**, no age given. Probably Sarah's father: two years later she
+  married from Hameringham with no Jeffery among the witnesses.
+- Earlier Jefferys at Hameringham: Ann Jeffery married William Malt*n in Apr 1758 (witness John
+  Jeffery); John Jeffery married Sarah Lincoln on 21 Nov 1758.
+
+Nearby:
+- A **Thos Jeffery** was baptised at Moorby on 15 Feb 1740/41, son of Thos & Mary. He is a possible
+  candidate for Sarah's father, but unproven.
+- A Thomas Jeffrey of Tumby married Mary Jeffrey at Kirkby on Bain in 1764. He is probably not ours,
+  since our Thomas's wife was Elizabeth.
+
+**Still missing:** the marriage of Thomas and Elizabeth (c.1765–79). It isn't in FreeREG's Lincolnshire
+transcripts under any spelling of Jeffery, so Elizabeth's maiden name is unknown.

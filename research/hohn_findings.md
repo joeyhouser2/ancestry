@@ -151,3 +151,8 @@ The Bayonne Times obituary of 18 Jun 1968 is indexed by AI in the Ancestry Newsp
 - `NEW-Schmidt-Margaretha.json` creates Margaretha (Schmidt) Höhn (1856–1906) as Anna's mother and Jacob's wife.
 - `NEW-Hohn-Adam.json` creates Adam Höhn (1875–1902) as Anna's brother. This one is optional.
 - `Hoene-18.json` covers Anna. It is a full rewrite that builds on `drafts/Hoene-18.json` and adds the marriage certificate, the 1900 and 1920 censuses, her parents, and the birth conflict.
+
+
+## 11. Katharina Motzer's death (found 23 Nov 2026)
+
+Katharina Höhn née Motzer died at Königstein im Taunus on 14 Aug 1886, aged 37, "married to the innkeeper Jacob Höhn, at present absent". Her parents were the late Georg Wilhelm Motzer and Maria Johannette Auguste (Hesse deaths, Standesamt Königstein 1886 no. 23; Ancestry 61119/1978219; image read). So she stayed in Germany, and Jacob was a widower from 1886. See `research/ancestry_sweep_findings.md`.

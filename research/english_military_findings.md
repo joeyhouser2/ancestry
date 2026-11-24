@@ -105,7 +105,7 @@ entered in the parish register.
   Every one of them would be a new profile, from the drafts in `drafts/`.
 - **Four collateral relatives are on WikiTree,** none with parents linked. Linking them would join our
   new profiles to existing ones:
-  - Mary Bigg (Bigg-424, b. 1796 Minster, m. William Rouse).
+  - Mary Bigg (Bigg-424, b. 1796 Minster, m. William Rouse). **Correction (23 Nov):** the widow Sarah Bigg's 1834 will shows Mrs Rouse was Sarah's daughter, not Richard's; see `research/ancestry_sweep_findings.md`.
   - Sarah Bigg (Bigg-398, b. 1797 Minster, m. William Claringbold).
   - Martha Mantle (Mantle-283, b. 1788 Warden, m. William Greenstreet).
   - Mary Shore (Shore-2165, b. 1799 Milton, m. Joshua Gane).

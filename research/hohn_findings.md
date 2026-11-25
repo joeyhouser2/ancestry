@@ -156,3 +156,41 @@ The Bayonne Times obituary of 18 Jun 1968 is indexed by AI in the Ancestry Newsp
 ## 11. Katharina Motzer's death (found 23 Nov 2026)
 
 Katharina Höhn née Motzer died at Königstein im Taunus on 14 Aug 1886, aged 37, "married to the innkeeper Jacob Höhn, at present absent". Her parents were the late Georg Wilhelm Motzer and Maria Johannette Auguste (Hesse deaths, Standesamt Königstein 1886 no. 23; Ancestry 61119/1978219; image read). So she stayed in Germany, and Jacob was a widower from 1886. See `research/ancestry_sweep_findings.md`.
+
+## 12. Jacob's parents and siblings (found 24 Nov 2026)
+
+All three records below are Hesse civil registers on Ancestry; I read each image.
+
+### 12a. Conrad Höhn's death, Königstein 1885
+"Hesse, Germany, Deaths, 1851-1958", Ancestry (https://www.ancestry.com/search/collections/61119/records/1978166), Standesamt Königstein 1885 no. 18.
+- The day labourer **Konrad Höhn**, 66 years 6 months old, Protestant, of **Schneidhain** (by Königstein), died there on **10 May 1885**. That puts his birth in about Nov 1818.
+- He was born at **Weilers bei Wächtersbach** and was the widower of the late **Elisabetha née Götz**.
+- He was the son of the late **Johann Höhn** and his late wife **Margaretha née Völker** (reading uncertain) of Weilers.
+- The informant was the day labourer Johann Höhn of Schneidhain, possibly a son.
+
+### 12b. Jacob's sister: Margaretha Albertine Höhn, married Königstein 1881
+Ancestry 61118/900102907, Standesamt Königstein 1881 no. 5, 6 May 1881.
+- She was born **25 Sep 1856 at Weilers** (Regierungsbezirk Cassel), the daughter of the day labourer Konrad Höhn and Elisabetha née Götz of Weilers.
+- She lived at Schneidhain, formerly at Frankfurt.
+- She married Johann Philipp Sand, a Catholic factory worker of Schneidhain.
+- **Witness: "der Gastwirth Jakob Höhn", 30, of Schneidhain**, who signed "Jakob Höhn". This is our Jacob, who emigrated in 1883. It also explains why his first wife Katharina was at Königstein when she died in 1886.
+
+### 12c. Jacob's brother: Johannes Höhn, married Frankfurt 1898
+Ancestry 61118/682425, Standesamt Frankfurt am Main 1898 no. 208, 8 Oct 1898.
+- Johannes, a day labourer, was born **18 Feb 1869 at Weilers, Kreis Gelnhausen**.
+- He was the son of the **late** Conrad Höhn, last living at Königstein, and his **late** wife Elisabeth née Götz, **last living at Wächtersbach**.
+- He married Catharina Ernst of Rödelheim.
+
+### 12d. Also found, not a direct ancestor
+**Georg Höhn**, son of Jakob and Katharine, died at Königstein on 16 Sep 1880, aged about 1 (Standesamt Königstein 1880 no. 42, Ancestry 61119/1978001; index only). He was a child of Jacob's first marriage, to Katharina Motzer.
+
+### 12e. Searched without result
+- **Elisabetha (Götz) Höhn's death.** I searched the Hesse death index under Höhn, Hoehn, Hohn and Götz for 1874–1895 and didn't find it.
+  - One near miss is ruled out: Elisabethe Höhn née **Hilcher**, who died at Wächtersbach on 5 Nov 1880 (no. 28). Her husband was a different Konrad Höhn, a carter at Wächtersbach, who reported the death himself. I read the image.
+- **Wächtersbach church books.** FamilySearch's catalog has only civil registration for Wächtersbach, so the baptism and marriage registers for Conrad and Elisabetha (c.1815–1850) are on Archion only.
+  - FamilySearch's "Germany, Births and Baptisms" index has a few Weilers Höhn births from 1875: children of Christoph Höhn & Maria Spielmann, Peter Höhn & Margaretha Schlüssler, and Heinrich Höhn II & Regina Müller.
+  - These are probably cousins or uncles, but they aren't linked.
+- **Margaretha Schmidt (b. 18 Nov 1856) and Adam (b. 30 Nov 1875).**
+  - Hesse births (Ancestry 61117) and FamilySearch Germany: no Adam born 30 Nov 1875 to a Margaretha Schmidt.
+  - No Schmidt birth on 18 Nov 1856 is indexed.
+  - Without a place, the Schmidt line can't be pushed further. Her Bronx death (1906) and 1896 marriage give only "Germany".

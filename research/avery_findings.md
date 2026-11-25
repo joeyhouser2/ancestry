@@ -34,6 +34,18 @@ Strong, but indirect. No single record names Emily and John Avery together. Thes
 - The 1884 NYC marriage attached to Emily in that tree is a different woman: Emily Kate Carter, born in England, daughter of Charles Carter and Caroline Robbins, who married Warren E. Smith.
 - A FamilySearch search for Emily Carter born 1843–47 in New York, with father Charles, finds only the Marathon (Cortland Co.) family, which was already ruled out. A New York City Emily Carter with father Charles hasn't been found in 1850, 1855 or 1860 yet.
 
+## Emily (Carter) Parsons's second family, 25 Nov 2026
+- **Daniel Parsons:** labourer, born about 1851–52 in Columbia County, NY (child's NYC birth certificate 260328; Ancestry 61779/17526586). The family attended St Mary's Episcopal, Manhattanville. Its registers on Ancestry (61224) record:
+  - baptism, 20 Mar 1894: Ida Augusta Parsons, born 2 Apr 1886, daughter of Daniel and Emily Louise (record 150684)
+  - burial, 14 Oct 1897: their son Daniel, aged 20 (record 152758)
+  - burial, 5 Mar 1895: infant Emily Louise Avery, probably a grandchild (record 152633)
+- **Minnie A. Parsons:** her NYC marriage index entry on FamilySearch names her parents as Daniel Parsons and Emily Carter.
+- **George, born about 1879:** listed as an Avery in 1880, but his Social Security application names his parents as Daniel Parsons and Emily L. Carter.
+- **No marriage found:** no NYC record of Emily Avery marrying Daniel Parsons is indexed, and William was alive until 1891.
+  - A possible match: a Daniel Parsons, 48, married about 1875, parents born in Ireland, boarding at 517 E 148th St, Bronx, in 1900 (Ancestry 7602/49639354). Not proven to be him.
+- **Grave:** Woodlawn, Lot A, Range 153, Grave 34 (Find a Grave 293293796). A single grave, not a family lot.
+- **Emily's parents are still unknown.** I found no NY household with an Emily Carter aged about 5 and a father named Charles in 1850, 1855, 1860 or 1865. Her mother isn't named on any record found so far. The best remaining hope is the Avery pension file, which may give her marriage to William, perhaps with witnesses or her parents' names.
+
 ## Second pass, 25 Nov 2026: nothing new
 - **1860 census (Ancestry 7667):** no household of John and Marietta Avery anywhere in New York. No William or Harriet Avery of the right age in Westchester. The only near match is "Wm Avery", 16, born NY, alone on **Randall's Island** in Manhattan (record 47145182; dwelling 54, family 59). In 1860 the island held the House of Refuge and city institutions. Nothing ties this boy to our William, so treat it as an unconfirmed lead only.
 - **John Avery's death:** no match in Find a Grave (60525), the Connecticut Barbour marriages (1062) or Ancestry's general search.

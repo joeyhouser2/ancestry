@@ -227,3 +227,20 @@ Ancestry 61118/682425, Standesamt Frankfurt am Main 1898 no. 208, 8 Oct 1898.
   - Conrad Schmidt and Katharina Müller's marriage, probably 1850s
   - possibly Adam's baptism (30 Nov 1875), and Margaretha's first marriage
 - **Archion** may also have the original Oberkalbach books (Landeskirche Kurhessen-Waldeck).
+
+## 14. Second pass on Conrad's parents and Elisabetha Götz (25 Nov 2026): no breakthrough
+- **Margaretha's maiden name, re-read.** Conrad's 1885 death entry (Königstein 1885 no. 18) re-read at high zoom: "Sohn des verstorbenen Johann Höhn und dessen verstorbenen Ehefrau Margaretha geborene **Völker** zu Weilers". "Völker" is the most likely reading, but the first letter could be V or F.
+  - Ancestry's Hesse indexes (births, marriages and deaths, first 150 results each) show **no Völker** in the Wächtersbach or Gelnhausen area, so treat the reading as uncertain.
+- **Johann and Margaretha Höhn's deaths.** No Johann or Johannes Höhn, and no Margaretha Höhn, born before 1830 died 1874–1890 at Wächtersbach, Weilers, Königstein or Schneidhain (Hesse deaths, 61119).
+  - Both were "late" (*verstorben*) by 1885, so they probably died before civil registration (1874). That is church-book territory.
+- **Possible siblings of Conrad.** I searched the Hesse death and marriage indexes for Höhns with parents Johann(es) & Margaretha, born about 1810–1830, and found none from the Wächtersbach area.
+  - Ruled out by image: Dorothea Höhn (d. 26 Oct 1893 Spielberg, no. 39) was née **Kraus**, wife of another Johannes Höhn.
+- **Elisabetha Götz's death:** still not found.
+  - A near miss: **Marie Götz**, day labourer, *unmarried*, 57 y 3 m 25 d. She died 24 Jun 1882 at Wächtersbach, house no. 30 (Wächtersbach 1882 no. 25, Ancestry 61119/455194428; image read). She was the daughter of the late farmer (*Landwirth*) **Christoph Götz** and the late **Helene née Ebert** of Wächtersbach, and her daughter Mathilde Götz, a seamstress, reported the death.
+  - She isn't Elisabetha, but she could be her sister. Elisabetha was "last living at Wächtersbach" (1898 record). The link is not proven.
+  - Elisabetha appears alive in 1881 (her daughter's marriage doesn't call her late) and dead by May 1885. If she died at Wächtersbach in 1881–85, the Wächtersbach civil index should have her. She may be indexed under a garbled name.
+- **FamilySearch catalog, Wächtersbach:** only civil registers (1874+) and a Deubert family history. There is no parish-register film or transcript like Oberkalbach's.
+  - The Wächtersbach Protestant church books (baptisms of Conrad, about Nov 1818, and of Elisabetha, about 1825–30; Conrad and Elisabetha's marriage, about 1849–50) are on **Archion** only.
+- **What it would take:**
+  - an Archion month pass (Evangelische Kirche von Kurhessen-Waldeck, Kirchenkreis Gelnhausen, Wächtersbach parish)
+  - or a letter to the Wächtersbach Protestant parish office or the Landeskirchliches Archiv Kassel

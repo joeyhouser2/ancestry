@@ -194,3 +194,36 @@ Ancestry 61118/682425, Standesamt Frankfurt am Main 1898 no. 208, 8 Oct 1898.
   - Hesse births (Ancestry 61117) and FamilySearch Germany: no Adam born 30 Nov 1875 to a Margaretha Schmidt.
   - No Schmidt birth on 18 Nov 1856 is indexed.
   - Without a place, the Schmidt line can't be pushed further. Her Bronx death (1906) and 1896 marriage give only "Germany".
+
+## 13. Margaretha Schmidt's home town: Oberkalbach (found 25 Nov 2026)
+
+### 13a. Her sister Louise's marriage, Manhattan, 13 Mar 1886 (image read)
+"Certificate and Record of Marriage", no. 66923 (1886), Manhattan; NYC Municipal Archives (https://a860-historicalvitalrecords.nyc.gov/view/11790568), image M-M-1886-0066923. Found by a FamilySearch search on the parents' names (1:1:24S1-2MZ).
+- **Groom:** Andreas Haas, brewer, 344 E. 55th St., 27, born "Ledendorf"(?), Germany, son of Johann Haas and Barbara Hübner.
+- **Bride:** Louise Schmid(t), 344 E. 55th St., 22, born **Oberkalbach, Germany**, father **Conrad Schmidt**, mother **Catharina geb. Müller**. First marriage.
+- **Witnesses:** **Jakob Hoehn** and **Margaretha Hoehn**.
+- **Officiant:** G. Hausser, clergyman, 310 E. 55th St. This is the same East 55th Street German Protestant church whose pastor, C. F. Grimm (320 E. 55th St.), married Jakob and Margaretha in 1896.
+- **What it shows:** Louise has the same parents as Margaretha (Conrad Schmidt and Katharina Müller). The Höhns were her witnesses. So Louise is Margaretha's sister, and **the family came from Oberkalbach**.
+  - Oberkalbach was then in Kreis Schlüchtern, Hesse-Nassau (Prussia). It is now part of Kalbach, Landkreis Fulda.
+  - It was a Protestant parish, formerly in the Hanau territory, about 25 km north-east of Jacob's Weilers.
+  - Margaretha's own birthplace is inferred, not stated: her records say only "Germany".
+
+### 13b. Oberkalbach civil deaths (Ancestry 61119, Standesamt Oberkalbach, indexed from 1875)
+- **Konrad Schmidt** died 7 Feb 1895, aged 73 (born about 1822).
+  - He was a Protestant, born at Oberkalbach, living at Oberkalbach no. 75(?). He was the son of the day labourer **Johannes Schmidt** and **Katharina geb. Lange** (no. 5/1895, record 4087155; image read).
+  - The spouse line is struck through. He could be our Conrad as a widower, or a different, unmarried man. **Not proven.**
+- **No adult Katharina Schmidt** died at Oberkalbach in the indexed years. The index lists married women under their married surname:
+  - The Katharina Müller who died in 1891 (4087070) was née **Zinkhahn**, wife of Johann Heinrich Müller of Heubach (image read).
+  - So the Müller entries are other women.
+- The Oberkalbach office has **no births indexed** in Ancestry 61117, and no Schmidt marriages turned up in 61118.
+
+### 13c. Next source
+- **Oberkalbach parish register transcriptions, 1653–1900** (*Kirchenbuch Auszüge*; baptisms, marriages for Oberkalbach, Heubach and Uttrichshausen, and burials).
+  - FamilySearch film **1183734** (items 1–4), DGS **7964159**, catalog 721451.
+  - The images are **locked**: they can be viewed only at a FamilySearch Center or affiliate library.
+- **They should give:**
+  - Margaretha's baptism (18 Nov 1856)
+  - Louise's baptism (about 1864)
+  - Conrad Schmidt and Katharina Müller's marriage, probably 1850s
+  - possibly Adam's baptism (30 Nov 1875), and Margaretha's first marriage
+- **Archion** may also have the original Oberkalbach books (Landeskirche Kurhessen-Waldeck).

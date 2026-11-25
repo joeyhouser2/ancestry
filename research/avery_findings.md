@@ -34,6 +34,14 @@ Strong, but indirect. No single record names Emily and John Avery together. Thes
 - The 1884 NYC marriage attached to Emily in that tree is a different woman: Emily Kate Carter, born in England, daughter of Charles Carter and Caroline Robbins, who married Warren E. Smith.
 - A FamilySearch search for Emily Carter born 1843–47 in New York, with father Charles, finds only the Marathon (Cortland Co.) family, which was already ruled out. A New York City Emily Carter with father Charles hasn't been found in 1850, 1855 or 1860 yet.
 
+## Second pass, 25 Nov 2026: nothing new
+- **1860 census (Ancestry 7667):** no household of John and Marietta Avery anywhere in New York. No William or Harriet Avery of the right age in Westchester. The only near match is "Wm Avery", 16, born NY, alone on **Randall's Island** in Manhattan (record 47145182; dwelling 54, family 59). In 1860 the island held the House of Refuge and city institutions. Nothing ties this boy to our William, so treat it as an unconfirmed lead only.
+- **John Avery's death:** no match in Find a Grave (60525), the Connecticut Barbour marriages (1062) or Ancestry's general search.
+- **Elijah P. Abbott:** not in Connecticut probate (9049), the 1820, 1830 or 1850 censuses, the Barbour marriages, or Find a Grave. The Barbour index does show older Abbott–Benedict marriages at Danbury: Samuel Abbott & Rebeckah Benedict in 1755, and Asenath Abbot & Ebenezer Benedict in 1783. The two families had already intermarried, but neither couple can be Marietta's parents.
+- **Published genealogies:** I searched the full text of *The Groton Avery Clan* (1912 and 1926), the Avery–Fairchild genealogy and Bailey's *History of Danbury* (1896). None has a Marietta Abbott, an Elijah Abbott or a Yonkers John Avery. John Avery isn't in the Groton line as printed.
+- **Emily Carter:** no New York household with a father named Charles in 1850 or 1860. One Brooklyn servant, Emily Carter, 18, appears in 1860, alone and with no family to identify her.
+- **FamilySearch** was signed out this time, so its 1855 New York state census and its NYC death indexes weren't searched again.
+
 ## Next steps
 1. Order William E. Avery's Civil War pension file from NARA. It would settle the identification and may give his marriage to Emily.
 2. Look for John Avery's death (Yonkers or NYC, 1850–1875) and the 1860 Yonkers census.
